@@ -1,0 +1,54 @@
+{
+  "homepage.startLearning": {
+    "message": "Start Learning Display Knowledge 📚",
+    "description": "Button text on homepage"
+  },
+  "homepage.features.systematic.description": {
+    "message": "From basic concepts to advanced technology, a progressive knowledge system. Understand technical principles, not just simple parameter comparisons. Develop independent thinking and judgment skills.",
+    "description": "Description for systematic learning feature"
+  },
+  "homepage.features.neutral.description": {
+    "message": "Not biased toward any brand, only focus on technology itself. Objectively analyze the advantages, disadvantages, and applicable scenarios of each technology. Avoid marketing-oriented misleading information.",
+    "description": "Description for technologically neutral feature"
+  },
+  "homepage.features.practical.description": {
+    "message": "Theory combined with actual use cases, providing specific purchasing advice. For different needs and budgets, provide the most suitable solutions. Long-term effective knowledge that won't become outdated due to product updates.",
+    "description": "Description for practical orientation feature"
+  },
+  "navbar.guide": {
+    "message": "Guide",
+    "description": "Navbar item label"
+  },
+  "navbar.blog": {
+    "message": "Blog",
+    "description": "Navbar item label"
+  },
+  "footer.quickStart": {
+    "message": "Quick Start",
+    "description": "Footer section title"
+  },
+  "footer.chooseByUseCase": {
+    "message": "Choose by Use Case",
+    "description": "Footer link label"
+  },
+  "footer.coreKnowledge": {
+    "message": "Core Knowledge",
+    "description": "Footer section title"
+  },
+  "footer.fundamentals": {
+    "message": "Fundamentals",
+    "description": "Footer link label"
+  },
+  "footer.advanced": {
+    "message": "Advanced",
+    "description": "Footer link label"
+  },
+  "footer.more": {
+    "message": "More",
+    "description": "Footer section title"
+  },
+  "footer.aboutThisSite": {
+    "message": "About This Site",
+    "description": "Footer link label"
+  }
+} 

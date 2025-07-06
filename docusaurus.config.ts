@@ -5,8 +5,8 @@ import type * as Preset from '@docusaurus/preset-classic';
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 const config: Config = {
-  title: '显示器选购指南',
-  tagline: '理解技术，做出明智选择',
+  title: 'Display Guide',
+  tagline: 'Understand technology, make informed choices',
   favicon: 'img/favicon.ico',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
@@ -28,12 +28,18 @@ const config: Config = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
 
-  // Even if you don't use internationalization, you can use this field to set
-  // useful metadata like html lang. For example, if your site is Chinese, you
-  // may want to replace "en" with "zh-Hans".
+  // Internationalization configuration
   i18n: {
-    defaultLocale: 'zh-Hans',
-    locales: ['zh-Hans'],
+    defaultLocale: 'en',
+    locales: ['en', 'zh-Hans'],
+    localeConfigs: {
+      en: {
+        htmlLang: 'en',
+      },
+      'zh-Hans': {
+        htmlLang: 'zh-Hans',
+      },
+    },
   },
 
   presets: [
@@ -73,9 +79,9 @@ const config: Config = {
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
-      title: '显示器选购指南',
+      title: 'Display Guide',
       logo: {
-        alt: '显示器选购指南 Logo',
+        alt: 'Display Guide Logo',
         src: 'img/logo.svg',
       },
       items: [
@@ -83,12 +89,16 @@ const config: Config = {
           type: 'docSidebar',
           sidebarId: 'tutorialSidebar',
           position: 'left',
-          label: '知识指南',
+          label: 'Guide',
         },
-        {to: '/blog', label: '博客', position: 'left'},
+        {to: '/blog', label: 'Blog', position: 'left'},
         {
           href: 'https://github.com/display-guide/display-guide',
           label: 'GitHub',
+          position: 'right',
+        },
+        {
+          type: 'localeDropdown',
           position: 'right',
         },
       ],
@@ -97,36 +107,32 @@ const config: Config = {
       style: 'dark',
       links: [
         {
-          title: '快速开始',
+          title: 'Quick Start',
           items: [
             {
-              label: '按使用场景选择',
+              label: 'Choose by Use Case',
               to: '/docs/quick-guide/by-use-case',
-            },
-            {
-              label: '按预算选择',
-              to: '/docs/quick-guide/by-budget',
             },
           ],
         },
         {
-          title: '核心知识',
+          title: 'Core Knowledge',
           items: [
             {
-              label: '基础知识',
+              label: 'Fundamentals',
               to: '/docs/fundamentals/size-and-resolution',
             },
             {
-              label: '进阶知识',
+              label: 'Advanced',
               to: '/docs/advanced/sync-technologies',
             },
           ],
         },
         {
-          title: '更多',
+          title: 'More',
           items: [
             {
-              label: '关于本站',
+              label: 'About This Site',
               to: '/docs/about/why-this-site',
             },
             {
@@ -136,7 +142,7 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} 显示器选购指南. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Display Guide. Built with Docusaurus.`,
     },
     prism: {
       theme: prismThemes.github,

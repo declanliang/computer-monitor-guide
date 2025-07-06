@@ -1,0 +1,54 @@
+{
+  "homepage.startLearning": {
+    "message": "开始学习显示器知识 📚",
+    "description": "Button text on homepage"
+  },
+  "homepage.features.systematic.description": {
+    "message": "从基础概念到进阶技术，循序渐进的知识体系。理解技术原理，而不是简单的参数对比。培养独立思考和判断能力。",
+    "description": "Description for systematic learning feature"
+  },
+  "homepage.features.neutral.description": {
+    "message": "不偏向任何品牌，只专注技术本身。客观分析每种技术的优劣势和适用场景。避免营销导向的误导信息。",
+    "description": "Description for technologically neutral feature"
+  },
+  "homepage.features.practical.description": {
+    "message": "理论结合实际使用场景，提供具体的选购建议。针对不同需求和预算，给出最适合的方案。长期有效的知识，不会因产品更新而过时。",
+    "description": "Description for practical orientation feature"
+  },
+  "navbar.guide": {
+    "message": "知识指南",
+    "description": "Navbar item label"
+  },
+  "navbar.blog": {
+    "message": "博客",
+    "description": "Navbar item label"
+  },
+  "footer.quickStart": {
+    "message": "快速开始",
+    "description": "Footer section title"
+  },
+  "footer.chooseByUseCase": {
+    "message": "按使用场景选择",
+    "description": "Footer link label"
+  },
+  "footer.coreKnowledge": {
+    "message": "核心知识",
+    "description": "Footer section title"
+  },
+  "footer.fundamentals": {
+    "message": "基础知识",
+    "description": "Footer link label"
+  },
+  "footer.advanced": {
+    "message": "进阶知识",
+    "description": "Footer link label"
+  },
+  "footer.more": {
+    "message": "更多",
+    "description": "Footer section title"
+  },
+  "footer.aboutThisSite": {
+    "message": "关于本站",
+    "description": "Footer link label"
+  }
+} 

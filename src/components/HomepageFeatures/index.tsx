@@ -1,6 +1,7 @@
 import type {ReactNode} from 'react';
 import clsx from 'clsx';
 import Heading from '@theme/Heading';
+import Translate from '@docusaurus/Translate';
 import styles from './styles.module.css';
 
 type FeatureItem = {
@@ -11,35 +12,41 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: '系统性学习',
+    title: 'Systematic Learning',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        从基础概念到进阶技术，循序渐进的知识体系。
-        理解技术原理，而不是简单的参数对比。
-        培养独立思考和判断能力。
+        <Translate id="homepage.features.systematic.description">
+          From basic concepts to advanced technology, a progressive knowledge system.
+          Understand technical principles, not just simple parameter comparisons.
+          Develop independent thinking and judgment skills.
+        </Translate>
       </>
     ),
   },
   {
-    title: '技术中立',
+    title: 'Technologically Neutral',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        不偏向任何品牌，只专注技术本身。
-        客观分析每种技术的优劣势和适用场景。
-        避免营销导向的误导信息。
+        <Translate id="homepage.features.neutral.description">
+          Not biased toward any brand, only focus on technology itself.
+          Objectively analyze the advantages, disadvantages, and applicable scenarios of each technology.
+          Avoid marketing-oriented misleading information.
+        </Translate>
       </>
     ),
   },
   {
-    title: '实用导向',
+    title: 'Practical Orientation',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        理论结合实际使用场景，提供具体的选购建议。
-        针对不同需求和预算，给出最适合的方案。
-        长期有效的知识，不会因产品更新而过时。
+        <Translate id="homepage.features.practical.description">
+          Theory combined with actual use cases, providing specific purchasing advice.
+          For different needs and budgets, provide the most suitable solutions.
+          Long-term effective knowledge that won't become outdated due to product updates.
+        </Translate>
       </>
     ),
   },
