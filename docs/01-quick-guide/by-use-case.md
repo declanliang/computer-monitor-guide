@@ -1,10 +1,10 @@
 ---
 sidebar_position: 1
 title: Choose by Use Case
-description: Quickly filter display types based on your primary usage
+description: Quickly filter monitor types based on your primary usage
 ---
 
-# Choose Display by Use Case
+# Choose Computer Monitor by Use Case
 
 ## 🖥️ Daily Office & Study
 
@@ -64,7 +64,7 @@ description: Quickly filter display types based on your primary usage
 
 ### Why Choose This?
 - **High Resolution:** Shows more details, reduces zoom operations
-- **Wide Color Gamut:** Displays richer colors, closer to print effects
+- **Wide Color Gamut:** Shows richer colors, closer to print effects
 - **Color Accuracy:** Ensures authenticity of design work colors
 
 ---

@@ -1,210 +1,210 @@
 ---
 sidebar_position: 4
-title: 人体工程学
-description: 了解显示器的舒适使用设置和健康注意事项
+title: Ergonomics
+description: Understanding comfortable monitor usage settings and health considerations
 ---
 
-# 人体工程学设置指南
+# Ergonomics Setup Guide
 
-## 👀 视角与距离
+## 👀 Viewing Angle and Distance
 
-### 最佳观看距离
-**计算公式：** 观看距离 = 屏幕对角线长度 × 1.5 - 2.5
+### Optimal Viewing Distance
+**Calculation Formula:** Viewing Distance = Screen Diagonal Length × 1.5 - 2.5
 
-#### 不同尺寸推荐距离：
-- **21.5英寸：** 50-65cm
-- **24英寸：** 60-75cm  
-- **27英寸：** 70-85cm
-- **32英寸：** 80-100cm
-- **34英寸超宽：** 85-105cm
+#### Recommended Distances for Different Sizes:
+- **21.5 inches:** 50-65cm
+- **24 inches:** 60-75cm
+- **27 inches:** 70-85cm
+- **32 inches:** 80-100cm
+- **34 inches ultrawide:** 85-105cm
 
-### 视角考虑
-- **水平视角：** 不超过30度
-- **垂直视角：** 屏幕顶部应低于眼睛水平线
-- **颈部角度：** 保持自然前倾10-20度
-
----
-
-## 🪑 高度与角度调节
-
-### 屏幕高度设置
-**标准原则：** 屏幕顶边应与眼睛水平或略低
-
-#### 具体调节方法：
-1. **坐直看向正前方**
-2. **眼睛水平线应在屏幕上1/3处**
-3. **屏幕略微后倾5-15度**
-
-### 支架功能重要性
-- **高度调节：** 适应不同身高
-- **俯仰调节：** 减少颈部疲劳
-- **左右旋转：** 多显示器设置
-- **前后深度：** 调整观看距离
+### Viewing Angle Considerations
+- **Horizontal Angle:** No more than 30 degrees
+- **Vertical Angle:** Screen top should be below eye level
+- **Neck Angle:** Maintain natural forward tilt of 10-20 degrees
 
 ---
 
-## 💡 照明环境设置
+## 🪑 Height and Angle Adjustment
 
-### 环境光控制
-**目标：** 避免眩光和反射
+### Screen Height Setting
+**Standard Principle:** Screen top edge should be at or slightly below eye level
 
-#### 理想照明条件：
-- **背景亮度：** 屏幕亮度的1/3
-- **避免背光：** 窗户不应在屏幕后方
-- **侧面照明：** 光源应在侧面或上方
-- **均匀照明：** 避免明暗对比强烈
+#### Specific Adjustment Methods:
+1. **Sit straight looking forward**
+2. **Eye level should be at 1/3 of screen height**
+3. **Screen slightly tilted back 5-15 degrees**
 
-### 防眩光措施
-1. **调整屏幕角度：** 避免反射光源
-2. **使用窗帘：** 控制自然光线
-3. **选择防眩光屏幕：** 雾面屏或防眩光涂层
-4. **环境照明：** 偏光灯或柔光灯
-
----
-
-## ⏰ 使用时间与休息
-
-### 20-20-20法则
-**每20分钟，看20英尺(6米)外的物体，持续20秒**
-
-### 建议使用模式
-- **连续使用：** 不超过2小时
-- **短休息：** 每30分钟休息5分钟
-- **长休息：** 每2小时休息15分钟
-- **眼部运动：** 定期眨眼和转动眼球
+### Stand Function Importance
+- **Height Adjustment:** Adapt to different heights
+- **Tilt Adjustment:** Reduce neck fatigue
+- **Swivel:** Multi-monitor setup
+- **Depth Adjustment:** Adjust viewing distance
 
 ---
 
-## 🖱️ 多显示器设置
+## 💡 Lighting Environment Setup
 
-### 双显示器布局
-**主次分明：** 主显示器直接面向用户
+### Ambient Light Control
+**Goal:** Avoid glare and reflection
 
-#### 推荐配置：
-- **主显示器：** 27英寸，正面位置
-- **副显示器：** 24英寸，侧面15-30度角
-- **高度一致：** 两屏顶边对齐
-- **距离匹配：** 保持相同观看距离
+#### Ideal Lighting Conditions:
+- **Background Brightness:** 1/3 of screen brightness
+- **Avoid Backlighting:** Windows should not be behind screen
+- **Side Lighting:** Light source should be on sides or above
+- **Even Lighting:** Avoid strong light-dark contrast
 
-### 三显示器设置
-- **中央主屏：** 主要工作内容
-- **左右副屏：** 参考信息和工具
-- **轻微弧形：** 整体呈浅弧形排列
-
----
-
-## 💺 工作站整体设计
-
-### 桌面高度
-**标准：** 肘部自然下垂时的高度
-
-#### 调节要点：
-- **上臂垂直：** 自然下垂状态
-- **前臂水平：** 与桌面平行
-- **手腕中性：** 不向上或向下弯曲
-
-### 椅子选择
-- **高度可调：** 适配桌面高度
-- **腰部支撑：** 支撑下背部曲线
-- **可旋转：** 方便多屏切换
-- **扶手调节：** 支撑前臂重量
+### Anti-glare Measures
+1. **Adjust Screen Angle:** Avoid reflecting light sources
+2. **Use Curtains:** Control natural light
+3. **Choose Anti-glare Screen:** Matte screen or anti-glare coating
+4. **Ambient Lighting:** Bias lighting or soft lights
 
 ---
 
-## 📱 特殊需求考虑
+## ⏰ Usage Time and Rest
 
-### 老年用户
-- **更大字体：** 125%-150%缩放
-- **高对比度：** 清晰的黑白对比
-- **充足照明：** 更亮的环境光
-- **简化布局：** 减少视觉复杂度
+### 20-20-20 Rule
+**Every 20 minutes, look at objects 20 feet (6 meters) away for 20 seconds**
 
-### 视力问题用户
-- **近视：** 适当增加观看距离
-- **远视：** 略微减少观看距离
-- **散光：** 选择高分辨率显示器
-- **色盲：** 调整色彩设置
-
-### 长时间工作
-- **程序员：** 大屏幕，减少滚动
-- **设计师：** 色彩准确，护眼设置
-- **游戏玩家：** 低延迟，舒适位置
-- **办公人员：** 防眩光，标准距离
+### Recommended Usage Pattern
+- **Continuous Use:** No more than 2 hours
+- **Short Breaks:** 5-minute break every 30 minutes
+- **Long Breaks:** 15-minute break every 2 hours
+- **Eye Exercises:** Regular blinking and eye movement
 
 ---
 
-## 🔧 显示器健康设置
+## 🖱️ Multi-monitor Setup
 
-### 亮度调节
-**目标：** 与环境亮度匹配
+### Dual Monitor Layout
+**Primary-Secondary Distinction:** Main monitor directly facing user
 
-#### 调节方法：
-1. **白纸测试：** 白纸与白色背景亮度相近
-2. **环境适应：** 根据环境光变化调整
-3. **自动调节：** 使用环境光传感器
+#### Recommended Configuration:
+- **Main Monitor:** 27 inches, front position
+- **Secondary Monitor:** 24 inches, 15-30 degree side angle
+- **Height Alignment:** Align top edges of both screens
+- **Distance Matching:** Maintain same viewing distance
 
-### 蓝光过滤
-- **夜间模式：** 减少蓝光输出
-- **定时调节：** 根据时间自动调整
-- **护眼软件：** f.lux, Night Light
-- **硬件滤蓝光：** 部分显示器内置功能
-
-### 刷新率与闪烁
-- **避免低刷新率：** 至少60Hz
-- **DC调光优先：** 减少频闪
-- **PWM调光：** 高频PWM减少闪烁
+### Triple Display Setup
+- **Center Main Screen:** Primary work content
+- **Left-Right Secondary Screens:** Reference information and tools
+- **Slight Curve:** Overall shallow curved arrangement
 
 ---
 
-## ⚠️ 健康警示
+## 💺 Overall Workstation Design
 
-### 眼部疲劳症状
-- **干眼症：** 眨眼减少导致
-- **视力模糊：** 长时间聚焦导致
-- **眼部疼痛：** 过度用眼导致
-- **头痛：** 不当姿势或眩光导致
+### Desk Height
+**Standard:** Height when elbows naturally hang down
 
-### 颈椎问题
-- **颈部僵硬：** 长时间固定姿势
-- **肩膀酸痛：** 屏幕位置不当
-- **后背疼痛：** 坐姿不正确
+#### Adjustment Points:
+- **Upper Arms Vertical:** Natural hanging state
+- **Forearms Horizontal:** Parallel to desk surface
+- **Wrists Neutral:** Not bent up or down
 
-### 预防措施
-- **定期检查：** 眼科检查
-- **合理休息：** 不要连续长时间使用
-- **运动锻炼：** 颈部和眼部运动
-- **环境改善：** 优化工作环境
+### Chair Selection
+- **Height Adjustable:** Adapt to desk height
+- **Lumbar Support:** Support lower back curve
+- **Swivel:** Convenient for multi-screen switching
+- **Armrest Adjustment:** Support forearm weight
 
 ---
 
-## 🛠️ 调节工具和方法
+## 📱 Special Needs Considerations
 
-### 软件工具
-- **Windows显示设置：** 缩放、分辨率
-- **f.lux：** 自动色温调节
-- **Iris：** 专业护眼软件
-- **显卡控制面板：** 色彩和显示调节
+### Elderly Users
+- **Larger Fonts:** 125%-150% scaling
+- **High Contrast:** Clear black-white contrast
+- **Adequate Lighting:** Brighter ambient light
+- **Simplified Layout:** Reduce visual complexity
 
-### 硬件工具
-- **显示器支架：** 多轴调节功能
-- **键盘托盘：** 调整输入设备高度
-- **脚踏：** 调节坐姿和血液循环
-- **环境光灯：** 减少屏幕反射
+### Users with Vision Issues
+- **Nearsighted:** Appropriately increase viewing distance
+- **Farsighted:** Slightly reduce viewing distance
+- **Astigmatism:** Choose high-resolution monitors
+- **Color Blind:** Adjust color settings
+
+### Long-term Work
+- **Programmers:** Large screen, reduce scrolling
+- **Designers:** Color accurate, eye protection settings
+- **Gamers:** Low latency, comfortable position
+- **Office Workers:** Anti-glare, standard distance
 
 ---
 
-## 💡 最佳实践总结
+## 🔧 Monitor Health Settings
 
-### 日常使用
-1. **调整到舒适位置**
-2. **定期休息眼睛**
-3. **保持正确坐姿**
-4. **控制环境照明**
+### Brightness Adjustment
+**Goal:** Match environmental brightness
 
-### 长期健康
-1. **定期眼科检查**
-2. **注意使用时间**
-3. **维护良好姿势**
-4. **适当运动锻炼**
+#### Adjustment Methods:
+1. **White Paper Test:** White paper brightness similar to white background
+2. **Environment Adaptation:** Adjust based on ambient light changes
+3. **Auto Adjustment:** Use ambient light sensors
 
-**相关推荐：** 返回 [显示器选购指南首页](/) 继续浏览其他内容 
+### Blue Light Filtering
+- **Night Mode:** Reduce blue light output
+- **Timed Adjustment:** Auto-adjust based on time
+- **Eye Protection Software:** f.lux, Night Light
+- **Hardware Blue Light Filter:** Built-in function in some monitors
+
+### Refresh Rate and Flicker
+- **Avoid Low Refresh Rate:** At least 60Hz
+- **DC Dimming Preferred:** Reduce flicker
+- **PWM Dimming:** High-frequency PWM reduces flicker
+
+---
+
+## ⚠️ Health Warnings
+
+### Eye Fatigue Symptoms
+- **Dry Eyes:** Caused by reduced blinking
+- **Blurred Vision:** Caused by prolonged focusing
+- **Eye Pain:** Caused by overuse
+- **Headaches:** Caused by improper posture or glare
+
+### Neck Problems
+- **Neck Stiffness:** Prolonged fixed posture
+- **Shoulder Soreness:** Improper screen position
+- **Back Pain:** Incorrect sitting posture
+
+### Preventive Measures
+- **Regular Checkups:** Eye examinations
+- **Reasonable Rest:** Don't use continuously for long periods
+- **Exercise:** Neck and eye exercises
+- **Environment Improvement:** Optimize work environment
+
+---
+
+## 🛠️ Adjustment Tools and Methods
+
+### Software Tools
+- **Windows Monitor Settings:** Scaling, resolution
+- **f.lux:** Automatic color temperature adjustment
+- **Iris:** Professional eye protection software
+- **GPU Control Panel:** Color and display adjustment
+
+### Hardware Tools
+- **Monitor Stand:** Multi-axis adjustment function
+- **Keyboard Tray:** Adjust input device height
+- **Footrest:** Adjust sitting posture and blood circulation
+- **Ambient Light:** Reduce screen reflection
+
+---
+
+## 💡 Best Practices Summary
+
+### Daily Use
+1. **Adjust to comfortable position**
+2. **Take regular eye breaks**
+3. **Maintain correct sitting posture**
+4. **Control environmental lighting**
+
+### Long-term Health
+1. **Regular eye examinations**
+2. **Pay attention to usage time**
+3. **Maintain good posture**
+4. **Appropriate exercise**
+
+**Related Recommendations:** Return to [Computer Monitor Selection Guide Homepage](/) to continue browsing other content 

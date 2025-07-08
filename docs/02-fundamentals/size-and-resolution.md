@@ -1,110 +1,110 @@
 ---
 sidebar_position: 1
-title: 尺寸与分辨率
-description: 理解显示器尺寸和分辨率的关系及选择原则
+title: Size and Resolution
+description: Understanding the relationship between monitor size and resolution and selection principles
 ---
 
-# 尺寸与分辨率
+# Size and Resolution
 
-## 📏 显示器尺寸基础
+## 📏 Monitor Size Basics
 
-### 尺寸的测量方法
-显示器尺寸指的是**屏幕对角线长度**，单位是英寸 (1英寸 = 2.54厘米)。
+### How Size is Measured
+Monitor size refers to the **diagonal length of the screen**, measured in inches (1 inch = 2.54 cm).
 
-常见尺寸：
-- **21.5-24英寸：** 适合桌面深度 60-70cm
-- **27英寸：** 适合桌面深度 70-80cm  
-- **32英寸：** 需要桌面深度 80cm以上
-- **34英寸超宽：** 需要桌面深度 80cm以上
+Common sizes:
+- **21.5-24 inches:** Suitable for desk depth of 60-70cm
+- **27 inches:** Suitable for desk depth of 70-80cm
+- **32 inches:** Requires desk depth of 80cm or more
+- **34 inches ultrawide:** Requires desk depth of 80cm or more
 
-### 最佳观看距离
-根据人体工程学，**最佳观看距离 = 屏幕对角线长度 × 1.2-1.5倍**
+### Optimal Viewing Distance
+According to ergonomics, **optimal viewing distance = screen diagonal length × 1.2-1.5 times**
 
-| 屏幕尺寸 | 推荐观看距离 | 适合桌面深度 |
-|---------|-------------|-------------|
-| 24英寸   | 60-75cm     | 70cm        |
-| 27英寸   | 68-85cm     | 80cm        |
-| 32英寸   | 80-100cm    | 90cm        |
-
----
-
-## 🖼️ 分辨率详解
-
-### 常见分辨率标准
-
-| 名称 | 分辨率 | 像素总数 | 适合尺寸 |
-|------|--------|----------|----------|
-| 1080P (FHD) | 1920×1080 | 207万 | 24英寸以下 |
-| 2K (QHD) | 2560×1440 | 368万 | 27-32英寸 |
-| 4K (UHD) | 3840×2160 | 829万 | 32英寸以上 |
-
-### 分辨率的实际意义
-
-**分辨率不是越高越好**，关键是要与屏幕尺寸匹配：
-
-#### 像素密度 (PPI)
-PPI = 分辨率对角线像素数 ÷ 屏幕尺寸
-
-**最舒适的PPI范围：90-120 PPI**
-
-| 配置组合 | PPI值 | 使用体验 |
-|----------|-------|----------|
-| 24英寸 + 1080P | 92 PPI | ✅ 理想 |
-| 27英寸 + 2K | 109 PPI | ✅ 理想 |
-| 27英寸 + 1080P | 82 PPI | ❌ 颗粒感明显 |
-| 24英寸 + 4K | 184 PPI | ❌ 字体过小 |
+| Screen Size | Recommended Viewing Distance | Suitable Desk Depth |
+|-------------|------------------------------|---------------------|
+| 24 inches   | 60-75cm                      | 70cm                |
+| 27 inches   | 68-85cm                      | 80cm                |
+| 32 inches   | 80-100cm                     | 90cm                |
 
 ---
 
-## 🎯 如何选择合适的组合？
+## 🖼️ Resolution Explained
 
-### 1. 确定使用距离和桌面空间
-- 测量你的桌面深度
-- 考虑椅子到桌边的距离
-- 确定实际观看距离
+### Common Resolution Standards
 
-### 2. 选择合适尺寸
-- **60-70cm观看距离：** 24英寸
-- **70-80cm观看距离：** 27英寸
-- **80cm以上观看距离：** 32英寸
+| Name | Resolution | Total Pixels | Suitable Size |
+|------|------------|--------------|---------------|
+| 1080P (FHD) | 1920×1080 | 2.07M | Under 24 inches |
+| 2K (QHD) | 2560×1440 | 3.68M | 27-32 inches |
+| 4K (UHD) | 3840×2160 | 8.29M | 32 inches and above |
 
-### 3. 匹配分辨率
-- **24英寸：** 1080P (预算充足可选2K)
-- **27英寸：** 2K (最佳平衡点)
-- **32英寸：** 2K或4K (根据用途决定)
+### The Real Meaning of Resolution
 
----
+**Higher resolution is not always better** - the key is to match it with screen size:
 
-## 💡 常见误区
+#### Pixel Density (PPI)
+PPI = Diagonal pixel count ÷ Screen size
 
-### ❌ "分辨率越高越好"
-- **问题：** 忽略了PPI匹配
-- **后果：** 字体过小，眼睛疲劳
-- **正解：** 选择适合的PPI范围
+**Most comfortable PPI range: 90-120 PPI**
 
-### ❌ "大屏幕一定更好"
-- **问题：** 忽略了观看距离
-- **后果：** 需要转动头部，颈部疲劳
-- **正解：** 根据桌面空间选择
-
-### ❌ "1080P已经过时"
-- **问题：** 被营销话术误导
-- **实际：** 24英寸1080P仍然是最实用的选择
-- **原因：** 性能要求低，价格实惠，PPI合适
+| Configuration | PPI Value | User Experience |
+|---------------|-----------|-----------------|
+| 24" + 1080P | 92 PPI | ✅ Ideal |
+| 27" + 2K | 109 PPI | ✅ Ideal |
+| 27" + 1080P | 82 PPI | ❌ Obvious graininess |
+| 24" + 4K | 184 PPI | ❌ Font too small |
 
 ---
 
-## 🛠️ 实用建议
+## 🎯 How to Choose the Right Combination?
 
-### 购买前的检查清单：
-1. ✅ 测量桌面深度和观看距离
-2. ✅ 计算目标配置的PPI值
-3. ✅ 考虑显卡性能 (高分辨率需要更强显卡)
-4. ✅ 确认预算是否合理
+### 1. Determine Viewing Distance and Desk Space
+- Measure your desk depth
+- Consider distance from chair to desk edge
+- Determine actual viewing distance
 
-### 升级路径建议：
-- **入门：** 24英寸 1080P
-- **进阶：** 27英寸 2K  
-- **高端：** 32英寸 4K
+### 2. Choose Appropriate Size
+- **60-70cm viewing distance:** 24 inches
+- **70-80cm viewing distance:** 27 inches
+- **80cm+ viewing distance:** 32 inches
 
-**下一节：** [刷新率](./refresh-rate) - 了解为什么高刷新率对游戏很重要 
+### 3. Match Resolution
+- **24 inches:** 1080P (2K optional if budget allows)
+- **27 inches:** 2K (best balance)
+- **32 inches:** 2K or 4K (depending on usage)
+
+---
+
+## 💡 Common Misconceptions
+
+### ❌ "Higher Resolution is Always Better"
+- **Problem:** Ignores PPI matching
+- **Consequence:** Font too small, eye strain
+- **Correct Answer:** Choose appropriate PPI range
+
+### ❌ "Bigger Screen is Always Better"
+- **Problem:** Ignores viewing distance
+- **Consequence:** Need to turn head, neck fatigue
+- **Correct Answer:** Choose based on desk space
+
+### ❌ "1080P is Already Outdated"
+- **Problem:** Misled by marketing rhetoric
+- **Reality:** 24" 1080P is still the most practical choice
+- **Reason:** Low performance requirements, affordable price, suitable PPI
+
+---
+
+## 🛠️ Practical Advice
+
+### Pre-purchase Checklist:
+1. ✅ Measure desk depth and viewing distance
+2. ✅ Calculate PPI value of target configuration
+3. ✅ Consider graphics card performance (high resolution requires stronger GPU)
+4. ✅ Confirm if budget is reasonable
+
+### Upgrade Path Recommendations:
+- **Entry Level:** 24" 1080P
+- **Mid-range:** 27" 2K
+- **High-end:** 32" 4K
+
+**Next Section:** [Refresh Rate](./refresh-rate) - Understanding why high refresh rate is important for gaming 

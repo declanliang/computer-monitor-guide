@@ -1,11 +1,11 @@
 ---
 slug: first-blog-post
-title: Welcome to Display Guide
+title: Welcome to Computer Monitor Guide
 authors: [display-guide]
 tags: [welcome, display, technology]
 ---
 
-Welcome to the Display Guide blog! This is where we'll share insights, updates, and deep dives into display technology.
+Welcome to the Computer Monitor Guide blog! This is where we'll share insights, updates, and deep dives into monitor technology.
 
 <!-- truncate -->
 

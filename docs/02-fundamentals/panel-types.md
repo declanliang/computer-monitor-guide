@@ -1,212 +1,212 @@
 ---
 sidebar_position: 5
-title: 面板类型
-description: 详解IPS、VA、TN三大面板技术的特点和适用场景
+title: Panel Types
+description: Detailed explanation of IPS, VA, and TN panel technologies and their applicable scenarios
 ---
 
-# 面板类型详解
+# Panel Types Explained
 
-## 🖥️ 三大主流面板技术
+## 🖥️ Three Main Panel Technologies
 
-显示器面板技术决定了显示效果的基础特性。目前主流的三种面板技术各有特点：
+Monitor panel technology determines the basic characteristics of monitor performance. The three mainstream panel technologies each have their own features:
 
 ### IPS (In-Plane Switching)
-**技术特点：** 液晶分子在同一平面内旋转
+**Technical Feature:** Liquid crystal molecules rotate within the same plane
 
-### VA (Vertical Alignment)  
-**技术特点：** 液晶分子垂直排列
+### VA (Vertical Alignment)
+**Technical Feature:** Liquid crystal molecules are vertically aligned
 
 ### TN (Twisted Nematic)
-**技术特点：** 液晶分子扭曲排列
+**Technical Feature:** Liquid crystal molecules are twisted
 
 ---
 
-## 🎨 IPS面板详解
+## 🎨 IPS Panel Explained
 
-### 优势
-- **色彩准确：** 色彩偏移最小，适合专业工作
-- **可视角度：** 178°广视角，侧面观看不偏色
-- **色彩一致性：** 屏幕各个位置色彩表现一致
-- **响应速度：** 现代IPS响应时间已降至1ms
+### Advantages
+- **Color Accuracy:** Minimal color shift, suitable for professional work
+- **Viewing Angles:** 178° wide viewing angle, no color shift from side viewing
+- **Color Consistency:** Consistent color performance across the entire screen
+- **Response Speed:** Modern IPS response time has dropped to 1ms
 
-### 劣势
-- **对比度：** 通常1000:1，黑色不够深
-- **漏光问题：** 在全黑环境下可能有轻微漏光
-- **价格：** 相对较贵
+### Disadvantages
+- **Contrast:** Usually 1000:1, blacks not deep enough
+- **Backlight Bleeding:** May have slight light bleeding in completely dark environments
+- **Price:** Relatively expensive
 
-### 适用场景
-- ✅ **设计工作：** 色彩准确性要求高
-- ✅ **办公学习：** 长时间使用眼睛舒适
-- ✅ **多人观看：** 侧面观看效果好
-- ✅ **综合使用：** 各方面均衡
+### Suitable Scenarios
+- ✅ **Design Work:** High color accuracy requirements
+- ✅ **Office & Study:** Comfortable for long-term use
+- ✅ **Multi-person Viewing:** Good side viewing effect
+- ✅ **General Use:** Balanced in all aspects
 
-### IPS的细分类型
-- **普通IPS：** 响应时间4-5ms
-- **Fast IPS：** 响应时间1ms，适合游戏
-- **Professional IPS：** 色彩精度更高，价格更贵
-
----
-
-## 🌓 VA面板详解
-
-### 优势
-- **高对比度：** 3000:1以上，黑色深邃
-- **观影体验：** 适合暗环境观看
-- **性价比：** 大尺寸VA面板价格实惠
-- **色彩表现：** 比TN好，比IPS略差
-
-### 劣势
-- **响应时间：** 通常4-6ms，有些场景会有拖影
-- **可视角度：** 不如IPS，侧面观看会有色偏
-- **色彩一致性：** 屏幕边缘可能有轻微色偏
-
-### 适用场景
-- ✅ **影音娱乐：** 高对比度提供更好的观影体验
-- ✅ **预算有限：** 大尺寸显示器性价比高
-- ✅ **暗环境使用：** 深黑色表现出色
-- ❌ **专业设计：** 色彩准确性不如IPS
-
-### VA的特殊优势
-- **曲面适配：** VA面板更容易做成高曲率
-- **大尺寸经济：** 32英寸以上VA面板成本优势明显
+### IPS Subtypes
+- **Standard IPS:** 4-5ms response time
+- **Fast IPS:** 1ms response time, suitable for gaming
+- **Professional IPS:** Higher color precision, more expensive
 
 ---
 
-## ⚡ TN面板详解
+## 🌓 VA Panel Explained
 
-### 优势
-- **极快响应：** 0.5-1ms响应时间
-- **高刷新率：** 容易实现240Hz以上
-- **价格便宜：** 成本最低
-- **输入延迟：** 最低的显示延迟
+### Advantages
+- **High Contrast:** 3000:1+, deep blacks
+- **Movie Experience:** Suitable for dark environment viewing
+- **Cost-effectiveness:** Large VA panels are affordable
+- **Color Performance:** Better than TN, slightly worse than IPS
 
-### 劣势
-- **色彩表现：** 色彩偏移明显，不够准确
-- **可视角度：** 很小，稍微偏离正面就偏色
-- **对比度：** 最低，通常600-800:1
+### Disadvantages
+- **Response Time:** Usually 4-6ms, some ghosting in certain scenarios
+- **Viewing Angles:** Not as good as IPS, color shift when viewing from sides
+- **Color Consistency:** Slight color shift at screen edges
 
-### 适用场景
-- ✅ **竞技游戏：** 极致的响应速度
-- ✅ **预算极限：** 最便宜的选择
-- ✅ **高刷新率：** 360Hz显示器多用TN
-- ❌ **设计工作：** 色彩表现不可接受
-- ❌ **影音娱乐：** 观看体验较差
+### Suitable Scenarios
+- ✅ **Entertainment:** High contrast provides better movie experience
+- ✅ **Limited Budget:** High cost-effectiveness for large displays
+- ✅ **Dark Environment Use:** Excellent deep black performance
+- ❌ **Professional Design:** Color accuracy not as good as IPS
 
----
-
-## 📊 三大面板技术对比
-
-| 特性 | IPS | VA | TN |
-|------|-----|----|----|
-| 色彩准确性 | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐ |
-| 可视角度 | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐ |
-| 对比度 | ⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐ |
-| 响应时间 | ⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐⭐ |
-| 价格优势 | ⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ |
+### VA Special Advantages
+- **Curved Adaptation:** VA panels are easier to make with high curvature
+- **Large Size Economy:** 32" and above VA panels have obvious cost advantages
 
 ---
 
-## 🎯 如何选择面板类型？
+## ⚡ TN Panel Explained
 
-### 按用途选择
+### Advantages
+- **Extremely Fast Response:** 0.5-1ms response time
+- **High Refresh Rate:** Easy to achieve 240Hz+
+- **Low Price:** Lowest cost
+- **Input Lag:** Lowest display latency
 
-#### 设计 & 专业工作
-**首选：IPS面板**
-- 色彩准确性最重要
-- 可视角度保证多角度工作
-- 长时间使用眼睛舒适
+### Disadvantages
+- **Color Performance:** Obvious color shift, not accurate enough
+- **Viewing Angles:** Very small, color shift when slightly off-center
+- **Contrast:** Lowest, usually 600-800:1
 
-#### 竞技游戏
-**首选：TN > Fast IPS**
-- TN：极致响应速度，预算有限
-- Fast IPS：响应速度够用，色彩更好
-
-#### 影音娱乐
-**首选：VA > IPS**
-- VA：高对比度，观影体验好
-- IPS：色彩更准确，适合明亮环境
-
-#### 办公学习
-**首选：IPS**
-- 长时间使用眼睛舒适
-- 文字显示清晰
-- 多角度观看不偏色
-
-#### 综合使用
-**首选：IPS**
-- 各方面表现均衡
-- 适应性最强
-
-### 按预算选择
-
-#### 预算紧张
-- **24英寸以下：** TN面板
-- **27英寸：** 入门级VA
-- **考虑：** 优先保证尺寸和分辨率
-
-#### 预算中等
-- **首选：** IPS面板
-- **备选：** 高端VA面板
-- **平衡：** 性能和体验
-
-#### 预算充足
-- **专业IPS：** 广色域、高精度
-- **高端VA：** 大尺寸、高刷新率
-- **考虑：** 特殊功能和品质
+### Suitable Scenarios
+- ✅ **Competitive Gaming:** Ultimate response speed
+- ✅ **Extreme Budget:** Cheapest option
+- ✅ **High Refresh Rate:** Most 360Hz displays use TN
+- ❌ **Design Work:** Color performance unacceptable
+- ❌ **Entertainment:** Poor viewing experience
 
 ---
 
-## 💡 面板选择常见误区
+## 📊 Comparison of Three Panel Technologies
 
-### ❌ "IPS一定比VA好"
-**实际情况：**
-- 观影时VA的高对比度更有优势
-- 预算有限时VA性价比更高
-- 使用场景决定优先级
-
-### ❌ "TN面板已经过时"
-**实际情况：**
-- 竞技游戏仍然有其价值
-- 极限预算下的合理选择
-- 240Hz+显示器多数仍用TN
-
-### ❌ "面板类型决定一切"
-**实际情况：**
-- 具体产品的调校更重要
-- 品牌和等级差异很大
-- 要看具体参数而非只看面板类型
+| Feature | IPS | VA | TN |
+|---------|-----|----|----|
+| Color Accuracy | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐ |
+| Viewing Angles | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐ |
+| Contrast | ⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐ |
+| Response Time | ⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐⭐ |
+| Price Advantage | ⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ |
 
 ---
 
-## 🔍 购买时的实用建议
+## 🎯 How to Choose Panel Type?
 
-### 1. 优先级排序
-1. **确定主要用途**
-2. **设定预算范围**
-3. **选择合适面板类型**
-4. **比较具体产品参数**
+### Choose by Usage
 
-### 2. 实际测试要点
-- **色彩表现：** 看网页、图片是否自然
-- **可视角度：** 左右观看是否偏色
-- **响应时间：** 快速移动鼠标是否有拖影
-- **漏光情况：** 全黑画面下检查边缘
+#### Design & Professional Work
+**First Choice: IPS Panel**
+- Color accuracy is most important
+- Viewing angles ensure multi-angle work
+- Comfortable for long-term use
 
-### 3. 不要过分纠结
-- 同价位产品差异通常不大
-- 使用习惯比面板类型更重要
-- 90%的用户对面板差异感知有限
+#### Competitive Gaming
+**First Choice: TN > Fast IPS**
+- TN: Ultimate response speed, limited budget
+- Fast IPS: Sufficient response speed, better colors
 
-**下一节：** [接口类型](./interfaces) - 了解如何正确连接显示器
+#### Entertainment
+**First Choice: VA > IPS**
+- VA: High contrast, good movie experience
+- IPS: More accurate colors, suitable for bright environments
+
+#### Office & Study
+**First Choice: IPS**
+- Comfortable for long-term use
+- Clear text display
+- No color shift from multiple viewing angles
+
+#### General Use
+**First Choice: IPS**
+- Balanced performance in all aspects
+- Strongest adaptability
+
+### Choose by Budget
+
+#### Tight Budget
+- **Under 24":** TN panel
+- **27":** Entry-level VA
+- **Consider:** Prioritize size and resolution
+
+#### Medium Budget
+- **First Choice:** IPS panel
+- **Alternative:** High-end VA panel
+- **Balance:** Performance and experience
+
+#### Sufficient Budget
+- **Professional IPS:** Wide gamut, high precision
+- **High-end VA:** Large size, high refresh rate
+- **Consider:** Special features and quality
 
 ---
 
-## 📋 面板选择快速决策表
+## 💡 Common Misconceptions About Panel Selection
 
-| 主要用途 | 预算紧张 | 预算中等 | 预算充足 |
-|----------|----------|----------|----------|
-| 办公学习 | VA | IPS | 专业IPS |
-| 设计工作 | IPS | IPS | 专业IPS |
-| 竞技游戏 | TN | Fast IPS | 高端TN/IPS |
-| 影音娱乐 | VA | VA | 高端VA |
-| 综合使用 | VA | IPS | IPS | 
+### ❌ "IPS Must Be Better Than VA"
+**Reality:**
+- VA's high contrast has advantages when watching movies
+- VA has better cost-effectiveness with limited budget
+- Usage scenario determines priority
+
+### ❌ "TN Panels Are Already Outdated"
+**Reality:**
+- Still valuable for competitive gaming
+- Reasonable choice under extreme budget constraints
+- Most 240Hz+ displays still use TN
+
+### ❌ "Panel Type Determines Everything"
+**Reality:**
+- Specific product tuning is more important
+- Brand and grade differences are significant
+- Look at specific parameters rather than just panel type
+
+---
+
+## 🔍 Practical Purchase Advice
+
+### 1. Priority Order
+1. **Determine primary use**
+2. **Set budget range**
+3. **Choose appropriate panel type**
+4. **Compare specific product parameters**
+
+### 2. Key Testing Points
+- **Color Performance:** Check if web pages and images look natural
+- **Viewing Angles:** Check for color shift when viewing from sides
+- **Response Time:** Check for ghosting when moving mouse quickly
+- **Backlight Bleeding:** Check edges on completely black screen
+
+### 3. Don't Overthink
+- Differences between same-price products are usually small
+- Usage habits are more important than panel type
+- 90% of users have limited perception of panel differences
+
+**Next Section:** [Interface Types](./interfaces) - Understanding how to properly connect displays
+
+---
+
+## 📋 Quick Decision Table for Panel Selection
+
+| Primary Use | Tight Budget | Medium Budget | Sufficient Budget |
+|-------------|--------------|---------------|-------------------|
+| Office & Study | VA | IPS | Professional IPS |
+| Design Work | IPS | IPS | Professional IPS |
+| Competitive Gaming | TN | Fast IPS | High-end TN/IPS |
+| Entertainment | VA | VA | High-end VA |
+| General Use | VA | IPS | IPS | 

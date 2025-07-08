@@ -1,237 +1,237 @@
 ---
 sidebar_position: 4
-title: 色域
-description: 深入理解色域概念及其对色彩表现的影响
+title: Color Gamut
+description: Deep understanding of color gamut concepts and their impact on color performance
 ---
 
-# 色域详解
+# Color Gamut Explained
 
-## 🎨 什么是色域？
+## 🎨 What is Color Gamut?
 
-### 色域基本概念
-**色域 (Color Gamut)** = 显示设备能够显示的颜色范围
+### Basic Concept of Color Gamut
+**Color Gamut** = The range of colors a computer monitor can reproduce
 
-**比喻理解：** 如果把所有颜色比作一个调色盘，色域就是你能使用的那部分颜色。
+**Analogy:** If all colors are like a palette, color gamut is the portion of colors you can use.
 
-### 色域的意义
-- **更广色域：** 能显示更丰富、更鲜艳的颜色
-- **标准色域：** 确保色彩在不同设备间的一致性
-- **专业应用：** 印刷、摄影、设计的色彩准确性保证
+### Significance of Color Gamut
+- **Wider Gamut:** Can show richer, more vibrant colors
+- **Standard Gamut:** Ensures color consistency across different devices
+- **Professional Applications:** Guarantees color accuracy for printing, photography, and design
 
 ---
 
-## 📊 主要色域标准
+## 📊 Major Color Gamut Standards
 
-### sRGB (标准RGB)
-**覆盖范围：** 约35%的人眼可见色彩
-- **发布时间：** 1996年
-- **应用场景：** 网页、办公、基础应用
-- **特点：** 最基础、最兼容的标准
-- **普及度：** 几乎所有显示器都支持
+### sRGB (Standard RGB)
+**Coverage:** Approximately 35% of human-visible colors
+- **Release Date:** 1996
+- **Applications:** Web, office work, basic applications
+- **Characteristics:** Most basic and compatible standard
+- **Prevalence:** Supported by almost all monitors
 
 ### Adobe RGB
-**覆盖范围：** 约50%的人眼可见色彩
-- **发布时间：** 1998年
-- **应用场景：** 专业摄影、印刷预览
-- **特点：** 在绿色和青色区域扩展
-- **要求：** 专业级显示器才能完整支持
+**Coverage:** Approximately 50% of human-visible colors
+- **Release Date:** 1998
+- **Applications:** Professional photography, print preview
+- **Characteristics:** Extended in green and cyan areas
+- **Requirements:** Professional-grade monitors needed for full support
 
 ### DCI-P3
-**覆盖范围：** 约45%的人眼可见色彩  
-- **发布时间：** 2007年
-- **应用场景：** 数字电影、HDR内容
-- **特点：** 在红色区域有较大扩展
-- **趋势：** 现代显示器的主流高色域标准
+**Coverage:** Approximately 45% of human-visible colors
+- **Release Date:** 2007
+- **Applications:** Digital cinema, HDR content
+- **Characteristics:** Significant extension in red area
+- **Trend:** Mainstream high-gamut standard for modern monitors
 
 ### Rec.2020
-**覆盖范围：** 约75%的人眼可见色彩
-- **发布时间：** 2012年
-- **应用场景：** 未来8K/HDR标准
-- **特点：** 目前最广的标准色域
-- **现状：** 当前技术难以完全实现
+**Coverage:** Approximately 75% of human-visible colors
+- **Release Date:** 2012
+- **Applications:** Future 8K/HDR standards
+- **Characteristics:** Currently the widest standard gamut
+- **Current Status:** Difficult to fully achieve with current technology
 
 ---
 
-## 🔬 色域的技术实现
+## 🔬 Technical Implementation of Color Gamut
 
-### 背光技术影响
+### Impact of Backlight Technology
 
-#### 白光LED背光
-- **色域范围：** 通常72% sRGB
-- **成本：** 最低
-- **应用：** 入门级显示器
+#### White LED Backlight
+- **Gamut Range:** Typically 72% sRGB
+- **Cost:** Lowest
+- **Applications:** Entry-level monitors
 
-#### 广色域LED背光
-- **色域范围：** 90-100% sRGB, 70-80% DCI-P3
-- **技术：** 特殊荧光粉或滤光片
-- **成本：** 中等
+#### Wide Gamut LED Backlight
+- **Gamut Range:** 90-100% sRGB, 70-80% DCI-P3
+- **Technology:** Special phosphors or filters
+- **Cost:** Medium
 
-#### 量子点技术 (QLED)
-- **色域范围：** 95%+ DCI-P3
-- **原理：** 量子点材料精确控制色彩
-- **优势：** 高色域 + 高亮度
+#### Quantum Dot Technology (QLED)
+- **Gamut Range:** 95%+ DCI-P3
+- **Principle:** Quantum dot materials precisely control colors
+- **Advantages:** High gamut + high brightness
 
-#### OLED技术
-- **色域范围：** 90-100% DCI-P3
-- **原理：** 有机材料自发光
-- **特点：** 色彩纯正，对比度极高
-
----
-
-## 📈 色域覆盖率的意义
-
-### 不同覆盖率的实际效果
-
-#### 72% sRGB (入门级)
-- **表现：** 基础色彩显示
-- **适合：** 文档办公、网页浏览
-- **限制：** 颜色稍显寡淡
-
-#### 99% sRGB (标准级)
-- **表现：** 标准色彩完整显示
-- **适合：** 大部分日常应用
-- **优势：** 色彩准确，兼容性好
-
-#### 90% DCI-P3 (高色域)
-- **表现：** 鲜艳丰富的色彩
-- **适合：** HDR内容、视频编辑
-- **注意：** 需要内容支持才有效果
-
-#### 95%+ DCI-P3 (专业级)
-- **表现：** 专业级色彩表现
-- **适合：** 专业创作、影视后期
-- **要求：** 需要专业校色
+#### OLED Technology
+- **Gamut Range:** 90-100% DCI-P3
+- **Principle:** Organic materials self-illuminating
+- **Characteristics:** Pure colors, extremely high contrast
 
 ---
 
-## 🎮 不同应用对色域的需求
+## 📈 Significance of Color Gamut Coverage
 
-### 办公应用
-**推荐：** 99% sRGB
-- **需求：** 准确的文档色彩
-- **原因：** 网页和办公软件基于sRGB
-- **性价比：** 无需追求过高色域
+### Actual Effects of Different Coverage Levels
 
-### 影音娱乐
-**推荐：** 90%+ DCI-P3
-- **需求：** 丰富的影视色彩
-- **内容：** 现代影视多采用DCI-P3
-- **体验：** 更鲜艳的画面效果
+#### 72% sRGB (Entry Level)
+- **Performance:** Basic color output
+- **Suitable For:** Document work, web browsing
+- **Limitations:** Colors appear somewhat dull
 
-### 游戏应用
-**推荐：** 95% sRGB 或 80%+ DCI-P3
-- **需求：** 平衡色彩和性能
-- **考虑：** 游戏对色域要求不高
-- **重点：** 响应速度更重要
+#### 99% sRGB (Standard Level)
+- **Performance:** Complete standard color display
+- **Suitable For:** Most daily applications
+- **Advantages:** Accurate colors, good compatibility
 
-### 专业设计
-**推荐：** 99% Adobe RGB 或 95%+ DCI-P3
-- **需求：** 精确的色彩再现
-- **应用：** 摄影、设计、印刷
-- **必须：** 配合硬件校色仪
+#### 90% DCI-P3 (High Gamut)
+- **Performance:** Vibrant and rich colors
+- **Suitable For:** HDR content, video editing
+- **Note:** Requires content support to be effective
+
+#### 95%+ DCI-P3 (Professional Level)
+- **Performance:** Professional-grade color performance
+- **Suitable For:** Professional creation, video post-production
+- **Requirements:** Needs professional calibration
 
 ---
 
-## ⚠️ 广色域的注意事项
+## 🎮 Color Gamut Requirements for Different Applications
 
-### 色彩管理的重要性
-**问题：** 广色域显示器可能让sRGB内容过度饱和
+### Office Applications
+**Recommendation:** 99% sRGB
+- **Requirements:** Accurate document colors
+- **Reason:** Web and office software are based on sRGB
+- **Cost-effectiveness:** No need to pursue excessive gamut
 
-#### 解决方案：
-1. **sRGB模式：** 显示器提供sRGB限制模式
-2. **系统色彩管理：** 操作系统自动色彩转换
-3. **软件支持：** 专业软件的色彩管理功能
+### Entertainment
+**Recommendation:** 90%+ DCI-P3
+- **Requirements:** Rich video colors
+- **Content:** Modern video content mostly uses DCI-P3
+- **Experience:** More vibrant visual effects
 
-### 内容兼容性
-- **旧内容：** 大部分网页内容仍是sRGB
-- **新内容：** HDR视频、现代游戏支持广色域
-- **混合使用：** 需要在不同色域间切换
+### Gaming Applications
+**Recommendation:** 95% sRGB or 80%+ DCI-P3
+- **Requirements:** Balance between color and performance
+- **Considerations:** Games don't require high gamut
+- **Focus:** Response speed is more important
 
----
-
-## 💰 色域选择的性价比分析
-
-### 预算有限
-**推荐：** 99% sRGB
-- **理由：** 覆盖绝大部分使用场景
-- **成本：** 相对较低
-- **兼容性：** 最好
-
-### 预算中等
-**推荐：** 85% DCI-P3
-- **理由：** 兼顾现在和未来需求
-- **体验：** 明显的色彩提升
-- **实用性：** HDR内容日益增多
-
-### 预算充足
-**推荐：** 95%+ DCI-P3 或 Adobe RGB
-- **理由：** 专业级色彩体验
-- **应用：** 专业创作或高端娱乐
-- **投资：** 为长期使用考虑
+### Professional Design
+**Recommendation:** 99% Adobe RGB or 95%+ DCI-P3
+- **Requirements:** Precise color reproduction
+- **Applications:** Photography, design, printing
+- **Must Have:** Hardware calibration device
 
 ---
 
-## 🛠️ 色域测试和设置
+## ⚠️ Considerations for Wide Gamut
 
-### 简单测试方法
-1. **测试图片：** 使用标准色域测试图
-2. **对比观察：** 与已知标准显示器对比
-3. **专业软件：** 使用DisplayCAL等工具
+### Importance of Color Management
+**Problem:** Wide gamut monitors may cause sRGB content to appear oversaturated
 
-### 显示器色域设置
-1. **选择色彩模式：** sRGB/DCI-P3/Adobe RGB
-2. **调整色温：** 通常6500K为标准
-3. **伽马设置：** 2.2为标准值
-4. **专业校色：** 使用硬件校色仪
+#### Solutions:
+1. **sRGB Mode:** Monitor provides sRGB limiting mode
+2. **System Color Management:** Operating system automatic color conversion
+3. **Software Support:** Professional software color management features
 
-### 系统色彩管理
-#### Windows设置：
-- 色彩管理 → 设备 → 添加配置文件
-- 确保正确的ICC配置文件
-
-#### macOS设置：
-- 系统偏好设置 → 显示器 → 颜色
-- 自动色彩管理通常更准确
+### Content Compatibility
+- **Old Content:** Most web content is still sRGB
+- **New Content:** HDR videos, modern games support wide gamut
+- **Mixed Usage:** Need to switch between different gamuts
 
 ---
 
-## ❌ 常见误区
+## 💰 Cost-Benefit Analysis of Color Gamut Selection
 
-### "色域越大越好"
-**实际情况：**
-- 需要内容支持才有意义
-- 过大色域可能导致色彩过饱和
-- 色彩准确性比色域大小更重要
+### Limited Budget
+**Recommendation:** 99% sRGB
+- **Reason:** Covers most usage scenarios
+- **Cost:** Relatively low
+- **Compatibility:** Best
 
-### "100%覆盖就是完美"
-**实际情况：**
-- 测量误差和标准差异
-- 不同色彩空间的重点区域不同
-- 实际使用中的环境影响
+### Medium Budget
+**Recommendation:** 85% DCI-P3
+- **Reason:** Balances current and future needs
+- **Experience:** Obvious color improvement
+- **Practicality:** HDR content is increasing
 
-### "量子点=广色域"
-**实际情况：**
-- 量子点是实现手段之一
-- 实际效果取决于具体实现
-- 营销术语不等于技术优势
+### Sufficient Budget
+**Recommendation:** 95%+ DCI-P3 or Adobe RGB
+- **Reason:** Professional-grade color experience
+- **Applications:** Professional creation or high-end entertainment
+- **Investment:** Consider long-term usage
 
 ---
 
-## 🔍 未来色域发展趋势
+## 🛠️ Color Gamut Testing and Setup
 
-### 技术发展方向
-- **MicroLED：** 可能实现更大色域
-- **激光显示：** 理论上可达90%+ Rec.2020
-- **新材料：** 新型荧光材料和量子点
+### Simple Testing Methods
+1. **Test Images:** Use standard gamut test images
+2. **Comparative Observation:** Compare with known standard monitors
+3. **Professional Software:** Use tools like DisplayCAL
 
-### 标准演进
-- **HDR普及：** 推动DCI-P3成为主流
-- **8K内容：** 可能推动Rec.2020应用
-- **专业需求：** 更精确的色彩标准
+### Monitor Color Gamut Settings
+1. **Choose Color Mode:** sRGB/DCI-P3/Adobe RGB
+2. **Adjust Color Temperature:** Usually 6500K is standard
+3. **Gamma Settings:** 2.2 is the standard value
+4. **Professional Calibration:** Use hardware calibration device
 
-### 实用建议
-- **当前选择：** DCI-P3覆盖85%+为佳
-- **未来兼容：** 确保HDR支持
-- **专业用户：** 关注校色功能
+### System Color Management
+#### Windows Settings:
+- Color Management → Devices → Add Profile
+- Ensure correct ICC profile
 
-**下一节：** [面板类型](./panel-types) - 了解不同面板技术的特点 
+#### macOS Settings:
+- System Preferences → Displays → Color
+- Automatic color management is usually more accurate
+
+---
+
+## ❌ Common Misconceptions
+
+### "Bigger Gamut is Always Better"
+**Reality:**
+- Requires content support to be meaningful
+- Excessive gamut may cause oversaturation
+- Color accuracy is more important than gamut size
+
+### "100% Coverage Means Perfect"
+**Reality:**
+- Measurement errors and standard differences
+- Different color spaces focus on different areas
+- Environmental factors in actual usage
+
+### "Quantum Dot = Wide Gamut"
+**Reality:**
+- Quantum dot is one implementation method
+- Actual effect depends on specific implementation
+- Marketing terms don't equal technical advantages
+
+---
+
+## 🔍 Future Color Gamut Development Trends
+
+### Technology Development Direction
+- **MicroLED:** May achieve larger gamut
+- **Laser Display:** Theoretically can reach 90%+ Rec.2020
+- **New Materials:** New phosphor materials and quantum dots
+
+### Standard Evolution
+- **HDR Popularization:** Driving DCI-P3 to become mainstream
+- **8K Content:** May drive Rec.2020 application
+- **Professional Needs:** More precise color standards
+
+### Practical Advice
+- **Current Choice:** DCI-P3 coverage 85%+ is ideal
+- **Future Compatibility:** Ensure HDR support
+- **Professional Users:** Pay attention to calibration features
+
+**Next Section:** [Panel Types](./panel-types) - Understanding the characteristics of different panel technologies 

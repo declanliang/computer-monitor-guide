@@ -1,195 +1,195 @@
 ---
 sidebar_position: 3
-title: 响应时间
-description: 深入理解响应时间对游戏体验的影响
+title: Response Time
+description: Deep understanding of how response time affects gaming experience
 ---
 
-# 响应时间详解
+# Response Time Explained
 
-## ⏱️ 什么是响应时间？
+## ⏱️ What is Response Time?
 
-响应时间是指**液晶像素从一个颜色变化到另一个颜色所需的时间**，通常以毫秒(ms)为单位。
+Response time refers to **the time it takes for liquid crystal pixels to change from one color to another**, usually measured in milliseconds (ms).
 
-**简单理解：** 响应时间越短，画面变化越快，动态场景越清晰。
+**Simple understanding:** The shorter the response time, the faster the image changes, and the clearer dynamic scenes become.
 
-### 常见响应时间等级
-- **1ms：** 顶级游戏显示器标准
-- **4ms：** 普通IPS面板水平
-- **5-8ms：** 入门级显示器
-- **10ms以上：** 明显影响游戏体验
+### Common Response Time Levels
+- **1ms:** Top-tier gaming monitor standard
+- **4ms:** Standard IPS panel level
+- **5-8ms:** Entry-level monitors
+- **10ms+:** Obviously affects gaming experience
 
 ---
 
-## 🔬 响应时间的技术原理
+## 🔬 Technical Principles of Response Time
 
-### 测量标准
+### Measurement Standards
 
 #### GTG (Gray to Gray)
-- **定义：** 灰阶到灰阶的变化时间
-- **标准：** 目前最常用的测量方法
-- **意义：** 更接近实际使用场景
+- **Definition:** Time for gray-to-gray transition
+- **Standard:** Currently the most commonly used measurement method
+- **Significance:** Closer to actual usage scenarios
 
 #### BWB (Black to White to Black)
-- **定义：** 黑-白-黑的完整循环时间
-- **特点：** 数值通常比GTG更大
-- **应用：** 较少厂商使用
+- **Definition:** Complete black-white-black cycle time
+- **Characteristics:** Values are usually larger than GTG
+- **Application:** Less commonly used by manufacturers
 
-### 影响因素
-- **面板技术：** TN < IPS < VA
-- **液晶材料：** 不同配方影响响应速度
-- **驱动电路：** Overdrive技术的应用
-- **温度环境：** 低温会影响液晶响应
-
----
-
-## 🎮 响应时间对游戏的影响
-
-### 拖影现象 (Ghosting)
-**表现：** 快速移动的物体后面出现残影
-
-#### 严重程度分级：
-- **1-2ms：** 几乎无拖影
-- **4-5ms：** 轻微拖影，多数人不敏感
-- **8ms以上：** 明显拖影，影响游戏体验
-
-### 不同游戏类型的敏感度
-
-#### 竞技FPS游戏
-- **要求：** 1-4ms
-- **原因：** 快速瞄准和转身需要清晰画面
-- **典型游戏：** CS:GO、Valorant、Apex Legends
-
-#### MOBA游戏
-- **要求：** 4ms以下
-- **原因：** 团战时需要快速反应
-- **典型游戏：** LOL、Dota2
-
-#### 单机RPG
-- **要求：** 8ms以下即可
-- **原因：** 画面切换相对较慢
-- **典型游戏：** 巫师3、赛博朋克2077
-
-#### 策略游戏
-- **要求：** 对响应时间不敏感
-- **原因：** 画面变化缓慢
-- **典型游戏：** 文明6、全战系列
+### Influencing Factors
+- **Panel Technology:** TN < IPS < VA
+- **Liquid Crystal Material:** Different formulations affect response speed
+- **Drive Circuit:** Application of Overdrive technology
+- **Temperature Environment:** Low temperature affects liquid crystal response
 
 ---
 
-## 📊 不同面板的响应时间特性
+## 🎮 How Response Time Affects Gaming
 
-### TN面板
-- **响应时间：** 0.5-1ms
-- **优势：** 极快响应，无拖影
-- **劣势：** 色彩表现较差
-- **适合：** 竞技游戏玩家
+### Ghosting Phenomenon
+**Manifestation:** Trailing shadows behind fast-moving objects
 
-### IPS面板
-- **普通IPS：** 4-5ms
-- **Fast IPS：** 1ms
-- **优势：** 色彩准确，可视角度好
-- **劣势：** 传统IPS响应较慢
+#### Severity Levels:
+- **1-2ms:** Almost no ghosting
+- **4-5ms:** Slight ghosting, most people not sensitive
+- **8ms+:** Obvious ghosting, affects gaming experience
 
-### VA面板
-- **响应时间：** 4-6ms
-- **特点：** 某些颜色转换较慢
-- **问题：** 可能出现黑色拖影
-- **适合：** 观影娱乐
+### Sensitivity for Different Game Types
 
----
+#### Competitive FPS Games
+- **Requirement:** 1-4ms
+- **Reason:** Fast aiming and turning need clear images
+- **Typical Games:** CS:GO, Valorant, Apex Legends
 
-## 🔧 Overdrive技术详解
+#### MOBA Games
+- **Requirement:** Under 4ms
+- **Reason:** Need quick reactions during team fights
+- **Typical Games:** LOL, Dota2
 
-### 工作原理
-**目标：** 通过给像素施加额外电压加速变化
+#### Single-player RPG
+- **Requirement:** Under 8ms is sufficient
+- **Reason:** Relatively slow scene transitions
+- **Typical Games:** The Witcher 3, Cyberpunk 2077
 
-### Overdrive等级设置
-- **关闭：** 最慢响应，无副作用
-- **低档：** 轻微加速，安全设置
-- **中档：** 平衡速度和画质
-- **高档：** 最快响应，可能有副作用
-
-### 副作用：过冲 (Overshoot)
-**现象：** 像素变化过度，出现反向拖影
-**表现：** 移动物体边缘出现光晕
-**解决：** 降低Overdrive等级
+#### Strategy Games
+- **Requirement:** Not sensitive to response time
+- **Reason:** Slow image changes
+- **Typical Games:** Civilization 6, Total War series
 
 ---
 
-## 🎯 如何选择合适的响应时间？
+## 📊 Response Time Characteristics of Different Panels
 
-### 按用途选择
+### TN Panel
+- **Response Time:** 0.5-1ms
+- **Advantages:** Extremely fast response, no ghosting
+- **Disadvantages:** Poor color performance
+- **Suitable For:** Competitive gamers
 
-#### 专业电竞
-- **推荐：** 1ms TN或Fast IPS
-- **原因：** 追求极致竞技优势
-- **权衡：** 可能牺牲色彩表现
+### IPS Panel
+- **Standard IPS:** 4-5ms
+- **Fast IPS:** 1ms
+- **Advantages:** Accurate colors, good viewing angles
+- **Disadvantages:** Traditional IPS has slower response
 
-#### 休闲游戏
-- **推荐：** 4ms以下
-- **原因：** 平衡游戏体验和色彩
-- **选择：** IPS面板为主
-
-#### 办公设计
-- **推荐：** 8ms以下即可
-- **原因：** 对响应时间不敏感
-- **重点：** 色彩准确性更重要
-
-#### 影音娱乐
-- **推荐：** 5ms以下
-- **原因：** 观看动作片时减少拖影
-- **平衡：** 考虑对比度和色彩
+### VA Panel
+- **Response Time:** 4-6ms
+- **Characteristics:** Some color transitions are slower
+- **Issues:** May have black ghosting
+- **Suitable For:** Video entertainment
 
 ---
 
-## 🔍 响应时间的测试方法
+## 🔧 Overdrive Technology Explained
 
-### 专业测试设备
-- **高速摄像机：** 记录像素变化过程
-- **光度计：** 测量亮度变化时间
-- **标准：** ISO标准测试方法
+### Working Principle
+**Goal:** Accelerate transitions by applying extra voltage to pixels
 
-### 消费者测试方法
-- **UFO Test：** Blur Busters在线测试
-- **游戏测试：** 快速移动场景观察
-- **设置调节：** 调整Overdrive等级
+### Overdrive Level Settings
+- **Off:** Slowest response, no side effects
+- **Low:** Slight acceleration, safe setting
+- **Medium:** Balance between speed and image quality
+- **High:** Fastest response, may have side effects
 
----
-
-## ❌ 常见误区
-
-### "响应时间越低越好"
-- **问题：** 忽略了Overdrive副作用
-- **实际：** 过度的Overdrive会产生过冲
-- **建议：** 选择合适的平衡点
-
-### "只看厂商标称值"
-- **问题：** 测试条件可能不同
-- **实际：** 需要看实际测试结果
-- **建议：** 参考专业评测数据
-
-### "1ms一定比4ms好"
-- **问题：** 可能是不同测试标准
-- **实际：** 4ms IPS可能比1ms TN体验更好
-- **建议：** 综合考虑所有因素
+### Side Effect: Overshoot
+**Phenomenon:** Pixels change excessively, creating reverse ghosting
+**Manifestation:** Halo effect around edges of moving objects
+**Solution:** Lower Overdrive level
 
 ---
 
-## 🛠️ 优化响应时间的设置
+## 🎯 How to Choose the Right Response Time?
 
-### 显示器设置
-1. **启用游戏模式：** 减少图像处理延迟
-2. **调整Overdrive：** 找到最佳平衡点
-3. **关闭不必要特效：** 减少处理时间
+### Choose by Usage
 
-### 系统设置
-1. **独占全屏模式：** 减少系统延迟
-2. **关闭垂直同步：** 如果有同步技术
-3. **高性能电源模式：** 确保性能不被限制
+#### Professional Esports
+- **Recommendation:** 1ms TN or Fast IPS
+- **Reason:** Pursue ultimate competitive advantage
+- **Trade-off:** May sacrifice color performance
 
-### 测试验证
-1. **使用UFO Test：** 在线测试拖影情况
-2. **游戏实测：** 实际游戏中观察效果
-3. **多个Overdrive等级对比：** 找到最佳设置
+#### Casual Gaming
+- **Recommendation:** Under 4ms
+- **Reason:** Balance gaming experience and colors
+- **Choice:** Mainly IPS panels
 
-**下一节：** [色域](./color-gamut) - 了解色彩表现的关键参数 
+#### Office & Design
+- **Recommendation:** Under 8ms is sufficient
+- **Reason:** Not sensitive to response time
+- **Focus:** Color accuracy is more important
+
+#### Entertainment
+- **Recommendation:** Under 5ms
+- **Reason:** Reduce ghosting when watching action movies
+- **Balance:** Consider contrast and colors
+
+---
+
+## 🔍 Methods for Testing Response Time
+
+### Professional Testing Equipment
+- **High-speed Camera:** Records pixel transition process
+- **Photometer:** Measures brightness change time
+- **Standard:** ISO standard testing methods
+
+### Consumer Testing Methods
+- **UFO Test:** Blur Busters online test
+- **Game Testing:** Observe fast-moving scenes
+- **Setting Adjustment:** Adjust Overdrive levels
+
+---
+
+## ❌ Common Misconceptions
+
+### "Lower Response Time is Always Better"
+- **Problem:** Ignores Overdrive side effects
+- **Reality:** Excessive Overdrive creates overshoot
+- **Advice:** Choose appropriate balance point
+
+### "Only Look at Manufacturer Claims"
+- **Problem:** Testing conditions may differ
+- **Reality:** Need to see actual test results
+- **Advice:** Refer to professional review data
+
+### "1ms Must Be Better Than 4ms"
+- **Problem:** May be different testing standards
+- **Reality:** 4ms IPS may provide better experience than 1ms TN
+- **Advice:** Consider all factors comprehensively
+
+---
+
+## 🛠️ Optimizing Response Time Settings
+
+### Display Settings
+1. **Enable Game Mode:** Reduce image processing delay
+2. **Adjust Overdrive:** Find optimal balance point
+3. **Turn Off Unnecessary Effects:** Reduce processing time
+
+### System Settings
+1. **Exclusive Fullscreen Mode:** Reduce system delay
+2. **Turn Off V-Sync:** If sync technology is available
+3. **High Performance Power Mode:** Ensure performance isn't limited
+
+### Testing Verification
+1. **Use UFO Test:** Online test for ghosting
+2. **Game Testing:** Observe effects in actual games
+3. **Compare Multiple Overdrive Levels:** Find best settings
+
+**Next Section:** [Color Gamut](./color-gamut) - Understanding key parameters for color performance 

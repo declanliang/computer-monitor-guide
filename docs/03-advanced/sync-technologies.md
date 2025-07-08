@@ -1,209 +1,209 @@
 ---
 sidebar_position: 1
-title: 同步技术详解
-description: 深入了解G-Sync、FreeSync等可变刷新率技术
+title: Sync Technologies Explained
+description: Deep understanding of G-Sync, FreeSync and other variable refresh rate technologies
 ---
 
-# 同步技术详解
+# Sync Technologies Explained
 
-## 🎯 为什么需要同步技术？
+## 🎯 Why Do We Need Sync Technology?
 
-### 传统显示的问题
+### Problems with Traditional Monitors
 
-在没有同步技术的情况下，显示器以固定频率刷新（如60Hz），而显卡的帧率输出是变化的。这种不匹配会导致：
+Without sync technology, monitors refresh at a fixed frequency (e.g., 60Hz), while GPU frame rate output varies. This mismatch causes:
 
-#### 屏幕撕裂 (Screen Tearing)
-- **现象：** 一个画面显示多个不同时间点的图像
-- **原因：** 显示器刷新时，显卡正在输出新的一帧
-- **影响：** 画面出现明显的水平断裂线
+#### Screen Tearing
+- **Phenomenon:** One frame displays images from different time points
+- **Cause:** Monitor refreshes while GPU is outputting a new frame
+- **Impact:** Obvious horizontal tear lines in the image
 
-#### 垂直同步的副作用
-传统V-Sync解决撕裂但带来新问题：
-- **输入延迟增加：** 帧缓冲导致延迟
-- **帧率锁定：** 无法超过显示器刷新率
-- **卡顿现象：** 帧率低于刷新率时出现跳帧
-
----
-
-## 🔄 可变刷新率技术原理
-
-### 核心概念
-**让显示器的刷新率跟随显卡的帧率变化**
-
-**工作流程：**
-1. 显卡渲染完一帧
-2. 立即通知显示器刷新
-3. 显示器调整刷新时机
-4. 消除撕裂和卡顿
-
-### 技术优势
-- ✅ **消除屏幕撕裂**
-- ✅ **减少输入延迟**
-- ✅ **平滑的帧率变化**
-- ✅ **更好的游戏体验**
+#### Side Effects of V-Sync
+Traditional V-Sync solves tearing but brings new problems:
+- **Increased Input Lag:** Frame buffering causes delay
+- **Frame Rate Lock:** Cannot exceed monitor refresh rate
+- **Stuttering:** Frame skipping when frame rate is below refresh rate
 
 ---
 
-## 🎮 G-Sync 技术详解
+## 🔄 Variable Refresh Rate Technology Principle
 
-### G-Sync 原版 (Hardware Module)
-**技术特点：**
-- 专用硬件模块
-- NVIDIA严格认证
-- 最佳兼容性和稳定性
+### Core Concept
+**Make the monitor's refresh rate follow the GPU's frame rate changes**
 
-**工作范围：**
-- 通常30Hz-刷新率上限
-- 超出范围自动启用V-Sync
+**Workflow:**
+1. GPU finishes rendering a frame
+2. Immediately notifies monitor to refresh
+3. Monitor adjusts refresh timing
+4. Eliminates tearing and stuttering
 
-**优势：**
-- 兼容性最好
-- 延迟最低
-- 功能最完整
+### Technical Advantages
+- ✅ **Eliminates screen tearing**
+- ✅ **Reduces input lag**
+- ✅ **Smooth frame rate transitions**
+- ✅ **Better gaming experience**
 
-**缺点：**
-- 价格昂贵（+200-400元）
-- 只支持NVIDIA显卡
+---
+
+## 🎮 G-Sync Technology Explained
+
+### G-Sync Original (Hardware Module)
+**Technical Features:**
+- Dedicated hardware module
+- NVIDIA strict certification
+- Best compatibility and stability
+
+**Working Range:**
+- Usually 30Hz to refresh rate maximum
+- Automatically enables V-Sync when out of range
+
+**Advantages:**
+- Best compatibility
+- Lowest latency
+- Most complete functionality
+
+**Disadvantages:**
+- Expensive (+$30-60)
+- Only supports NVIDIA GPUs
 
 ### G-Sync Compatible
-**技术特点：**
-- 基于FreeSync技术
-- 通过NVIDIA认证测试
-- 成本较低
+**Technical Features:**
+- Based on FreeSync technology
+- Passes NVIDIA certification tests
+- Lower cost
 
-**认证标准：**
-- 无明显闪烁
-- 色彩偏移在可接受范围
-- 输入延迟符合要求
+**Certification Standards:**
+- No obvious flickering
+- Color shift within acceptable range
+- Input lag meets requirements
 
-**优势：**
-- 价格便宜
-- 性能接近G-Sync
-- 市场选择多
+**Advantages:**
+- Affordable price
+- Performance close to G-Sync
+- Many market choices
 
 ---
 
-## 🔴 FreeSync 技术详解
+## 🔴 FreeSync Technology Explained
 
 ### FreeSync (VESA Adaptive-Sync)
-**技术特点：**
-- 基于VESA标准
-- 无需额外硬件
-- 开放标准，成本低
+**Technical Features:**
+- Based on VESA standard
+- No additional hardware required
+- Open standard, low cost
 
-**分级标准：**
+**Tier Standards:**
 
-#### FreeSync (基础版)
-- 基本可变刷新率功能
-- 最低要求：48Hz范围
+#### FreeSync (Basic)
+- Basic variable refresh rate functionality
+- Minimum requirement: 48Hz range
 
 #### FreeSync Premium
-- **要求：** 至少120Hz刷新率
-- **LFC支持：** 低帧率补偿技术
-- **HDR支持：** 可选
+- **Requirement:** At least 120Hz refresh rate
+- **LFC Support:** Low framerate compensation technology
+- **HDR Support:** Optional
 
 #### FreeSync Premium Pro
-- **要求：** 至少120Hz + HDR400以上
-- **低延迟：** 严格的延迟要求
-- **色彩：** sRGB 99%以上覆盖
+- **Requirement:** At least 120Hz + HDR400+
+- **Low Latency:** Strict latency requirements
+- **Color:** 99%+ sRGB coverage
 
-### AMD显卡专有功能
-- **Enhanced Sync：** 超过刷新率时的优化
-- **Radeon Chill：** 动态帧率控制
-- **Anti-Lag：** 减少游戏延迟
-
----
-
-## ⚡ 技术对比分析
-
-| 特性 | G-Sync硬件版 | G-Sync Compatible | FreeSync Premium |
-|------|-------------|------------------|-----------------|
-| 硬件成本 | 高 | 中 | 低 |
-| 兼容性 | NVIDIA独占 | NVIDIA独占 | AMD + 部分NVIDIA |
-| 认证标准 | 最严格 | 较严格 | 相对宽松 |
-| 功能完整性 | 最完整 | 接近完整 | 基本功能 |
-| 市场价格 | +300-500元 | +100-200元 | 基本无溢价 |
-| 产品选择 | 有限 | 较多 | 最多 |
+### AMD GPU Exclusive Features
+- **Enhanced Sync:** Optimization when exceeding refresh rate
+- **Radeon Chill:** Dynamic frame rate control
+- **Anti-Lag:** Reduces gaming latency
 
 ---
 
-## 🔧 实际使用中的技术细节
+## ⚡ Technical Comparison Analysis
+
+| Feature | G-Sync Hardware | G-Sync Compatible | FreeSync Premium |
+|---------|----------------|-------------------|------------------|
+| Hardware Cost | High | Medium | Low |
+| Compatibility | NVIDIA exclusive | NVIDIA exclusive | AMD + some NVIDIA |
+| Certification Standards | Strictest | Relatively strict | Relatively loose |
+| Feature Completeness | Most complete | Close to complete | Basic features |
+| Market Price | +$40-70 | +$15-30 | Basically no premium |
+| Product Selection | Limited | More | Most |
+
+---
+
+## 🔧 Technical Details in Actual Usage
 
 ### LFC (Low Framerate Compensation)
-**问题：** 帧率低于同步范围下限时如何处理？
+**Problem:** How to handle when frame rate is below sync range minimum?
 
-**解决方案：**
-- 自动倍频显示同一帧
-- 例如：20FPS时显示两次，达到40Hz效果
-- 保持同步效果
+**Solution:**
+- Automatically monitor the same frame multiple times
+- Example: Display 20FPS twice to achieve 40Hz effect
+- Maintains sync effect
 
-### 超出上限的处理
-**情况：** 帧率超过显示器最大刷新率
+### Handling Exceeding Maximum
+**Situation:** Frame rate exceeds monitor maximum refresh rate
 
-**G-Sync处理：**
-- 自动启用V-Sync
-- 锁定在最大刷新率
+**G-Sync Handling:**
+- Automatically enables V-Sync
+- Locks at maximum refresh rate
 
-**FreeSync处理：**
-- 可能出现撕裂
-- 需要手动开启V-Sync
-
----
-
-## 🎯 选购建议
-
-### NVIDIA显卡用户
-1. **预算充足：** G-Sync硬件版
-2. **预算中等：** G-Sync Compatible
-3. **预算有限：** 考虑FreeSync（新驱动支持）
-
-### AMD显卡用户
-1. **首选：** FreeSync Premium/Pro
-2. **注意：** 确认具体的同步范围
-3. **避免：** G-Sync硬件版（不兼容）
-
-### Intel显卡用户
-- **支持：** FreeSync技术
-- **建议：** 选择FreeSync认证产品
+**FreeSync Handling:**
+- May have tearing
+- Requires manual V-Sync activation
 
 ---
 
-## 🚫 常见误区和问题
+## 🎯 Purchase Recommendations
 
-### ❌ "有了同步技术就不需要高刷新率"
-**实际：** 同步技术和高刷新率是互补的
-- 同步技术解决撕裂和卡顿
-- 高刷新率提供更流畅的体验
+### NVIDIA GPU Users
+1. **Sufficient Budget:** G-Sync hardware version
+2. **Medium Budget:** G-Sync Compatible
+3. **Limited Budget:** Consider FreeSync (new drivers support)
 
-### ❌ "G-Sync一定比FreeSync好"
-**实际：** 取决于具体实现
-- 高端FreeSync产品体验接近G-Sync
-- 低端FreeSync产品确实有差距
+### AMD GPU Users
+1. **First Choice:** FreeSync Premium/Pro
+2. **Note:** Confirm specific sync range
+3. **Avoid:** G-Sync hardware version (incompatible)
 
-### ❌ "同步技术会影响帧率"
-**实际：** 不会降低帧率
-- 只是改变显示时机
-- 可能轻微增加延迟（1-2ms）
+### Intel GPU Users
+- **Support:** FreeSync technology
+- **Recommendation:** Choose FreeSync certified products
 
 ---
 
-## 🛠️ 购买和设置建议
+## 🚫 Common Misconceptions and Issues
 
-### 购买前检查
-1. ✅ 确认显卡品牌和型号
-2. ✅ 查看显示器支持的同步技术
-3. ✅ 确认同步工作范围
-4. ✅ 考虑预算和性价比
+### ❌ "With Sync Technology, High Refresh Rate Isn't Needed"
+**Reality:** Sync technology and high refresh rate are complementary
+- Sync technology solves tearing and stuttering
+- High refresh rate provides smoother experience
 
-### 设置要点
-1. **更新驱动：** 确保最新显卡驱动
-2. **启用同步：** 在显卡控制面板开启
-3. **关闭V-Sync：** 游戏内关闭垂直同步
-4. **测试效果：** 使用测试软件验证
+### ❌ "G-Sync Must Be Better Than FreeSync"
+**Reality:** Depends on specific implementation
+- High-end FreeSync products experience close to G-Sync
+- Low-end FreeSync products do have gaps
 
-### 常用测试工具
-- **NVIDIA Pendulum Demo：** G-Sync效果演示
-- **Blur Busters UFO Test：** 在线测试工具
-- **游戏内帧率显示：** 观察实际效果
+### ❌ "Sync Technology Affects Frame Rate"
+**Reality:** Doesn't reduce frame rate
+- Only changes display timing
+- May slightly increase latency (1-2ms)
 
-**下一节：** [HDR技术](./hdr) - 了解下一代显示技术 
+---
+
+## 🛠️ Purchase and Setup Recommendations
+
+### Pre-purchase Checks
+1. ✅ Confirm GPU brand and model
+2. ✅ Check monitor's supported sync technology
+3. ✅ Confirm sync working range
+4. ✅ Consider budget and cost-effectiveness
+
+### Setup Points
+1. **Update Drivers:** Ensure latest GPU drivers
+2. **Enable Sync:** Turn on in GPU control panel
+3. **Turn Off V-Sync:** Disable vertical sync in games
+4. **Test Effect:** Use testing software to verify
+
+### Common Testing Tools
+- **NVIDIA Pendulum Demo:** G-Sync effect demonstration
+- **Blur Busters UFO Test:** Online testing tool
+- **In-game Frame Rate Monitor:** Observe actual effects
+
+**Next Section:** [HDR Technology](./hdr) - Understanding next-generation monitor technology 

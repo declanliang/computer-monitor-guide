@@ -1,42 +1,42 @@
 ---
 sidebar_position: 1
-title: 显示器选购指南
-description: 理解技术，做出明智选择
+title: Computer Monitor Selection Guide
+description: Understand technology, make informed choices
 ---
 
-# 显示器选购指南
+# Computer Monitor Selection Guide
 
-## 📖 这是一本数字时代的"显示器教科书"
+## 📖 This is a "Computer Monitor Textbook" for the Digital Age
 
-在信息爆炸的时代，选择一款合适的显示器变得越来越困难。市面上充斥着各种营销术语、参数堆砌和"性价比推荐"，但很少有人真正解释这些参数的含义以及它们如何影响你的使用体验。
+In the age of information explosion, choosing a suitable computer monitor has become increasingly difficult. The market is flooded with various marketing terms, parameter stacking, and "cost-performance recommendations," but few people truly explain the meaning of these parameters and how they affect your user experience.
 
-**这个网站的目标很简单：让你理解显示器技术，培养独立判断能力。**
+**The goal of this website is simple: to help you understand computer monitor technology and develop independent judgment.**
 
-## 🎯 为什么需要这个指南？
+## 🎯 Why Do We Need This Guide?
 
-- **避免盲目跟风**：理解技术原理，不被营销话术误导
-- **培养判断力**：学会根据自己的需求做出选择
-- **系统性学习**：从基础到进阶，循序渐进
-- **长期有效**：掌握原理后，即使技术发展也能适应
+- **Avoid Blind Following**: Understand technical principles, don't be misled by marketing rhetoric
+- **Develop Judgment**: Learn to make choices based on your own needs
+- **Systematic Learning**: From basics to advanced, step by step
+- **Long-term Effectiveness**: After mastering principles, you can adapt even as technology evolves
 
-## 📚 如何使用这个指南？
+## 📚 How to Use This Guide?
 
-### 如果你急需购买：
-👉 直接跳转到 [快速选择指南](./quick-guide/by-use-case) - 按使用场景快速筛选
+### If You Need to Buy Urgently:
+👉 Go directly to [Quick Selection Guide](./quick-guide/by-use-case) - Filter quickly by use case
 
-### 如果你想系统学习：
-1. **[基础知识](./fundamentals/size-and-resolution)** - 理解核心参数的真实含义
-2. **[进阶知识](./advanced/sync-technologies)** - 深入了解专业技术
-3. **[快速指南](./quick-guide/by-use-case)** - 将知识应用到实际选择中
+### If You Want to Learn Systematically:
+1. **[Basic Knowledge](./fundamentals/size-and-resolution)** - Understand the true meaning of core parameters
+2. **[Advanced Knowledge](./advanced/sync-technologies)** - Deep dive into professional technology
+3. **[Quick Guide](./quick-guide/by-use-case)** - Apply knowledge to actual selection
 
-## 🔍 本指南的特点
+## 🔍 Features of This Guide
 
-- **教科书式系统性**：不追热点，专注基础原理
-- **技术中立**：不偏向任何品牌，只讲技术
-- **实用导向**：理论结合实际使用场景
-- **持续有效**：掌握原理比记住产品型号更有价值
+- **Textbook-style Systematic**: Don't chase trends, focus on basic principles
+- **Technologically Neutral**: Not biased toward any brand, only discuss technology
+- **Practical Orientation**: Theory combined with actual use cases
+- **Continuously Effective**: Mastering principles is more valuable than memorizing product models
 
-让我们开始这段学习之旅吧！
+Let's start this learning journey!
 
 ---
-*最后更新：2025年6月* 
+*Last updated: June 2025* 

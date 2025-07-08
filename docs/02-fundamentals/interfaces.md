@@ -1,131 +1,131 @@
 ---
 sidebar_position: 6
-title: 接口类型
-description: 详解显示器接口类型和连接方式的选择
+title: Interface Types
+description: Detailed explanation of display interface types and connection method selection
 ---
 
-# 显示器接口类型详解
+# Computer Monitor Interface Types Explained
 
-## 🔌 主流显示接口概览
+## 🔌 Mainstream Computer Monitor Interface Overview
 
-### 当前主流接口
-- **HDMI：** 最常见，支持音频传输
-- **DisplayPort (DP)：** 高端首选，带宽更大
-- **USB-C：** 新兴标准，支持一线连接
-- **DVI：** 逐渐淘汰，仅传输视频
-- **VGA：** 已基本淘汰，模拟信号
-
----
-
-## 📺 HDMI 接口详解
-
-### HDMI 版本对比
-
-| 版本 | 最大带宽 | 支持分辨率 | 发布时间 | 主要特性 |
-|------|----------|------------|----------|----------|
-| HDMI 1.4 | 10.2 Gbps | 4K@30Hz | 2009年 | 首次支持4K |
-| HDMI 2.0 | 18 Gbps | 4K@60Hz | 2013年 | 主流4K支持 |
-| HDMI 2.1 | 48 Gbps | 8K@60Hz<br/>4K@120Hz | 2017年 | 下一代标准 |
-
-### HDMI 的优势
-- ✅ **普及率高：** 几乎所有设备都支持
-- ✅ **音频传输：** 同时传输视频和音频
-- ✅ **向下兼容：** 新版本兼容旧版本
-- ✅ **消费级标准：** 针对家庭娱乐优化
-
-### HDMI 的局限
-- ❌ **带宽限制：** HDMI 2.0限制4K@144Hz
-- ❌ **刷新率支持：** 高刷新率支持不如DP
-- ❌ **专业功能：** 缺少一些专业特性
-
-### 实际使用建议
-- **游戏主机连接：** HDMI是标配
-- **4K@60Hz：** HDMI 2.0足够
-- **4K高刷：** 需要HDMI 2.1
-- **1080P/2K：** 任何版本都够用
+### Current Mainstream Interfaces
+- **HDMI:** Most common, supports audio transmission
+- **DisplayPort (DP):** High-end preferred, larger bandwidth
+- **USB-C:** Emerging standard, supports single-cable connection
+- **DVI:** Gradually phased out, video transmission only
+- **VGA:** Basically obsolete, analog signal
 
 ---
 
-## 🖥️ DisplayPort 详解
+## 📺 HDMI Interface Explained
 
-### DisplayPort 版本对比
+### HDMI Version Comparison
 
-| 版本 | 最大带宽 | 支持分辨率 | 发布时间 | 主要特性 |
-|------|----------|------------|----------|----------|
-| DP 1.2 | 21.6 Gbps | 4K@60Hz | 2010年 | 多屏串联 |
-| DP 1.4 | 32.4 Gbps | 4K@120Hz<br/>8K@60Hz | 2016年 | HDR支持 |
-| DP 2.0 | 80 Gbps | 16K@60Hz<br/>4K@240Hz | 2019年 | 未来标准 |
+| Version | Max Bandwidth | Supported Resolution | Release Date | Main Features |
+|---------|---------------|---------------------|--------------|---------------|
+| HDMI 1.4 | 10.2 Gbps | 4K@30Hz | 2009 | First 4K support |
+| HDMI 2.0 | 18 Gbps | 4K@60Hz | 2013 | Mainstream 4K support |
+| HDMI 2.1 | 48 Gbps | 8K@60Hz<br/>4K@120Hz | 2017 | Next-gen standard |
 
-### DisplayPort 的优势
-- ✅ **高带宽：** 支持更高分辨率和刷新率
-- ✅ **游戏特性：** G-Sync/FreeSync支持更好
-- ✅ **多屏支持：** 菊花链连接多显示器
-- ✅ **专业功能：** 更多高端特性
+### HDMI Advantages
+- ✅ **High Popularity:** Almost all devices support it
+- ✅ **Audio Transmission:** Simultaneous video and audio transmission
+- ✅ **Backward Compatibility:** New versions compatible with old ones
+- ✅ **Consumer Standard:** Optimized for home entertainment
 
-### DisplayPort 的劣势
-- ❌ **普及率：** 不如HDMI广泛
-- ❌ **音频支持：** 虽然支持但不如HDMI完善
-- ❌ **消费设备：** 很多设备不配备DP接口
+### HDMI Limitations
+- ❌ **Bandwidth Limits:** HDMI 2.0 limits 4K@144Hz
+- ❌ **Refresh Rate Support:** High refresh rate support not as good as DP
+- ❌ **Professional Features:** Lacks some professional features
+
+### Practical Usage Advice
+- **Gaming Console Connection:** HDMI is standard
+- **4K@60Hz:** HDMI 2.0 sufficient
+- **4K High Refresh:** Requires HDMI 2.1
+- **1080P/2K:** Any version is sufficient
+
+---
+
+## 🖥️ DisplayPort Explained
+
+### DisplayPort Version Comparison
+
+| Version | Max Bandwidth | Supported Resolution | Release Date | Main Features |
+|---------|---------------|---------------------|--------------|---------------|
+| DP 1.2 | 21.6 Gbps | 4K@60Hz | 2010 | Multi-screen daisy chain |
+| DP 1.4 | 32.4 Gbps | 4K@120Hz<br/>8K@60Hz | 2016 | HDR support |
+| DP 2.0 | 80 Gbps | 16K@60Hz<br/>4K@240Hz | 2019 | Future standard |
+
+### DisplayPort Advantages
+- ✅ **High Bandwidth:** Supports higher resolution and refresh rates
+- ✅ **Gaming Features:** Better G-Sync/FreeSync support
+- ✅ **Multi-screen Support:** Daisy chain connection for multiple displays
+- ✅ **Professional Features:** More high-end features
+
+### DisplayPort Disadvantages
+- ❌ **Popularity:** Not as widespread as HDMI
+- ❌ **Audio Support:** Supports audio but not as comprehensive as HDMI
+- ❌ **Consumer Devices:** Many devices don't have DP ports
 
 ### Mini DisplayPort
-- **应用场景：** 笔记本电脑常见
-- **转换需求：** 通常需要转换线
-- **性能：** 与标准DP相同
+- **Application:** Common in laptops
+- **Conversion Need:** Usually requires conversion cable
+- **Performance:** Same as standard DP
 
 ---
 
 ## 🔄 USB-C / Thunderbolt
 
-### USB-C 显示功能
-**技术标准：** USB-C Alt Mode (DisplayPort)
+### USB-C Display Function
+**Technical Standard:** USB-C Alt Mode (DisplayPort)
 
-### 支持能力
-- **视频：** 最高4K@60Hz (取决于具体实现)
-- **音频：** 支持数字音频传输
-- **供电：** 同时给设备充电 (最高100W)
-- **数据：** 同时传输数据
+### Supported Capabilities
+- **Video:** Up to 4K@60Hz (depends on specific implementation)
+- **Audio:** Supports digital audio transmission
+- **Power:** Simultaneously charges devices (up to 100W)
+- **Data:** Simultaneous data transmission
 
-### 主要优势
-- ✅ **一线解决：** 视频+音频+充电+数据
-- ✅ **便携性：** 特别适合笔记本用户
-- ✅ **未来趋势：** 越来越多设备采用
-- ✅ **双向充电：** 可以给笔记本充电
+### Main Advantages
+- ✅ **Single Cable Solution:** Video + Audio + Charging + Data
+- ✅ **Portability:** Especially suitable for laptop users
+- ✅ **Future Trend:** More and more devices adopting it
+- ✅ **Bidirectional Charging:** Can charge laptops
 
-### 使用注意事项
-- **规格差异：** 不是所有USB-C都支持视频输出
-- **带宽限制：** 分辨率和刷新率有限制
-- **兼容性：** 需要确认设备支持情况
+### Usage Considerations
+- **Specification Differences:** Not all USB-C supports video output
+- **Bandwidth Limits:** Resolution and refresh rate limitations
+- **Compatibility:** Need to confirm device support
 
 ---
 
-## 📊 接口选择指南
+## 📊 Interface Selection Guide
 
-### 按使用场景选择
+### Choose by Usage Scenario
 
-#### 高刷新率游戏
-**首选：DisplayPort 1.4**
+#### High Refresh Rate Gaming
+**First Choice: DisplayPort 1.4**
 - 2K@165Hz: ✅ DisplayPort, ❌ HDMI 2.0
 - 4K@120Hz: ✅ DP 1.4, ✅ HDMI 2.1
 
-#### 4K办公/影音
-**推荐：HDMI 2.0 或 DP 1.2**
-- 4K@60Hz两者都支持
-- HDMI在消费设备上更常见
+#### 4K Office/Entertainment
+**Recommendation: HDMI 2.0 or DP 1.2**
+- Both support 4K@60Hz
+- HDMI more common on consumer devices
 
-#### 笔记本扩展
-**首选：USB-C (如果支持)**
-- 一线连接所有功能
-- 备选：Mini DP转换
+#### Laptop Extension
+**First Choice: USB-C (if supported)**
+- Single cable for all functions
+- Alternative: Mini DP conversion
 
-#### 多显示器设置
-**首选：DisplayPort**
-- 支持菊花链连接
-- 减少接口占用
+#### Multi-display Setup
+**First Choice: DisplayPort**
+- Supports daisy chain connection
+- Reduces port usage
 
-### 按分辨率刷新率选择
+### Choose by Resolution and Refresh Rate
 
-| 分辨率刷新率 | HDMI 2.0 | HDMI 2.1 | DP 1.2 | DP 1.4 |
-|-------------|----------|----------|--------|--------|
+| Resolution & Refresh Rate | HDMI 2.0 | HDMI 2.1 | DP 1.2 | DP 1.4 |
+|---------------------------|----------|----------|--------|--------|
 | 1080P@144Hz | ✅ | ✅ | ✅ | ✅ |
 | 2K@144Hz | ❌ | ✅ | ✅ | ✅ |
 | 4K@60Hz | ✅ | ✅ | ✅ | ✅ |
@@ -133,58 +133,58 @@ description: 详解显示器接口类型和连接方式的选择
 
 ---
 
-## 🚫 常见误区
+## 🚫 Common Misconceptions
 
-### ❌ "贵的线材效果更好"
-**实际情况：**
-- 数字信号不存在"音质"差异
-- 只要支持带宽要求即可
-- 过度昂贵的线材是智商税
+### ❌ "Expensive Cables Have Better Effects"
+**Reality:**
+- Digital signals don't have "sound quality" differences
+- Just need to support bandwidth requirements
+- Overly expensive cables are a waste of money
 
-### ❌ "HDMI比DP差"
-**实际情况：**
-- 在支持范围内性能相同
-- 选择取决于具体需求
-- HDMI在某些场景更实用
+### ❌ "HDMI is Worse Than DP"
+**Reality:**
+- Same performance within supported range
+- Choice depends on specific needs
+- HDMI more practical in certain scenarios
 
-### ❌ "接口越新越好"
-**实际情况：**
-- 够用就好，不要过度追求
-- 新接口可能有兼容性问题
-- 考虑现有设备的接口类型
-
----
-
-## 🛠️ 实用购买建议
-
-### 购买显示器时
-1. **确认显卡接口：** 看看你的显卡有什么接口
-2. **匹配分辨率刷新率：** 确保接口支持目标规格
-3. **考虑扩展性：** 未来可能的升级需求
-4. **准备转换线：** 如果接口不匹配
-
-### 线材选择
-- **长度：** 够用即可，过长可能影响信号
-- **认证：** 选择有认证标识的产品
-- **预算：** 不需要过度昂贵，中等价位即可
-
-### 常见问题解决
-- **没信号：** 检查线材和接口匹配
-- **分辨率不对：** 确认接口带宽支持
-- **刷新率限制：** 可能是接口版本问题
-
-**下一节：** [亮度与对比度](./brightness-contrast) - 了解显示亮度相关参数
+### ❌ "Newer Interface is Always Better"
+**Reality:**
+- Sufficient is good, don't over-pursue
+- New interfaces may have compatibility issues
+- Consider existing device interface types
 
 ---
 
-## 📋 接口选择快速查询表
+## 🛠️ Practical Purchase Advice
 
-### 常见配置推荐
-| 使用场景 | 推荐接口 | 备注 |
-|----------|----------|------|
-| 1080P游戏 | HDMI 2.0 / DP 1.2 | 都够用 |
-| 2K游戏 | DP 1.4 | 高刷需要DP |
-| 4K办公 | HDMI 2.0 / DP 1.2 | 60Hz足够 |
-| 4K游戏 | DP 1.4 / HDMI 2.1 | 高刷需要新版本 |
-| 笔记本扩展 | USB-C | 一线连接 |
-| 多屏办公 | DisplayPort | 支持串联 | 
+### When Buying Displays
+1. **Confirm GPU Interface:** Check what interfaces your GPU has
+2. **Match Resolution & Refresh Rate:** Ensure interface supports target specs
+3. **Consider Expandability:** Future upgrade needs
+4. **Prepare Conversion Cables:** If interfaces don't match
+
+### Cable Selection
+- **Length:** Sufficient is enough, too long may affect signal
+- **Certification:** Choose products with certification marks
+- **Budget:** No need for overly expensive, mid-range price is fine
+
+### Common Problem Solutions
+- **No Signal:** Check cable and interface matching
+- **Wrong Resolution:** Confirm interface bandwidth support
+- **Refresh Rate Limits:** May be interface version issue
+
+**Next Section:** [Brightness & Contrast](./brightness-contrast) - Understanding display brightness related parameters
+
+---
+
+## 📋 Interface Selection Quick Reference Table
+
+### Common Configuration Recommendations
+| Usage Scenario | Recommended Interface | Notes |
+|----------------|----------------------|-------|
+| 1080P Gaming | HDMI 2.0 / DP 1.2 | Both sufficient |
+| 2K Gaming | DP 1.4 | High refresh needs DP |
+| 4K Office | HDMI 2.0 / DP 1.2 | 60Hz sufficient |
+| 4K Gaming | DP 1.4 / HDMI 2.1 | High refresh needs new version |
+| Laptop Extension | USB-C | Single cable connection |
+| Multi-screen Office | DisplayPort | Supports daisy chain | 

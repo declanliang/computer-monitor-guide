@@ -1,16 +1,16 @@
 ---
 sidebar_position: 1
-title: Display Selection Guide
+title: Computer Monitor Selection Guide
 description: Understand technology, make informed choices
 ---
 
-# Display Selection Guide
+# Computer Monitor Selection Guide
 
-## 📖 This is a "Display Textbook" for the Digital Age
+## 📖 This is a "Computer Monitor Textbook" for the Digital Age
 
-In the age of information explosion, choosing a suitable display has become increasingly difficult. The market is flooded with various marketing terms, parameter stacking, and "cost-performance recommendations," but few people truly explain the meaning of these parameters and how they affect your user experience.
+In the age of information explosion, choosing a suitable computer monitor has become increasingly difficult. The market is flooded with various marketing terms, parameter stacking, and "cost-performance recommendations," but few people truly explain the meaning of these parameters and how they affect your user experience.
 
-**The goal of this website is simple: to help you understand display technology and develop independent judgment.**
+**The goal of this website is simple: to help you understand computer monitor technology and develop independent judgment.**
 
 ## 🎯 Why Do We Need This Guide?
 

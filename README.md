@@ -1,6 +1,6 @@
-# Display Guide
+# Computer Monitor Guide
 
-A comprehensive guide to understanding display technology and making informed purchasing decisions.
+A comprehensive guide to understanding computer monitor technology and making informed purchasing decisions.
 
 ## 🌍 Multi-language Support
 

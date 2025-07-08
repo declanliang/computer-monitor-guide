@@ -5,7 +5,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 const config: Config = {
-  title: 'Display Guide',
+  title: 'Computer Monitor Guide',
   tagline: 'Understand technology, make informed choices',
   favicon: 'img/favicon.ico',
 
@@ -22,8 +22,8 @@ const config: Config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'display-guide', // Usually your GitHub org/user name.
-  projectName: 'display-guide', // Usually your repo name.
+  organizationName: 'computer-monitor-guide', // Usually your GitHub org/user name.
+  projectName: 'computer-monitor-guide', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -79,9 +79,9 @@ const config: Config = {
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
-      title: 'Display Guide',
+      title: 'Computer Monitor Guide',
       logo: {
-        alt: 'Display Guide Logo',
+        alt: 'Computer Monitor Guide Logo',
         src: 'img/logo.svg',
       },
       items: [
@@ -93,7 +93,7 @@ const config: Config = {
         },
         {to: '/blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/display-guide/display-guide',
+          href: 'https://github.com/computer-monitor-guide/computer-monitor-guide',
           label: 'GitHub',
           position: 'right',
         },
@@ -137,12 +137,12 @@ const config: Config = {
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/display-guide/display-guide',
+              href: 'https://github.com/computer-monitor-guide/computer-monitor-guide',
             },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} Display Guide. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Computer Monitor Guide. Built with Docusaurus.`,
     },
     prism: {
       theme: prismThemes.github,

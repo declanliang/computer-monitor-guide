@@ -1,265 +1,265 @@
 ---
 sidebar_position: 2
-title: HDR技术详解
-description: 深入了解HDR显示技术的原理、标准和实际应用
+title: HDR Technology Explained
+description: Deep understanding of HDR monitor technology principles, standards, and practical applications
 ---
 
-# HDR技术详解
+# HDR Technology Explained
 
-## 🌈 什么是HDR？
+## 🌈 What is HDR?
 
-### HDR基本概念
-**HDR (High Dynamic Range)** = 高动态范围
+### HDR Basic Concept
+**HDR (High Dynamic Range)** = High Dynamic Range
 
-**核心目标：** 显示更接近人眼所见的亮度范围和色彩层次
+**Core Goal:** Monitor brightness range and color gradations closer to what the human eye sees
 
-### 技术原理
-- **更高的亮度范围：** 从更深的黑色到更亮的白色
-- **更多的色彩层次：** 10bit/12bit vs 传统8bit
-- **更广的色域：** 显示更丰富的色彩
-
----
-
-## 📊 HDR vs SDR 对比
-
-| 特性 | SDR (标准动态范围) | HDR (高动态范围) |
-|------|-------------------|------------------|
-| 亮度范围 | 0.1-100 nits | 0.01-1000+ nits |
-| 色彩深度 | 8bit (1670万色) | 10bit+ (10亿色+) |
-| 色域标准 | sRGB/Rec.709 | DCI-P3/Rec.2020 |
-| 对比度 | 限制较大 | 显著提升 |
-
-### 视觉体验差异
-- **亮部细节：** HDR能显示更亮的光源而不过曝
-- **暗部细节：** 保持深黑的同时显示阴影细节
-- **色彩过渡：** 更平滑的渐变，减少色带
-- **真实感：** 更接近人眼感知
+### Technical Principles
+- **Higher Brightness Range:** From deeper blacks to brighter whites
+- **More Color Gradations:** 10bit/12bit vs traditional 8bit
+- **Wider Color Gamut:** Monitor richer colors
 
 ---
 
-## 🏷️ HDR标准详解
+## 📊 HDR vs SDR Comparison
 
-### HDR10 (最基础)
-**技术特点：**
-- 10bit色彩深度
-- 静态元数据
-- 最高1000 nits亮度
-- 开放标准，免费使用
+| Feature | SDR (Standard Dynamic Range) | HDR (High Dynamic Range) |
+|---------|------------------------------|--------------------------|
+| Brightness Range | 0.1-100 nits | 0.01-1000+ nits |
+| Color Depth | 8bit (16.7M colors) | 10bit+ (1B+ colors) |
+| Color Gamut Standard | sRGB/Rec.709 | DCI-P3/Rec.2020 |
+| Contrast | Limited | Significantly improved |
 
-**优劣势：**
-- ✅ 兼容性最好，支持最广泛
-- ✅ 不需要额外授权费用
-- ❌ 静态元数据，优化有限
-
-### HDR10+ (动态优化)
-**技术特点：**
-- 基于HDR10改进
-- 动态元数据调整
-- 逐场景或逐帧优化
-- 三星主导推广
-
-**优劣势：**
-- ✅ 动态优化，效果更好
-- ✅ 向下兼容HDR10
-- ❌ 内容支持相对有限
-
-### Dolby Vision (高端标准)
-**技术特点：**
-- 12bit色彩深度
-- 动态元数据
-- 最高10000 nits理论支持
-- 杜比专有技术
-
-**优劣势：**
-- ✅ 技术最先进，效果最好
-- ✅ 内容生态较完善
-- ❌ 需要授权费，成本高
-- ❌ 硬件要求较高
+### Visual Experience Differences
+- **Highlight Details:** HDR can monitor brighter light sources without overexposure
+- **Shadow Details:** Maintain deep blacks while showing shadow details
+- **Color Transitions:** Smoother gradients, reduced color banding
+- **Realism:** Closer to human eye perception
 
 ---
 
-## 💡 显示器HDR等级
+## 🏷️ HDR Standards Explained
 
-### HDR400 (入门级)
-**要求：**
-- 峰值亮度：400 nits
-- 黑位：0.4 nits (SDR显示器标准)
-- 色域：95% DCI-P3
+### HDR10 (Most Basic)
+**Technical Features:**
+- 10bit color depth
+- Static metadata
+- Maximum 1000 nits brightness
+- Open standard, free to use
 
-**实际体验：**
-- ❌ 提升有限，主要是营销标签
-- ❌ 对比度没有真正提升
-- ⚠️ 不建议为HDR400付出额外成本
+**Advantages/Disadvantages:**
+- ✅ Best compatibility, widest support
+- ✅ No additional licensing fees
+- ❌ Static metadata, limited optimization
 
-### HDR600 (轻微改善)
-**要求：**
-- 峰值亮度：600 nits
-- 黑位：0.35 nits (LED背光)
-- 色域：99% sRGB
+### HDR10+ (Dynamic Optimization)
+**Technical Features:**
+- Based on HDR10 improvements
+- Dynamic metadata adjustment
+- Scene-by-scene or frame-by-frame optimization
+- Samsung-led promotion
 
-**实际体验：**
-- 🔶 轻微提升，但仍不明显
-- 🔶 主要在高亮场景有改善
-- ⚠️ 性价比一般
+**Advantages/Disadvantages:**
+- ✅ Dynamic optimization, better effects
+- ✅ Backward compatible with HDR10
+- ❌ Limited content support
 
-### HDR1000 (显著提升)
-**要求：**
-- 峰值亮度：1000 nits
-- 分区背光：至少384个分区 (VA面板)
-- 色域：95% DCI-P3
+### Dolby Vision (High-end Standard)
+**Technical Features:**
+- 12bit color depth
+- Dynamic metadata
+- Maximum 10,000 nits theoretical support
+- Dolby proprietary technology
 
-**实际体验：**
-- ✅ 明显的HDR效果
-- ✅ 高亮场景表现出色
-- ✅ 值得投资的级别
-
-### HDR1400+ (旗舰级)
-**要求：**
-- 峰值亮度：1400+ nits
-- 精细分区背光或OLED
-- 广色域支持
-
-**实际体验：**
-- ✅ 接近专业级别的HDR效果
-- ✅ 适合专业内容创作
-- 💰 价格昂贵
+**Advantages/Disadvantages:**
+- ✅ Most advanced technology, best effects
+- ✅ Relatively complete content ecosystem
+- ❌ Requires licensing fees, high cost
+- ❌ Higher hardware requirements
 
 ---
 
-## 🔧 HDR显示技术实现
+## 💡 Monitor HDR Tiers
 
-### 分区背光 (Full Array Local Dimming)
-**原理：** 将背光分成多个独立控制的区域
+### HDR400 (Entry Level)
+**Requirements:**
+- Peak brightness: 400 nits
+- Black level: 0.4 nits (SDR monitor standard)
+- Color gamut: 95% DCI-P3
 
-#### 分区数量影响：
-- **32-64个分区：** 基础效果
-- **384个分区：** 良好效果
-- **1000+个分区：** 接近OLED效果
+**Actual Experience:**
+- ❌ Limited improvement, mainly marketing label
+- ❌ No real contrast improvement
+- ⚠️ Not recommended to pay extra for HDR400
 
-#### 副作用：光晕现象
-- **表现：** 亮物体周围出现光圈
-- **原因：** 分区不够精细
-- **解决：** 增加分区数量或改善算法
+### HDR600 (Slight Improvement)
+**Requirements:**
+- Peak brightness: 600 nits
+- Black level: 0.35 nits (LED backlight)
+- Color gamut: 99% sRGB
 
-### OLED技术
-**优势：**
-- ✅ 像素级控制，无光晕
-- ✅ 真正的黑色表现
-- ✅ 极快响应速度
+**Actual Experience:**
+- 🔶 Slight improvement, but still not obvious
+- 🔶 Main improvement in bright scenes
+- ⚠️ Average cost-effectiveness
 
-**劣势：**
-- ❌ 峰值亮度相对较低
-- ❌ 烧屏风险
-- ❌ 价格昂贵
+### HDR1000 (Significant Improvement)
+**Requirements:**
+- Peak brightness: 1000 nits
+- Local dimming: At least 384 zones (VA panel)
+- Color gamut: 95% DCI-P3
 
-### MiniLED技术
-**特点：**
-- 更小的LED灯珠
-- 更多的分区数量
-- 更精细的控制
+**Actual Experience:**
+- ✅ Obvious HDR effects
+- ✅ Excellent performance in bright scenes
+- ✅ Worth investing level
 
-**优势：**
-- ✅ 高亮度 + 精细控制
-- ✅ 成本相对OLED较低
-- ✅ 无烧屏问题
+### HDR1400+ (Flagship Level)
+**Requirements:**
+- Peak brightness: 1400+ nits
+- Fine local dimming or OLED
+- Wide color gamut support
 
----
-
-## 🎮 HDR在不同应用中的表现
-
-### 游戏HDR
-**支持情况：**
-- **原生HDR游戏：** 最佳效果
-- **HDR重制版：** 效果良好
-- **SDR游戏：** 需要升级算法，效果一般
-
-**注意事项：**
-- 确保游戏、显卡、显示器都支持
-- 关闭Windows HDR自动转换
-- 调整游戏内HDR设置
-
-### 影视HDR
-**内容格式：**
-- **4K蓝光：** HDR10/Dolby Vision
-- **流媒体：** Netflix、Prime Video
-- **在线视频：** YouTube HDR
-
-**播放要求：**
-- 支持HDR的播放器
-- 足够的网络带宽
-- 兼容的解码能力
-
-### 专业创作
-**应用场景：**
-- 视频编辑和调色
-- 摄影后期处理
-- 专业内容预览
-
-**要求：**
-- 精确的色彩校准
-- 稳定的HDR性能
-- 专业级别的亮度
+**Actual Experience:**
+- ✅ Near professional-level HDR effects
+- ✅ Suitable for professional content creation
+- 💰 Expensive price
 
 ---
 
-## 🛠️ HDR设置和优化
+## 🔧 HDR Monitor Technology Implementation
 
-### Windows HDR设置
-1. **启用HDR：** 显示设置 → HDR
-2. **亮度平衡：** 调整SDR内容亮度
-3. **校色：** 使用Windows HDR校准工具
+### Local Dimming (Full Array Local Dimming)
+**Principle:** Divide backlight into multiple independently controlled zones
 
-### 显示器HDR设置
-1. **HDR模式：** 选择合适的HDR标准
-2. **峰值亮度：** 根据环境光调整
-3. **色彩空间：** 选择DCI-P3或Rec.2020
+#### Impact of Zone Count:
+- **32-64 zones:** Basic effect
+- **384 zones:** Good effect
+- **1000+ zones:** Close to OLED effect
 
-### 常见问题解决
-- **色彩过饱和：** 调整色彩设置
-- **SDR内容过暗：** 增加SDR亮度
-- **游戏延迟：** 检查游戏模式设置
+#### Side Effect: Blooming
+- **Manifestation:** Light halo around bright objects
+- **Cause:** Insufficient zone refinement
+- **Solution:** Increase zone count or improve algorithms
 
----
+### OLED Technology
+**Advantages:**
+- ✅ Pixel-level control, no blooming
+- ✅ True black performance
+- ✅ Extremely fast response speed
 
-## 💰 HDR显示器选购建议
+**Disadvantages:**
+- ❌ Relatively lower peak brightness
+- ❌ Burn-in risk
+- ❌ Expensive price
 
-### 预算有限 (不推荐HDR400)
-- **建议：** 专注于其他参数
-- **原因：** HDR400效果有限
-- **替代：** 选择更好的色域和对比度
+### MiniLED Technology
+**Features:**
+- Smaller LED beads
+- More zone count
+- Finer control
 
-### 预算中等 (考虑HDR600)
-- **适合：** 偶尔观看HDR内容
-- **期望：** 轻微提升，不要期望过高
-- **选择：** 确保其他参数也足够好
-
-### 预算充足 (推荐HDR1000+)
-- **目标：** 明显的HDR体验提升
-- **要求：** 分区背光或高端VA面板
-- **投资：** 值得为真正的HDR效果付费
-
-### 专业需求 (HDR1400+/OLED)
-- **应用：** 专业内容创作
-- **要求：** 精确的HDR表现
-- **考虑：** OLED或高端MiniLED
+**Advantages:**
+- ✅ High brightness + fine control
+- ✅ Lower cost compared to OLED
+- ✅ No burn-in issues
 
 ---
 
-## ❌ HDR常见误区
+## 🎮 HDR Performance in Different Applications
 
-### "HDR就是更鲜艳的颜色"
-- **实际：** HDR主要改善亮度层次
-- **色彩：** 更准确而非更鲜艳
-- **目标：** 接近真实世界的视觉体验
+### Gaming HDR
+**Support Status:**
+- **Native HDR Games:** Best effects
+- **HDR Remasters:** Good effects
+- **SDR Games:** Requires upgrade algorithms, average effects
 
-### "HDR400就足够了"
-- **实际：** HDR400提升微乎其微
-- **建议：** 至少HDR600，最好HDR1000+
-- **性价比：** HDR400通常不值得额外成本
+**Notes:**
+- Ensure game, GPU, and monitor all support HDR
+- Turn off Windows HDR auto-conversion
+- Adjust in-game HDR settings
 
-### "所有内容都能用HDR改善"
-- **实际：** 只有HDR内容才有效果
-- **SDR转HDR：** 算法转换，效果有限
-- **建议：** 确保有足够的HDR内容源
+### Video HDR
+**Content Formats:**
+- **4K Blu-ray:** HDR10/Dolby Vision
+- **Streaming:** Netflix, Prime Video
+- **Online Video:** YouTube HDR
 
-**下一节：** [色彩准确性](./color-accuracy) - 了解专业级色彩表现 
+**Playback Requirements:**
+- HDR-capable player
+- Sufficient network bandwidth
+- Compatible decoding capability
+
+### Professional Creation
+**Application Scenarios:**
+- Video editing and color grading
+- Photo post-processing
+- Professional content preview
+
+**Requirements:**
+- Precise color calibration
+- Stable HDR performance
+- Professional-level brightness
+
+---
+
+## 🛠️ HDR Setup and Optimization
+
+### Windows HDR Settings
+1. **Enable HDR:** Monitor settings → HDR
+2. **Brightness Balance:** Adjust SDR content brightness
+3. **Calibration:** Use Windows HDR calibration tool
+
+### Monitor HDR Settings
+1. **HDR Mode:** Choose appropriate HDR standard
+2. **Peak Brightness:** Adjust based on ambient light
+3. **Color Space:** Choose DCI-P3 or Rec.2020
+
+### Common Problem Solutions
+- **Over-saturated Colors:** Adjust color settings
+- **SDR Content Too Dark:** Increase SDR brightness
+- **Game Latency:** Check game mode settings
+
+---
+
+## 💰 HDR Monitor Purchase Recommendations
+
+### Limited Budget (Not Recommended HDR400)
+- **Suggestion:** Focus on other parameters
+- **Reason:** HDR400 has limited effects
+- **Alternative:** Choose better color gamut and contrast
+
+### Medium Budget (Consider HDR600)
+- **Suitable For:** Occasionally watching HDR content
+- **Expectation:** Slight improvement, don't expect too much
+- **Choice:** Ensure other parameters are also good enough
+
+### Sufficient Budget (Recommended HDR1000+)
+- **Goal:** Obvious HDR experience improvement
+- **Requirement:** Local dimming or high-end VA panel
+- **Investment:** Worth paying for real HDR effects
+
+### Professional Needs (HDR1400+/OLED)
+- **Application:** Professional content creation
+- **Requirement:** Precise HDR performance
+- **Consider:** OLED or high-end MiniLED
+
+---
+
+## ❌ Common HDR Misconceptions
+
+### "HDR is Just More Vibrant Colors"
+- **Reality:** HDR mainly improves brightness gradations
+- **Colors:** More accurate rather than more vibrant
+- **Goal:** Visual experience closer to real world
+
+### "HDR400 is Sufficient"
+- **Reality:** HDR400 improvement is minimal
+- **Advice:** At least HDR600, preferably HDR1000+
+- **Cost-effectiveness:** HDR400 usually not worth extra cost
+
+### "All Content Can Be Improved with HDR"
+- **Reality:** Only HDR content has effects
+- **SDR to HDR:** Algorithm conversion, limited effects
+- **Advice:** Ensure sufficient HDR content sources
+
+**Next Section:** [Color Accuracy](./color-accuracy) - Understanding professional-level color performance 

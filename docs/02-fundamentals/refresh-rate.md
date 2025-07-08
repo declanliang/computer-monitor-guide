@@ -1,159 +1,159 @@
 ---
 sidebar_position: 2
-title: 刷新率
-description: 深入理解刷新率对使用体验的影响
+title: Refresh Rate
+description: Deep understanding of how refresh rate affects user experience
 ---
 
-# 刷新率详解
+# Refresh Rate Explained
 
-## 🔄 什么是刷新率？
+## 🔄 What is Refresh Rate?
 
-刷新率是指**显示器每秒钟更新画面的次数**，单位是赫兹(Hz)。
+Refresh rate refers to **how many times the display updates the image per second**, measured in Hertz (Hz).
 
-**简单理解：** 60Hz = 每秒显示60幅画面，144Hz = 每秒显示144幅画面
+**Simple understanding:** 60Hz = displays 60 images per second, 144Hz = displays 144 images per second
 
-### 常见刷新率等级
-- **60Hz：** 标准刷新率，适合办公和日常使用
-- **75Hz：** 入门级高刷，轻微提升
-- **144Hz：** 游戏甜点，流畅度明显提升
-- **165Hz/180Hz：** 高端游戏显示器
-- **240Hz/360Hz：** 专业电竞级别
-
----
-
-## 👁️ 刷新率对视觉体验的影响
-
-### 1. 动态流畅度
-**高刷新率的优势：**
-- 鼠标移动更跟手
-- 滚动页面更流畅
-- 游戏画面更顺滑
-- 减少动态模糊
-
-### 2. 实际感知差异
-
-| 对比组合 | 感知差异程度 | 适用人群 |
-|----------|-------------|----------|
-| 60Hz → 144Hz | ⭐⭐⭐⭐⭐ 非常明显 | 所有用户都能感知 |
-| 144Hz → 240Hz | ⭐⭐⭐ 明显 | 游戏玩家能感知 |
-| 240Hz → 360Hz | ⭐ 微弱 | 专业选手才能感知 |
+### Common Refresh Rate Levels
+- **60Hz:** Standard refresh rate, suitable for office work and daily use
+- **75Hz:** Entry-level high refresh, slight improvement
+- **144Hz:** Gaming sweet spot, obvious smoothness improvement
+- **165Hz/180Hz:** High-end gaming monitors
+- **240Hz/360Hz:** Professional esports level
 
 ---
 
-## 🎮 不同使用场景的刷新率需求
+## 👁️ How Refresh Rate Affects Visual Experience
 
-### 办公 & 学习
-**推荐刷新率：** 60-75Hz
-**原因：**
-- Word、Excel等软件对刷新率不敏感
-- 60Hz已经足够流畅
-- 高刷新率不会带来明显改善
-- **省钱策略：** 把预算用在色彩准确性上
+### 1. Motion Smoothness
+**Advantages of High Refresh Rate:**
+- Mouse movement more responsive
+- Smoother page scrolling
+- More fluid game visuals
+- Reduced motion blur
 
-### 日常娱乐
-**推荐刷新率：** 75-144Hz
-**原因：**
-- 网页浏览、视频观看有轻微提升
-- 偶尔游戏时有更好体验
-- **平衡点：** 75Hz提供轻微改善，价格不高
+### 2. Actual Perceived Differences
 
-### 竞技游戏
-**推荐刷新率：** 144Hz以上
-**核心优势：**
-- **减少输入延迟：** 更快的响应时间
-- **更流畅的瞄准：** 鼠标移动更精准
-- **减少屏幕撕裂：** 配合同步技术效果更佳
-
-### 3A游戏 (单机大作)
-**推荐刷新率：** 60-144Hz
-**考虑因素：**
-- **显卡性能限制：** 4K下很难达到高帧率
-- **画质优先：** 通常更关注画面效果而非流畅度
-- **性价比平衡：** 60-75Hz配合更好的色彩表现
+| Comparison | Perceived Difference Level | Suitable Users |
+|------------|---------------------------|----------------|
+| 60Hz → 144Hz | ⭐⭐⭐⭐⭐ Very obvious | All users can perceive |
+| 144Hz → 240Hz | ⭐⭐⭐ Obvious | Gamers can perceive |
+| 240Hz → 360Hz | ⭐ Subtle | Only professional players can perceive |
 
 ---
 
-## ⚡ 刷新率与帧率的关系
+## 🎮 Refresh Rate Requirements for Different Use Cases
 
-### 基本概念
-- **刷新率：** 显示器能显示多少帧
-- **帧率：** 显卡实际输出多少帧
+### Office & Study
+**Recommended Refresh Rate:** 60-75Hz
+**Reasons:**
+- Word, Excel, and other software are not sensitive to refresh rate
+- 60Hz is already smooth enough
+- High refresh rate won't bring obvious improvement
+- **Cost-saving Strategy:** Put budget into monitor color accuracy
 
-### 匹配原则
-**最佳体验 = 帧率 ≥ 刷新率**
+### Daily Entertainment
+**Recommended Refresh Rate:** 75-144Hz
+**Reasons:**
+- Slight improvement in web browsing and video watching
+- Better experience when occasionally gaming
+- **Balance Point:** 75Hz provides slight improvement at reasonable price
 
-| 显示器刷新率 | 需要的游戏帧率 | 显卡要求 |
-|-------------|--------------|----------|
-| 60Hz | 60+ FPS | 中等显卡 |
-| 144Hz | 144+ FPS | 高端显卡 |
-| 240Hz | 240+ FPS | 顶级显卡 |
+### Competitive Gaming
+**Recommended Refresh Rate:** 144Hz+
+**Core Advantages:**
+- **Reduced Input Lag:** Faster response time
+- **Smoother Aiming:** More precise mouse movement
+- **Reduced Screen Tearing:** Better effect with sync technology
 
-### 帧率不足的后果
-- **60Hz显示器 + 30FPS游戏：** 明显卡顿
-- **144Hz显示器 + 60FPS游戏：** 浪费高刷新率
-- **解决方案：** 调整游戏画质匹配显卡性能
-
----
-
-## 🔧 技术细节：可变刷新率
-
-### 传统固定刷新率的问题
-当帧率与刷新率不匹配时，会出现：
-- **屏幕撕裂：** 一帧显示多个不同时间点的画面
-- **输入延迟：** 等待下一个刷新周期
-- **卡顿感：** 帧率波动时的不一致体验
-
-### 可变刷新率技术
-**工作原理：** 显示器根据显卡输出帧率调整自己的刷新率
-
-**主要标准：**
-- **G-Sync (NVIDIA)：** 硬件模块实现
-- **FreeSync (AMD)：** 软件实现，成本更低
-- **G-Sync Compatible：** NVIDIA认证的FreeSync显示器
+### AAA Games (Single-player Blockbusters)
+**Recommended Refresh Rate:** 60-144Hz
+**Considerations:**
+- **GPU Performance Limits:** Hard to achieve high frame rates at 4K
+- **Quality Priority:** Usually focus more on visual effects than smoothness
+- **Cost-effectiveness Balance:** 60-75Hz with better color performance
 
 ---
 
-## 💰 选购建议
+## ⚡ Relationship Between Refresh Rate and Frame Rate
 
-### 预算有限 (办公为主)
-- **选择：** 60Hz IPS显示器
-- **理由：** 把钱花在色彩准确性和面板质量上
+### Basic Concepts
+- **Refresh Rate:** How many frames the display can show
+- **Frame Rate:** How many frames the GPU actually outputs
 
-### 预算中等 (偶尔游戏)
-- **选择：** 144Hz显示器
-- **理由：** 性价比甜点，日常使用和游戏都有提升
+### Matching Principle
+**Best Experience = Frame Rate ≥ Refresh Rate**
 
-### 预算充足 (重度游戏)
-- **选择：** 240Hz + G-Sync/FreeSync
-- **理由：** 追求极致游戏体验
+| Display Refresh Rate | Required Game Frame Rate | GPU Requirements |
+|---------------------|-------------------------|------------------|
+| 60Hz | 60+ FPS | Mid-range GPU |
+| 144Hz | 144+ FPS | High-end GPU |
+| 240Hz | 240+ FPS | Top-tier GPU |
 
-### 专业电竞
-- **选择：** 360Hz + 极低延迟
-- **理由：** 追求竞技优势
-
----
-
-## ❌ 常见误区
-
-### "高刷新率对所有人都有用"
-- **实际：** 办公用户感知有限
-- **建议：** 根据实际用途选择
-
-### "刷新率越高越好"
-- **问题：** 忽略显卡性能和预算
-- **建议：** 考虑整体配置平衡
-
-### "60Hz显示器已经过时"
-- **实际：** 对于办公和影音娱乐仍然够用
-- **建议：** 不要被营销话术误导
+### Consequences of Insufficient Frame Rate
+- **60Hz Display + 30FPS Game:** Obvious stuttering
+- **144Hz Display + 60FPS Game:** Wastes high refresh rate
+- **Solution:** Adjust game quality to match GPU performance
 
 ---
 
-## 🛠️ 购买检查清单
+## 🔧 Technical Details: Variable Refresh Rate
 
-1. ✅ 确定主要用途 (办公/游戏/设计)
-2. ✅ 评估显卡性能能否支撑高帧率
-3. ✅ 考虑是否需要同步技术
-4. ✅ 平衡刷新率与其他参数的预算分配
+### Problems with Traditional Fixed Refresh Rate
+When frame rate doesn't match refresh rate, you get:
+- **Screen Tearing:** One frame shows images from different time points
+- **Input Lag:** Waiting for next refresh cycle
+- **Stuttering:** Inconsistent experience when frame rate fluctuates
 
-**下一节：** [响应时间](./response-time) - 了解另一个影响游戏体验的关键参数 
+### Variable Refresh Rate Technology
+**Working Principle:** Display adjusts its refresh rate based on GPU output frame rate
+
+**Main Standards:**
+- **G-Sync (NVIDIA):** Hardware module implementation
+- **FreeSync (AMD):** Software implementation, lower cost
+- **G-Sync Compatible:** NVIDIA-certified FreeSync displays
+
+---
+
+## 💰 Purchase Recommendations
+
+### Limited Budget (Office-focused)
+- **Choice:** 60Hz IPS display
+- **Reason:** Put money into color accuracy and panel quality
+
+### Medium Budget (Occasional Gaming)
+- **Choice:** 144Hz display
+- **Reason:** Sweet spot for cost-effectiveness, improvement for both daily use and gaming
+
+### Sufficient Budget (Heavy Gaming)
+- **Choice:** 240Hz + G-Sync/FreeSync
+- **Reason:** Pursue ultimate gaming experience
+
+### Professional Esports
+- **Choice:** 360Hz + ultra-low latency
+- **Reason:** Pursue competitive advantage
+
+---
+
+## ❌ Common Misconceptions
+
+### "High Refresh Rate is Useful for Everyone"
+- **Reality:** Office users have limited perception
+- **Advice:** Choose based on actual usage
+
+### "Higher Refresh Rate is Always Better"
+- **Problem:** Ignores GPU performance and budget
+- **Advice:** Consider overall configuration balance
+
+### "60Hz Displays are Already Outdated"
+- **Reality:** Still sufficient for office work and entertainment
+- **Advice:** Don't be misled by marketing rhetoric
+
+---
+
+## 🛠️ Purchase Checklist
+
+1. ✅ Determine primary use (office/gaming/design)
+2. ✅ Evaluate if GPU performance can support high frame rates
+3. ✅ Consider if sync technology is needed
+4. ✅ Balance refresh rate budget allocation with other parameters
+
+**Next Section:** [Response Time](./response-time) - Understanding another key parameter that affects gaming experience 

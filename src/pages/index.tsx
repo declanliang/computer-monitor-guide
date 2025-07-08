@@ -23,7 +23,7 @@ function HomepageHeader() {
             className="button button--secondary button--lg"
             to="/docs/intro">
             <Translate id="homepage.startLearning">
-              Start Learning Display Knowledge 📚
+              Start Learning Monitor Knowledge 📚
             </Translate>
           </Link>
         </div>
@@ -37,7 +37,7 @@ export default function Home(): ReactNode {
   return (
     <Layout
       title={`${siteConfig.title}`}
-      description="Understand technology, make informed choices - Systematic learning of display technology knowledge">
+      description="Understand technology, make informed choices - Systematic learning of monitor technology knowledge">
       <HomepageHeader />
       <main>
         <HomepageFeatures />

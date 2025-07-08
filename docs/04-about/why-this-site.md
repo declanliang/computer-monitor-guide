@@ -1,151 +1,151 @@
 ---
 sidebar_position: 1
-title: 为什么创建这个网站
-description: 分享创建这个显示器教科书式指南的初衷和理念
+title: Why This Site Was Created
+description: Sharing the original intention and philosophy behind creating this textbook-style computer monitor guide
 ---
 
-# 为什么创建这个网站？
+# Why Was This Site Created?
 
-## 💭 创建的初衷
+## 💭 Original Intention
 
-### 信息过载的时代困境
+### The Dilemma of Information Overload
 
-在如今的互联网时代，关于显示器的信息可以说是铺天盖地：
-- **营销导向的评测：** 偏向推荐高价产品
-- **参数堆砌：** 一堆数字，但不解释真实含义  
-- **跟风推荐：** "大家都说好"就推荐，缺乏独立思考
-- **碎片化信息：** 零散的知识点，没有系统性
+In today's internet age, information about computer monitors is overwhelming:
+- **Marketing-oriented Reviews:** Biased toward recommending expensive products
+- **Parameter Stacking:** A bunch of numbers without explaining real meaning
+- **Bandwagon Recommendations:** "Everyone says it's good" so they recommend it, lacking independent thinking
+- **Fragmented Information:** Scattered knowledge points without systematic structure
 
-### 我观察到的问题
+### Problems I Observed
 
-作为一个关注显示器技术多年的用户，我发现很多人在选购时都有类似的困惑：
+As someone who has followed computer monitor technology for many years, I found many people have similar confusion when purchasing:
 
-#### 🤔 被参数迷惑
-- "这个显示器1ms响应时间，那个5ms，是不是1ms更好？"
-- "4K分辨率一定比2K好吗？"
-- "144Hz和165Hz能感觉出区别吗？"
+#### 🤔 Confused by Parameters
+- "This monitor has 1ms response time, that one has 5ms, is 1ms better?"
+- "Is 4K resolution definitely better than 2K?"
+- "Can you feel the difference between 144Hz and 165Hz?"
 
-#### 🛒 盲目跟风购买
-- "UP主推荐这款，我也买这款"
-- "销量最高的应该最好吧"
-- "贵的总比便宜的好"
+#### 🛒 Blindly Following Trends
+- "The YouTuber recommended this model, so I'll buy this one"
+- "The best-selling one should be the best, right?"
+- "Expensive is always better than cheap"
 
-#### 💸 预算分配不合理
-- 办公用户花钱买游戏特性
-- 设计师忽视色彩准确性买高刷新率
-- 预算有限却追求全能型产品
-
----
-
-## 🎯 我想解决什么问题？
-
-### 培养独立判断能力
-
-**我的核心理念：授人以鱼不如授人以渔**
-
-与其告诉你"买这款显示器"，不如让你理解：
-- 每个参数的真实含义
-- 不同参数对使用体验的实际影响
-- 如何根据自己的需求权衡取舍
-- 为什么某些"高端参数"可能对你没用
-
-### 打破营销迷思
-
-市场上充斥着各种营销概念，我希望帮助大家看透这些：
-- **"游戏显示器"** → 理解哪些特性真正影响游戏体验
-- **"专业显示器"** → 了解专业需求的具体标准
-- **"高性价比"** → 学会评估真正的性价比
-
-### 提供长期有效的知识
-
-**技术原理比产品推荐更有价值**
-
-产品会更新换代，但技术原理相对稳定。掌握了基础原理，即使面对新技术也能快速理解和判断。
+#### 💸 Unreasonable Budget Allocation
+- Office users spending money on gaming features
+- Designers ignoring color accuracy to buy high refresh rate
+- Limited budget but pursuing all-in-one products
 
 ---
 
-## 📚 为什么选择"教科书"模式？
+## 🎯 What Problems Do I Want to Solve?
 
-### 与"博客"模式的区别
+### Develop Independent Judgment
 
-| 教科书模式 | 博客模式 |
-|----------|----------|
-| 系统性知识体系 | 追踪热点话题 |
-| 原理导向 | 产品导向 |
-| 长期有效 | 时效性强 |
-| 中立客观 | 可能有偏向性 |
-| 深度解析 | 快速获取信息 |
+**My Core Philosophy: Give a man a fish and you feed him for a day; teach a man to fish and you feed him for a lifetime**
 
-### 教科书模式的优势
+Rather than telling you "buy this monitor," I want you to understand:
+- The real meaning of each parameter
+- The actual impact of different parameters on user experience
+- How to weigh trade-offs based on your own needs
+- Why some "high-end parameters" might be useless to you
 
-#### 🧠 系统性学习
-- 从基础概念开始
-- 逐步深入到高级话题
-- 知识点之间有逻辑关联
+### Break Marketing Myths
 
-#### ⚖️ 保持中立
-- 不推广特定品牌
-- 客观分析技术优劣
-- 避免商业利益影响判断
+The market is flooded with various marketing concepts. I hope to help everyone see through these:
+- **"Gaming Monitor"** → Understand which features truly affect gaming experience
+- **"Professional Monitor"** → Learn specific standards for professional needs
+- **"High Cost-effectiveness"** → Learn to evaluate true cost-effectiveness
 
-#### 🔄 持续有效
-- 专注于不变的技术原理
-- 不会因为新产品发布而过时
-- 适应技术发展趋势
+### Provide Long-term Effective Knowledge
+
+**Technical principles are more valuable than product recommendations**
+
+Products will be updated and replaced, but technical principles are relatively stable. Once you master basic principles, you can quickly understand and judge even when facing new technologies.
 
 ---
 
-## 🌍 我的愿景
+## 📚 Why Choose "Textbook" Mode?
 
-### 短期目标
-- 帮助更多人理解显示器技术
-- 减少因信息不对称导致的购买决策失误
-- 建立一个可信赖的知识资源库
+### Differences from "Blog" Mode
 
-### 长期愿景
-- **提升整个行业的透明度：** 当消费者更懂技术，厂商就不能只靠营销概念
-- **推动技术进步：** 理性的消费者需求会引导厂商投入真正有价值的技术研发
-- **建立学习型社区：** 鼓励深度思考和独立判断，而不是人云亦云
+| Textbook Mode | Blog Mode |
+|---------------|-----------|
+| Systematic knowledge system | Track trending topics |
+| Principle-oriented | Product-oriented |
+| Long-term effective | Time-sensitive |
+| Neutral and objective | May have bias |
+| Deep analysis | Quick information access |
 
----
+### Advantages of Textbook Mode
 
-## 🤝 我需要你的参与
+#### 🧠 Systematic Learning
+- Start from basic concepts
+- Gradually progress to advanced topics
+- Logical connections between knowledge points
 
-### 这不是一个人的项目
+#### ⚖️ Maintain Neutrality
+- Don't promote specific brands
+- Objectively analyze technical pros and cons
+- Avoid commercial interests affecting judgment
 
-虽然我负责内容的撰写和维护，但这个网站的价值需要大家共同创造：
-
-#### 📝 反馈和建议
-- 指出内容中的错误或不准确之处
-- 建议需要补充的技术点
-- 分享你的使用体验和见解
-
-#### 🔄 传播有价值的知识
-- 如果觉得有帮助，请分享给需要的朋友
-- 在讨论中引用科学的判断标准
-- 抵制营销导向的错误信息
-
-#### 💡 持续改进
-- 这个网站会持续更新和完善
-- 你的反馈是改进的重要动力
-- 一起打造更好的知识资源
+#### 🔄 Continuously Effective
+- Focus on unchanging technical principles
+- Won't become outdated due to new product releases
+- Adapt to technological development trends
 
 ---
 
-## 🎓 最后的话
+## 🌍 My Vision
 
-**知识的价值在于应用，学习的目的在于独立思考。**
+### Short-term Goals
+- Help more people understand computer monitor technology
+- Reduce purchase decision mistakes caused by information asymmetry
+- Build a trustworthy knowledge resource library
 
-我希望通过这个网站，能够帮助每一位访问者：
-- 不再被复杂的参数困扰
-- 不再盲目跟随他人的推荐
-- 能够根据自己的需求做出理性判断
-- 在面对新技术时有足够的基础去理解
-
-如果你在阅读过程中有任何疑问或建议，欢迎通过各种方式联系我。让我们一起建设一个更理性、更透明的显示器选购环境。
-
-**记住：最适合你的显示器，不是最贵的，也不是最热门的，而是最匹配你需求的。**
+### Long-term Vision
+- **Improve Industry Transparency:** When consumers understand technology better, manufacturers can't rely only on marketing concepts
+- **Promote Technological Progress:** Rational consumer demands will guide manufacturers to invest in truly valuable technology R&D
+- **Build Learning Community:** Encourage deep thinking and independent judgment, not following the crowd
 
 ---
 
-*感谢你的阅读和支持！* 
+## 🤝 I Need Your Participation
+
+### This Isn't a One-person Project
+
+Although I'm responsible for content writing and maintenance, this site's value needs everyone to create together:
+
+#### 📝 Feedback and Suggestions
+- Point out errors or inaccuracies in content
+- Suggest technical points that need supplementation
+- Share your usage experience and insights
+
+#### 🔄 Spread Valuable Knowledge
+- If you find it helpful, please share with friends who need it
+- Reference scientific judgment standards in discussions
+- Resist marketing-oriented misinformation
+
+#### 💡 Continuous Improvement
+- This site will continue to update and improve
+- Your feedback is important motivation for improvement
+- Let's build better knowledge resources together
+
+---
+
+## 🎓 Final Words
+
+**The value of knowledge lies in application, the purpose of learning is independent thinking.**
+
+I hope through this site, I can help every visitor:
+- No longer be confused by complex parameters
+- No longer blindly follow others' recommendations
+- Be able to make rational judgments based on their own needs
+- Have sufficient foundation to understand when facing new technologies
+
+If you have any questions or suggestions during reading, feel free to contact me through various channels. Let's build a more rational, transparent computer monitor purchasing environment together.
+
+**Remember: The monitor most suitable for you is not the most expensive, nor the most popular, but the one that best matches your needs.**
+
+---
+
+*Thank you for reading and supporting!* 
