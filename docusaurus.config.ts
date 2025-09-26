@@ -113,15 +113,16 @@ const config: Config = {
       },
     },
   },
- plugins: [
-      [
-        '@docusaurus/plugin-google-gtag',
-        {
-          trackingID: 'G-K3VJ3GJ888',
-          anonymizeIP: true,
-        },
-      ],
+
+  plugins: [
+    [
+      '@docusaurus/plugin-google-gtag',
+      {
+        trackingID: 'G-K3VJ3GJ888',
+        anonymizeIP: true,
+      },
     ],
+  ],
   presets: [
     [
       'classic',
