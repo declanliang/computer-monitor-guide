@@ -1,19 +1,23 @@
 {
+  "homepage.quickStart": {
+    "message": "Find Your Perfect Monitor 🎯",
+    "description": "Primary button text on homepage"
+  },
   "homepage.startLearning": {
-    "message": "Start Learning Display Knowledge 📚",
-    "description": "Button text on homepage"
+    "message": "Learn the Fundamentals 📚",
+    "description": "Secondary button text on homepage"
   },
-  "homepage.features.systematic.description": {
-    "message": "From basic concepts to advanced technology, a progressive knowledge system. Understand technical principles, not just simple parameter comparisons. Develop independent thinking and judgment skills.",
-    "description": "Description for systematic learning feature"
+  "homepage.features.quickGuide.description": {
+    "message": "Find the perfect monitor for your specific needs - gaming, office work, creative design, or entertainment. Get recommendations based on your use case, not marketing hype.",
+    "description": "Description for quick guide feature"
   },
-  "homepage.features.neutral.description": {
-    "message": "Not biased toward any brand, only focus on technology itself. Objectively analyze the advantages, disadvantages, and applicable scenarios of each technology. Avoid marketing-oriented misleading information.",
-    "description": "Description for technologically neutral feature"
+  "homepage.features.fundamentals.description": {
+    "message": "Understand what monitor specs actually mean and how they affect your experience. Master concepts like resolution, refresh rate, panel types, and color accuracy.",
+    "description": "Description for fundamentals learning feature"
   },
-  "homepage.features.practical.description": {
-    "message": "Theory combined with actual use cases, providing specific purchasing advice. For different needs and budgets, provide the most suitable solutions. Long-term effective knowledge that won't become outdated due to product updates.",
-    "description": "Description for practical orientation feature"
+  "homepage.features.advanced.description": {
+    "message": "Deep dive into professional features like HDR, color accuracy, sync technologies, and ergonomics. Perfect for enthusiasts and professionals.",
+    "description": "Description for advanced topics feature"
   },
   "navbar.guide": {
     "message": "Guide",

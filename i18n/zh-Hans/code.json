@@ -1,19 +1,23 @@
 {
+  "homepage.quickStart": {
+    "message": "找到适合你的显示器 🎯",
+    "description": "Primary button text on homepage"
+  },
   "homepage.startLearning": {
-    "message": "开始学习显示器知识 📚",
-    "description": "Button text on homepage"
+    "message": "学习基础知识 📚",
+    "description": "Secondary button text on homepage"
   },
-  "homepage.features.systematic.description": {
-    "message": "从基础概念到进阶技术，循序渐进的知识体系。理解技术原理，而不是简单的参数对比。培养独立思考和判断能力。",
-    "description": "Description for systematic learning feature"
+  "homepage.features.quickGuide.description": {
+    "message": "根据你的具体需求找到完美的显示器——游戏、办公、创意设计或娱乐。基于使用场景而非营销噱头的专业建议。",
+    "description": "Description for quick guide feature"
   },
-  "homepage.features.neutral.description": {
-    "message": "不偏向任何品牌，只专注技术本身。客观分析每种技术的优劣势和适用场景。避免营销导向的误导信息。",
-    "description": "Description for technologically neutral feature"
+  "homepage.features.fundamentals.description": {
+    "message": "理解显示器规格的真实含义以及它们如何影响你的使用体验。掌握分辨率、刷新率、面板类型和色彩准确度等核心概念。",
+    "description": "Description for fundamentals learning feature"
   },
-  "homepage.features.practical.description": {
-    "message": "理论结合实际使用场景，提供具体的选购建议。针对不同需求和预算，给出最适合的方案。长期有效的知识，不会因产品更新而过时。",
-    "description": "Description for practical orientation feature"
+  "homepage.features.advanced.description": {
+    "message": "深入了解 HDR、色彩准确度、同步技术和人体工程学等专业功能。适合发烧友和专业用户。",
+    "description": "Description for advanced topics feature"
   },
   "navbar.guide": {
     "message": "知识指南",

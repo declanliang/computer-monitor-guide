@@ -20,10 +20,17 @@ function HomepageHeader() {
         <p className="hero__subtitle">{siteConfig.tagline}</p>
         <div className={styles.buttons}>
           <Link
+            className="button button--primary button--lg"
+            to="/docs/quick-guide/by-use-case">
+            <Translate id="homepage.quickStart">
+              Find Your Perfect Monitor 🎯
+            </Translate>
+          </Link>
+          <Link
             className="button button--secondary button--lg"
             to="/docs/intro">
             <Translate id="homepage.startLearning">
-              Start Learning Monitor Knowledge 📚
+              Learn the Fundamentals 📚
             </Translate>
           </Link>
         </div>
@@ -36,8 +43,8 @@ export default function Home(): ReactNode {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`${siteConfig.title}`}
-      description="Understand technology, make informed choices - Systematic learning of monitor technology knowledge">
+      title="Computer Monitor Guide - Choose the Right Monitor"
+      description="Comprehensive guide to understanding computer monitor technology. Learn about resolution, refresh rate, panel types, and make informed purchasing decisions. Find the perfect monitor for gaming, office work, or creative design.">
       <HomepageHeader />
       <main>
         <HomepageFeatures />

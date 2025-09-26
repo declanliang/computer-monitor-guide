@@ -15,10 +15,79 @@ const config: Config = {
   },
 
   // Set the production url of your site here
-  url: 'https://your-docusaurus-site.example.com',
+  url: 'https://www.computer-monitor-guide.com',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
+
+  // Custom head tags for better SEO
+  headTags: [
+    {
+      tagName: 'meta',
+      attributes: {
+        name: 'keywords',
+        content: 'computer monitor, display guide, monitor buying guide, screen technology, gaming monitor, office monitor, 4K monitor, refresh rate, resolution',
+      },
+    },
+    {
+      tagName: 'meta',
+      attributes: {
+        name: 'author',
+        content: 'Computer Monitor Guide',
+      },
+    },
+    {
+      tagName: 'meta',
+      attributes: {
+        property: 'og:type',
+        content: 'website',
+      },
+    },
+    {
+      tagName: 'meta',
+      attributes: {
+        property: 'og:site_name',
+        content: 'Computer Monitor Guide',
+      },
+    },
+    {
+      tagName: 'meta',
+      attributes: {
+        name: 'twitter:card',
+        content: 'summary_large_image',
+      },
+    },
+    {
+      tagName: 'link',
+      attributes: {
+        rel: 'canonical',
+        href: 'https://www.computer-monitor-guide.com',
+      },
+    },
+    // Schema.org structured data
+    {
+      tagName: 'script',
+      attributes: {
+        type: 'application/ld+json',
+      },
+      innerHTML: JSON.stringify({
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "Computer Monitor Guide",
+        "description": "Comprehensive guide to understanding computer monitor technology and making informed purchasing decisions",
+        "url": "https://www.computer-monitor-guide.com",
+        "publisher": {
+          "@type": "Organization",
+          "name": "Computer Monitor Guide"
+        },
+        "potentialAction": {
+          "@type": "SearchAction",
+          "target": "https://www.computer-monitor-guide.com/search?q={search_term_string}",
+          "query-input": "required name=search_term_string"
+        }
+      }),
+    },
+  ],
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -27,6 +96,9 @@ const config: Config = {
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
+
+  // Enable compression and caching
+  staticDirectories: ['static'],
 
   // Internationalization configuration
   i18n: {
@@ -51,23 +123,12 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/computer-monitor-guide/computer-monitor-guide/tree/main/',
+          // Performance optimizations
+          showLastUpdateTime: true,
+          showLastUpdateAuthor: false,
         },
-        blog: {
-          showReadingTime: true,
-          feedOptions: {
-            type: ['rss', 'atom'],
-            xslt: true,
-          },
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
-          // Useful options to enforce blogging best practices
-          onInlineTags: 'warn',
-          onInlineAuthors: 'warn',
-          onUntruncatedBlogPosts: 'warn',
-        },
+        blog: false,
         theme: {
           customCss: './src/css/custom.css',
         },
@@ -76,8 +137,13 @@ const config: Config = {
   ],
 
   themeConfig: {
-    // Replace with your project's social card
-    image: 'img/docusaurus-social-card.jpg',
+    // Custom social card for better sharing
+    image: 'img/computer-monitor-guide-social-card.jpg',
+    metadata: [
+      {name: 'keywords', content: 'computer monitor, display guide, monitor buying guide, screen technology'},
+      {name: 'twitter:creator', content: '@ComputerMonitorGuide'},
+      {property: 'og:image:alt', content: 'Computer Monitor Guide - Understand technology, make informed choices'},
+    ],
     navbar: {
       title: 'Computer Monitor Guide',
       logo: {
@@ -91,7 +157,6 @@ const config: Config = {
           position: 'left',
           label: 'Guide',
         },
-        {to: '/blog', label: 'Blog', position: 'left'},
         {
           href: 'https://github.com/computer-monitor-guide/computer-monitor-guide',
           label: 'GitHub',

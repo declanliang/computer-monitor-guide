@@ -49,10 +49,10 @@ PPI = Diagonal pixel count ÷ Screen size
 
 | Configuration | PPI Value | User Experience |
 |---------------|-----------|-----------------|
-| 24" + 1080P | 92 PPI | ✅ Ideal |
-| 27" + 2K | 109 PPI | ✅ Ideal |
-| 27" + 1080P | 82 PPI | ❌ Obvious graininess |
-| 24" + 4K | 184 PPI | ❌ Font too small |
+| 24" + 1080P | 92 PPI | <span class="status-indicator status-ideal">✅ Ideal</span> |
+| 27" + 2K | 109 PPI | <span class="status-indicator status-ideal">✅ Ideal</span> |
+| 27" + 1080P | 82 PPI | <span class="status-indicator status-error">❌ Obvious graininess</span> |
+| 24" + 4K | 184 PPI | <span class="status-indicator status-warning">⚠️ Font too small</span> |
 
 ---
 

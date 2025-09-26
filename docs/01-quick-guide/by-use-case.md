@@ -10,12 +10,21 @@ description: Quickly filter monitor types based on your primary usage
 
 **Core Requirements:** Comfortable for long-term use, clear text, reasonable price
 
+<div class="spec-card">
+
 ### Recommended Specifications:
 - **Size:** 24-27 inches
 - **Resolution:** 1080P (24") / 2K (27")
 - **Panel:** IPS (accurate colors, good viewing angles)
 - **Refresh Rate:** 60-75Hz (sufficient)
 - **Special Features:** Blue light filter, height-adjustable stand
+
+#### Performance Ratings:
+- **Eye Comfort:** <div class="spec-bar"><div class="spec-bar-fill spec-bar-excellent" style="width: 95%"></div></div>
+- **Value for Money:** <div class="spec-bar"><div class="spec-bar-fill spec-bar-excellent" style="width: 90%"></div></div>
+- **Gaming Performance:** <div class="spec-bar"><div class="spec-bar-fill spec-bar-average" style="width: 60%"></div></div>
+
+</div>
 
 ### Why Choose This?
 - **24-27 inches:** Fits common desk depth, won't cause visual fatigue
