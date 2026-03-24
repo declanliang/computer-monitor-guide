@@ -6,7 +6,7 @@ description: Understanding the actual meaning of monitor brightness and contrast
 
 # Brightness and Contrast Explained
 
-## 💡 Brightness Basics
+## Brightness Basics
 
 ### Brightness Unit: nits (cd/m²)
 **Definition:** Number of candelas per square meter
@@ -20,7 +20,7 @@ description: Understanding the actual meaning of monitor brightness and contrast
 
 ---
 
-## 📊 Monitor Brightness Specifications
+## Monitor Brightness Specifications
 
 ### Typical Brightness Values
 | Monitor Type | Typical Brightness | Suitable Scenarios |
@@ -39,17 +39,17 @@ description: Understanding the actual meaning of monitor brightness and contrast
 
 ---
 
-## ⚫⚪ Contrast Principle
+## � Contrast Principle
 
 ### Contrast Definition
-**Formula:** Contrast = Brightest White ÷ Darkest Black
+**Formula:** Contrast = Brightest White � Darkest Black
 
 ### Contrast Types
 
 #### Static Contrast
 - **Definition:** Ratio of brightest and darkest pixels shown simultaneously
 - **Significance:** Reflects true on-screen contrast capability
-- **Reference Values:** 1000:1 (standard LCD) to ∞:1 (OLED)
+- **Reference Values:** 1000:1 (standard LCD) to �:1 (OLED)
 
 #### Dynamic Contrast
 - **Definition:** Ratio of brightest and darkest images at different times
@@ -58,7 +58,7 @@ description: Understanding the actual meaning of monitor brightness and contrast
 
 ---
 
-## 🔬 Panel Technology Contrast Characteristics
+## Panel Technology Contrast Characteristics
 
 ### IPS Panel
 - **Static Contrast:** 1000:1 - 1200:1
@@ -86,7 +86,7 @@ description: Understanding the actual meaning of monitor brightness and contrast
 
 ---
 
-## 🌃 Impact in Actual Usage
+## Impact in Actual Usage
 
 ### Office Applications
 - **Document Reading:** High contrast reduces eye fatigue
@@ -110,7 +110,7 @@ description: Understanding the actual meaning of monitor brightness and contrast
 
 ---
 
-## 💡 Impact of Backlight Technology on Monitor Brightness and Contrast
+## Impact of Backlight Technology on Monitor Brightness and Contrast
 
 ### Traditional LED Backlight
 - **Structure:** Edge LED + light guide plate
@@ -138,7 +138,7 @@ description: Understanding the actual meaning of monitor brightness and contrast
 
 ---
 
-## 🛠️ Brightness and Contrast Adjustment
+## Brightness and Contrast Adjustment
 
 ### Basic Adjustment Principles
 1. **Environment Adaptation:** Adjust based on room lighting
@@ -165,7 +165,7 @@ description: Understanding the actual meaning of monitor brightness and contrast
 
 ---
 
-## 🎯 Purchase Recommendations
+## Purchase Recommendations
 
 ### Choose by Usage
 
@@ -191,7 +191,7 @@ description: Understanding the actual meaning of monitor brightness and contrast
 
 ---
 
-## ❌ Common Misconceptions
+## Common Misconceptions
 
 ### "Higher Contrast Numbers Are Always Better"
 - **Problem:** Dynamic contrast numbers are inflated
@@ -210,7 +210,7 @@ description: Understanding the actual meaning of monitor brightness and contrast
 
 ---
 
-## 🔍 Testing and Adjustment Methods
+## Testing and Adjustment Methods
 
 ### Professional Testing Tools
 - **Brightness Meter:** Precise screen brightness measurement

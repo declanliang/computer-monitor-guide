@@ -6,7 +6,7 @@ description: Deep understanding of how response time affects gaming experience
 
 # Response Time Explained
 
-## ⏱️ What is Response Time?
+## What is Response Time?
 
 Response time refers to **the time it takes for liquid crystal pixels to change from one color to another**, usually measured in milliseconds (ms).
 
@@ -20,7 +20,7 @@ Response time refers to **the time it takes for liquid crystal pixels to change 
 
 ---
 
-## 🔬 Technical Principles of Response Time
+## Technical Principles of Response Time
 
 ### Measurement Standards
 
@@ -42,7 +42,7 @@ Response time refers to **the time it takes for liquid crystal pixels to change 
 
 ---
 
-## 🎮 How Response Time Affects Gaming
+## How Response Time Affects Gaming
 
 ### Ghosting Phenomenon
 **Manifestation:** Trailing shadows behind fast-moving objects
@@ -76,7 +76,7 @@ Response time refers to **the time it takes for liquid crystal pixels to change 
 
 ---
 
-## 📊 Response Time Characteristics of Different Panels
+## Response Time Characteristics of Different Panels
 
 ### TN Panel
 - **Response Time:** 0.5-1ms
@@ -98,7 +98,7 @@ Response time refers to **the time it takes for liquid crystal pixels to change 
 
 ---
 
-## 🔧 Overdrive Technology Explained
+## Overdrive Technology Explained
 
 ### Working Principle
 **Goal:** Accelerate transitions by applying extra voltage to pixels
@@ -116,7 +116,7 @@ Response time refers to **the time it takes for liquid crystal pixels to change 
 
 ---
 
-## 🎯 How to Choose the Right Response Time?
+## How to Choose the Right Response Time?
 
 ### Choose by Usage
 
@@ -142,7 +142,7 @@ Response time refers to **the time it takes for liquid crystal pixels to change 
 
 ---
 
-## 🔍 Methods for Testing Response Time
+## Methods for Testing Response Time
 
 ### Professional Testing Equipment
 - **High-speed Camera:** Records pixel transition process
@@ -156,7 +156,7 @@ Response time refers to **the time it takes for liquid crystal pixels to change 
 
 ---
 
-## ❌ Common Misconceptions
+## Common Misconceptions
 
 ### "Lower Response Time is Always Better"
 - **Problem:** Ignores Overdrive side effects
@@ -175,7 +175,7 @@ Response time refers to **the time it takes for liquid crystal pixels to change 
 
 ---
 
-## 🛠️ Optimizing Response Time Settings
+## Optimizing Response Time Settings
 
 ### Display Settings
 1. **Enable Game Mode:** Reduce image processing delay

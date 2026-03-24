@@ -6,7 +6,7 @@ description: Sharing the original intention and philosophy behind creating this 
 
 # Why Was This Site Created?
 
-## 💭 Original Intention
+## Original Intention
 
 ### The Dilemma of Information Overload
 
@@ -20,24 +20,24 @@ In today's internet age, information about computer monitors is overwhelming:
 
 As someone who has followed computer monitor technology for many years, I found many people have similar confusion when purchasing:
 
-#### 🤔 Confused by Parameters
+#### Confused by Parameters
 - "This monitor has 1ms response time, that one has 5ms, is 1ms better?"
 - "Is 4K resolution definitely better than 2K?"
 - "Can you feel the difference between 144Hz and 165Hz?"
 
-#### 🛒 Blindly Following Trends
+#### Blindly Following Trends
 - "The YouTuber recommended this model, so I'll buy this one"
 - "The best-selling one should be the best, right?"
 - "Expensive is always better than cheap"
 
-#### 💸 Unreasonable Budget Allocation
+#### Unreasonable Budget Allocation
 - Office users spending money on gaming features
 - Designers ignoring color accuracy to buy high refresh rate
 - Limited budget but pursuing all-in-one products
 
 ---
 
-## 🎯 What Problems Do I Want to Solve?
+## What Problems Do I Want to Solve?
 
 ### Develop Independent Judgment
 
@@ -52,9 +52,9 @@ Rather than telling you "buy this monitor," I want you to understand:
 ### Break Marketing Myths
 
 The market is flooded with various marketing concepts. I hope to help everyone see through these:
-- **"Gaming Monitor"** → Understand which features truly affect gaming experience
-- **"Professional Monitor"** → Learn specific standards for professional needs
-- **"High Cost-effectiveness"** → Learn to evaluate true cost-effectiveness
+- **"Gaming Monitor"** � Understand which features truly affect gaming experience
+- **"Professional Monitor"** � Learn specific standards for professional needs
+- **"High Cost-effectiveness"** � Learn to evaluate true cost-effectiveness
 
 ### Provide Long-term Effective Knowledge
 
@@ -64,7 +64,7 @@ Products will be updated and replaced, but technical principles are relatively s
 
 ---
 
-## 📚 Why Choose "Textbook" Mode?
+## Why Choose "Textbook" Mode?
 
 ### Differences from "Blog" Mode
 
@@ -78,24 +78,24 @@ Products will be updated and replaced, but technical principles are relatively s
 
 ### Advantages of Textbook Mode
 
-#### 🧠 Systematic Learning
+#### Systematic Learning
 - Start from basic concepts
 - Gradually progress to advanced topics
 - Logical connections between knowledge points
 
-#### ⚖️ Maintain Neutrality
+#### Maintain Neutrality
 - Don't promote specific brands
 - Objectively analyze technical pros and cons
 - Avoid commercial interests affecting judgment
 
-#### 🔄 Continuously Effective
+#### Continuously Effective
 - Focus on unchanging technical principles
 - Won't become outdated due to new product releases
 - Adapt to technological development trends
 
 ---
 
-## 🌍 My Vision
+## My Vision
 
 ### Short-term Goals
 - Help more people understand computer monitor technology
@@ -109,30 +109,30 @@ Products will be updated and replaced, but technical principles are relatively s
 
 ---
 
-## 🤝 I Need Your Participation
+## I Need Your Participation
 
 ### This Isn't a One-person Project
 
 Although I'm responsible for content writing and maintenance, this site's value needs everyone to create together:
 
-#### 📝 Feedback and Suggestions
+#### Feedback and Suggestions
 - Point out errors or inaccuracies in content
 - Suggest technical points that need supplementation
 - Share your usage experience and insights
 
-#### 🔄 Spread Valuable Knowledge
+#### Spread Valuable Knowledge
 - If you find it helpful, please share with friends who need it
 - Reference scientific judgment standards in discussions
 - Resist marketing-oriented misinformation
 
-#### 💡 Continuous Improvement
+#### Continuous Improvement
 - This site will continue to update and improve
 - Your feedback is important motivation for improvement
 - Let's build better knowledge resources together
 
 ---
 
-## 🎓 Final Words
+## Final Words
 
 **The value of knowledge lies in application, the purpose of learning is independent thinking.**
 

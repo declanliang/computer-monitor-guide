@@ -6,7 +6,7 @@ description: Deep understanding of color accuracy measurement standards and prof
 
 # Color Accuracy Explained
 
-## ğŸ¯ What is Color Accuracy?
+## What is Color Accuracy?
 
 ### Basic Concept
 **Color Accuracy** = The degree of consistency between colors shown by the monitor and standard colors
@@ -21,17 +21,17 @@ description: Deep understanding of color accuracy measurement standards and prof
 
 ---
 
-## ğŸ“ Color Accuracy Measurement Standards
+## Color Accuracy Measurement Standards
 
-### Delta E (Î”E) Value Explained
+### Delta E (ÎE) Value Explained
 **Definition:** Degree of color difference perceived by human eyes
 
 #### Delta E Grading Standards:
-- **Î”E < 1:** Human eye cannot detect difference
-- **Î”E 1-3:** Trained eyes may detect
-- **Î”E 3-6:** Obvious difference, but still acceptable
-- **Î”E 6-12:** Significant difference, needs correction
-- **Î”E > 12:** Extreme difference, unacceptable
+- **ÎE < 1:** Human eye cannot detect difference
+- **ÎE 1-3:** Trained eyes may detect
+- **ÎE 3-6:** Obvious difference, but still acceptable
+- **ÎE 6-12:** Significant difference, needs correction
+- **ÎE > 12:** Extreme difference, unacceptable
 
 ### Different Delta E Standards
 
@@ -52,9 +52,9 @@ description: Deep understanding of color accuracy measurement standards and prof
 
 ---
 
-## ğŸ¨ Color Accuracy Requirements for Different Applications
+## Color Accuracy Requirements for Different Applications
 
-### Professional Level Requirements (Î”E < 2)
+### Professional Level Requirements (ÎE < 2)
 
 #### Professional Designers
 - **Graphic Design:** Precise brand color reproduction
@@ -64,14 +64,14 @@ description: Deep understanding of color accuracy measurement standards and prof
 #### Photographers
 - **RAW Processing:** Accurate color judgment
 - **Print Output:** Screen consistent with final product
-- **Requirements:** 99% Adobe RGB + Î”E < 1.5
+- **Requirements:** 99% Adobe RGB + ÎE < 1.5
 
 #### Video Production
 - **Color Grading:** Professional color standards
 - **Broadcast Standards:** Rec.709/Rec.2020
 - **Requirements:** Professional reference monitor
 
-### Semi-professional Level (Î”E < 3)
+### Semi-professional Level (ÎE < 3)
 
 #### Amateur Photography
 - **Photo Editing:** Basic color accuracy
@@ -81,9 +81,9 @@ description: Deep understanding of color accuracy measurement standards and prof
 #### Content Creation
 - **Video Production:** YouTubers, content creators
 - **Live Streaming:** Good color performance
-- **Requirements:** 95% sRGB + Î”E < 3
+- **Requirements:** 95% sRGB + ÎE < 3
 
-### Daily Use (Î”E < 6)
+### Daily Use (ÎE < 6)
 
 #### Office Applications
 - **Document Processing:** Basic color output
@@ -97,7 +97,7 @@ description: Deep understanding of color accuracy measurement standards and prof
 
 ---
 
-## ğŸ”¬ Factors Affecting Color Accuracy
+## Factors Affecting Color Accuracy
 
 ### Hardware Factors
 
@@ -131,7 +131,7 @@ description: Deep understanding of color accuracy measurement standards and prof
 
 ---
 
-## ğŸ› ï¸ Color Calibration Methods
+## Color Calibration Methods
 
 ### Hardware Calibration Instruments
 
@@ -139,13 +139,13 @@ description: Deep understanding of color accuracy measurement standards and prof
 - **X-Rite i1Display Pro:** Professional entry-level choice
 - **Datacolor SpyderX:** Simple operation
 - **Price:** $150-300
-- **Accuracy:** Î”E < 1.5
+- **Accuracy:** ÎE < 1.5
 
 #### Professional Calibrators
 - **X-Rite i1Pro:** Professional standard
 - **Konica Minolta CS-200:** Broadcast grade
 - **Price:** $700+
-- **Accuracy:** Î”E < 1
+- **Accuracy:** ÎE < 1
 
 ### Calibration Steps
 
@@ -171,7 +171,7 @@ description: Deep understanding of color accuracy measurement standards and prof
 
 ---
 
-## ğŸ’¡ Professional Display Color Characteristics
+## Professional Display Color Characteristics
 
 ### Professional Grade Certification
 
@@ -200,7 +200,7 @@ description: Deep understanding of color accuracy measurement standards and prof
 
 ---
 
-## ğŸ“Š Color Accuracy Testing Methods
+## Color Accuracy Testing Methods
 
 ### Professional Testing Tools
 - **CalMAN:** Professional calibration and testing software
@@ -221,17 +221,17 @@ description: Deep understanding of color accuracy measurement standards and prof
 
 ---
 
-## ğŸ’° Color Accuracy Cost Considerations
+## Color Accuracy Cost Considerations
 
 ### Budget Allocation Recommendations
 
 #### Entry Professional Level ($700-1400)
-- **Display:** 99% sRGB, Î”E < 3
+- **Display:** 99% sRGB, ÎE < 3
 - **Calibrator:** Entry-level hardware calibrator
 - **Suitable For:** Amateur photography, design learning
 
 #### Professional Level ($1400-2800)
-- **Display:** 99% Adobe RGB, Î”E < 2
+- **Display:** 99% Adobe RGB, ÎE < 2
 - **Calibrator:** Professional calibration equipment
 - **Suitable For:** Professional designers, photographers
 
@@ -242,7 +242,7 @@ description: Deep understanding of color accuracy measurement standards and prof
 
 ---
 
-## âŒ Common Misconceptions
+## Common Misconceptions
 
 ### "Factory Calibration Doesn't Need Re-calibration"
 - **Reality:** Transportation and aging affect accuracy

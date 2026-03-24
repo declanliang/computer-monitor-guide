@@ -1,11 +1,21 @@
 .features {
   display: flex;
   align-items: center;
-  padding: 2rem 0;
+  padding: 1rem 0 4rem;
   width: 100%;
 }
 
+.card {
+  background: linear-gradient(180deg, #ffffff, #f5f9ff);
+  border: 1px solid rgba(25, 118, 210, 0.12);
+  border-radius: 20px;
+  box-shadow: 0 16px 40px rgba(14, 44, 84, 0.08);
+  height: 100%;
+  padding: 2rem 1.5rem;
+}
+
 .featureSvg {
-  height: 200px;
-  width: 200px;
+  height: 140px;
+  margin-bottom: 1rem;
+  width: 140px;
 }

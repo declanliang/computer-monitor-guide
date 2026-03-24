@@ -6,7 +6,7 @@ description: Deep understanding of G-Sync, FreeSync and other variable refresh r
 
 # Sync Technologies Explained
 
-## ğŸ¯ Why Do We Need Sync Technology?
+## Why Do We Need Sync Technology?
 
 ### Problems with Traditional Monitors
 
@@ -25,7 +25,7 @@ Traditional V-Sync solves tearing but brings new problems:
 
 ---
 
-## ğŸ”„ Variable Refresh Rate Technology Principle
+## Variable Refresh Rate Technology Principle
 
 ### Core Concept
 **Make the monitor's refresh rate follow the GPU's frame rate changes**
@@ -37,14 +37,14 @@ Traditional V-Sync solves tearing but brings new problems:
 4. Eliminates tearing and stuttering
 
 ### Technical Advantages
-- âœ… **Eliminates screen tearing**
-- âœ… **Reduces input lag**
-- âœ… **Smooth frame rate transitions**
-- âœ… **Better gaming experience**
+- œ… **Eliminates screen tearing**
+- œ… **Reduces input lag**
+- œ… **Smooth frame rate transitions**
+- œ… **Better gaming experience**
 
 ---
 
-## ğŸ® G-Sync Technology Explained
+## G-Sync Technology Explained
 
 ### G-Sync Original (Hardware Module)
 **Technical Features:**
@@ -83,7 +83,7 @@ Traditional V-Sync solves tearing but brings new problems:
 
 ---
 
-## ğŸ”´ FreeSync Technology Explained
+## FreeSync Technology Explained
 
 ### FreeSync (VESA Adaptive-Sync)
 **Technical Features:**
@@ -114,7 +114,7 @@ Traditional V-Sync solves tearing but brings new problems:
 
 ---
 
-## âš¡ Technical Comparison Analysis
+## Technical Comparison Analysis
 
 | Feature | G-Sync Hardware | G-Sync Compatible | FreeSync Premium |
 |---------|----------------|-------------------|------------------|
@@ -127,7 +127,7 @@ Traditional V-Sync solves tearing but brings new problems:
 
 ---
 
-## ğŸ”§ Technical Details in Actual Usage
+## Technical Details in Actual Usage
 
 ### LFC (Low Framerate Compensation)
 **Problem:** How to handle when frame rate is below sync range minimum?
@@ -150,7 +150,7 @@ Traditional V-Sync solves tearing but brings new problems:
 
 ---
 
-## ğŸ¯ Purchase Recommendations
+## Purchase Recommendations
 
 ### NVIDIA GPU Users
 1. **Sufficient Budget:** G-Sync hardware version
@@ -168,32 +168,32 @@ Traditional V-Sync solves tearing but brings new problems:
 
 ---
 
-## ğŸš« Common Misconceptions and Issues
+## Common Misconceptions and Issues
 
-### âŒ "With Sync Technology, High Refresh Rate Isn't Needed"
+### "With Sync Technology, High Refresh Rate Isn't Needed"
 **Reality:** Sync technology and high refresh rate are complementary
 - Sync technology solves tearing and stuttering
 - High refresh rate provides smoother experience
 
-### âŒ "G-Sync Must Be Better Than FreeSync"
+### "G-Sync Must Be Better Than FreeSync"
 **Reality:** Depends on specific implementation
 - High-end FreeSync products experience close to G-Sync
 - Low-end FreeSync products do have gaps
 
-### âŒ "Sync Technology Affects Frame Rate"
+### "Sync Technology Affects Frame Rate"
 **Reality:** Doesn't reduce frame rate
 - Only changes display timing
 - May slightly increase latency (1-2ms)
 
 ---
 
-## ğŸ› ï¸ Purchase and Setup Recommendations
+## Purchase and Setup Recommendations
 
 ### Pre-purchase Checks
-1. âœ… Confirm GPU brand and model
-2. âœ… Check monitor's supported sync technology
-3. âœ… Confirm sync working range
-4. âœ… Consider budget and cost-effectiveness
+1. œ… Confirm GPU brand and model
+2. œ… Check monitor's supported sync technology
+3. œ… Confirm sync working range
+4. œ… Consider budget and cost-effectiveness
 
 ### Setup Points
 1. **Update Drivers:** Ensure latest GPU drivers

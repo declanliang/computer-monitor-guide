@@ -1,19 +1,14 @@
-facebook:
-  label: Facebook
-  permalink: /facebook
-  description: Facebook tag description
+reviews:
+  label: Reviews
+  permalink: /reviews
+  description: Long-form product reviews for specific monitor models.
 
-hello:
-  label: Hello
-  permalink: /hello
-  description: Hello tag description
+comparisons:
+  label: Comparisons
+  permalink: /comparisons
+  description: Head-to-head comparisons between monitor technologies, sizes, and specs.
 
-docusaurus:
-  label: Docusaurus
-  permalink: /docusaurus
-  description: Docusaurus tag description
-
-hola:
-  label: Hola
-  permalink: /hola
-  description: Hola tag description
+buying-news:
+  label: Buying News
+  permalink: /buying-news
+  description: Time-sensitive monitor buying updates, launches, and market changes.

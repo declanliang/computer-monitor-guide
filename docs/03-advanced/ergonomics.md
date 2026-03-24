@@ -6,7 +6,7 @@ description: Understanding comfortable monitor usage settings and health conside
 
 # Ergonomics Setup Guide
 
-## 👀 Viewing Angle and Distance
+## Viewing Angle and Distance
 
 ### Optimal Viewing Distance
 **Calculation Formula:** Viewing Distance = Screen Diagonal Length × 1.5 - 2.5
@@ -25,7 +25,7 @@ description: Understanding comfortable monitor usage settings and health conside
 
 ---
 
-## 🪑 Height and Angle Adjustment
+## � Height and Angle Adjustment
 
 ### Screen Height Setting
 **Standard Principle:** Screen top edge should be at or slightly below eye level
@@ -43,7 +43,7 @@ description: Understanding comfortable monitor usage settings and health conside
 
 ---
 
-## 💡 Lighting Environment Setup
+## Lighting Environment Setup
 
 ### Ambient Light Control
 **Goal:** Avoid glare and reflection
@@ -62,7 +62,7 @@ description: Understanding comfortable monitor usage settings and health conside
 
 ---
 
-## ⏰ Usage Time and Rest
+## Usage Time and Rest
 
 ### 20-20-20 Rule
 **Every 20 minutes, look at objects 20 feet (6 meters) away for 20 seconds**
@@ -75,7 +75,7 @@ description: Understanding comfortable monitor usage settings and health conside
 
 ---
 
-## 🖱️ Multi-monitor Setup
+## Multi-monitor Setup
 
 ### Dual Monitor Layout
 **Primary-Secondary Distinction:** Main monitor directly facing user
@@ -93,7 +93,7 @@ description: Understanding comfortable monitor usage settings and health conside
 
 ---
 
-## 💺 Overall Workstation Design
+## Overall Workstation Design
 
 ### Desk Height
 **Standard:** Height when elbows naturally hang down
@@ -111,7 +111,7 @@ description: Understanding comfortable monitor usage settings and health conside
 
 ---
 
-## 📱 Special Needs Considerations
+## Special Needs Considerations
 
 ### Elderly Users
 - **Larger Fonts:** 125%-150% scaling
@@ -133,7 +133,7 @@ description: Understanding comfortable monitor usage settings and health conside
 
 ---
 
-## 🔧 Monitor Health Settings
+## Monitor Health Settings
 
 ### Brightness Adjustment
 **Goal:** Match environmental brightness
@@ -156,7 +156,7 @@ description: Understanding comfortable monitor usage settings and health conside
 
 ---
 
-## ⚠️ Health Warnings
+## Health Warnings
 
 ### Eye Fatigue Symptoms
 - **Dry Eyes:** Caused by reduced blinking
@@ -177,7 +177,7 @@ description: Understanding comfortable monitor usage settings and health conside
 
 ---
 
-## 🛠️ Adjustment Tools and Methods
+## Adjustment Tools and Methods
 
 ### Software Tools
 - **Windows Monitor Settings:** Scaling, resolution
@@ -193,7 +193,7 @@ description: Understanding comfortable monitor usage settings and health conside
 
 ---
 
-## 💡 Best Practices Summary
+## Best Practices Summary
 
 ### Daily Use
 1. **Adjust to comfortable position**

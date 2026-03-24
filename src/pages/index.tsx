@@ -5,7 +5,6 @@ import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
 import HomepageFeatures from '@site/src/components/HomepageFeatures';
 import Heading from '@theme/Heading';
-import Translate from '@docusaurus/Translate';
 
 import styles from './index.module.css';
 
@@ -22,16 +21,15 @@ function HomepageHeader() {
           <Link
             className="button button--primary button--lg"
             to="/docs/quick-guide/by-use-case">
-            <Translate id="homepage.quickStart">
-              Find Your Perfect Monitor 🎯
-            </Translate>
+            Start with the Guide
           </Link>
           <Link
             className="button button--secondary button--lg"
-            to="/docs/intro">
-            <Translate id="homepage.startLearning">
-              Learn the Fundamentals 📚
-            </Translate>
+            to="/recommendations">
+            Browse Our Picks
+          </Link>
+          <Link className="button button--outline button--lg" to="/blog">
+            Read Reviews
           </Link>
         </div>
       </div>
@@ -40,11 +38,10 @@ function HomepageHeader() {
 }
 
 export default function Home(): ReactNode {
-  const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
       title="Computer Monitor Guide - Choose the Right Monitor"
-      description="Comprehensive guide to understanding computer monitor technology. Learn about resolution, refresh rate, panel types, and make informed purchasing decisions. Find the perfect monitor for gaming, office work, or creative design.">
+      description="Comprehensive guide to monitor technology, buying criteria, curated recommendations, and long-form reviews.">
       <HomepageHeader />
       <main>
         <HomepageFeatures />

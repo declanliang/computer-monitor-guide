@@ -6,7 +6,7 @@ description: Deep understanding of HDR monitor technology principles, standards,
 
 # HDR Technology Explained
 
-## ğŸŒˆ What is HDR?
+## What is HDR?
 
 ### HDR Basic Concept
 **HDR (High Dynamic Range)** = High Dynamic Range
@@ -20,7 +20,7 @@ description: Deep understanding of HDR monitor technology principles, standards,
 
 ---
 
-## ğŸ“Š HDR vs SDR Comparison
+## HDR vs SDR Comparison
 
 | Feature | SDR (Standard Dynamic Range) | HDR (High Dynamic Range) |
 |---------|------------------------------|--------------------------|
@@ -37,7 +37,7 @@ description: Deep understanding of HDR monitor technology principles, standards,
 
 ---
 
-## ğŸ·ï¸ HDR Standards Explained
+## HDR Standards Explained
 
 ### HDR10 (Most Basic)
 **Technical Features:**
@@ -47,9 +47,9 @@ description: Deep understanding of HDR monitor technology principles, standards,
 - Open standard, free to use
 
 **Advantages/Disadvantages:**
-- âœ… Best compatibility, widest support
-- âœ… No additional licensing fees
-- âŒ Static metadata, limited optimization
+- œ… Best compatibility, widest support
+- œ… No additional licensing fees
+- Static metadata, limited optimization
 
 ### HDR10+ (Dynamic Optimization)
 **Technical Features:**
@@ -59,9 +59,9 @@ description: Deep understanding of HDR monitor technology principles, standards,
 - Samsung-led promotion
 
 **Advantages/Disadvantages:**
-- âœ… Dynamic optimization, better effects
-- âœ… Backward compatible with HDR10
-- âŒ Limited content support
+- œ… Dynamic optimization, better effects
+- œ… Backward compatible with HDR10
+- Limited content support
 
 ### Dolby Vision (High-end Standard)
 **Technical Features:**
@@ -71,14 +71,14 @@ description: Deep understanding of HDR monitor technology principles, standards,
 - Dolby proprietary technology
 
 **Advantages/Disadvantages:**
-- âœ… Most advanced technology, best effects
-- âœ… Relatively complete content ecosystem
-- âŒ Requires licensing fees, high cost
-- âŒ Higher hardware requirements
+- œ… Most advanced technology, best effects
+- œ… Relatively complete content ecosystem
+- Requires licensing fees, high cost
+- Higher hardware requirements
 
 ---
 
-## ğŸ’¡ Monitor HDR Tiers
+## Monitor HDR Tiers
 
 ### HDR400 (Entry Level)
 **Requirements:**
@@ -87,9 +87,9 @@ description: Deep understanding of HDR monitor technology principles, standards,
 - Color gamut: 95% DCI-P3
 
 **Actual Experience:**
-- âŒ Limited improvement, mainly marketing label
-- âŒ No real contrast improvement
-- âš ï¸ Not recommended to pay extra for HDR400
+- Limited improvement, mainly marketing label
+- No real contrast improvement
+- Not recommended to pay extra for HDR400
 
 ### HDR600 (Slight Improvement)
 **Requirements:**
@@ -98,9 +98,9 @@ description: Deep understanding of HDR monitor technology principles, standards,
 - Color gamut: 99% sRGB
 
 **Actual Experience:**
-- ğŸ”¶ Slight improvement, but still not obvious
-- ğŸ”¶ Main improvement in bright scenes
-- âš ï¸ Average cost-effectiveness
+- Slight improvement, but still not obvious
+- Main improvement in bright scenes
+- Average cost-effectiveness
 
 ### HDR1000 (Significant Improvement)
 **Requirements:**
@@ -109,9 +109,9 @@ description: Deep understanding of HDR monitor technology principles, standards,
 - Color gamut: 95% DCI-P3
 
 **Actual Experience:**
-- âœ… Obvious HDR effects
-- âœ… Excellent performance in bright scenes
-- âœ… Worth investing level
+- œ… Obvious HDR effects
+- œ… Excellent performance in bright scenes
+- œ… Worth investing level
 
 ### HDR1400+ (Flagship Level)
 **Requirements:**
@@ -120,13 +120,13 @@ description: Deep understanding of HDR monitor technology principles, standards,
 - Wide color gamut support
 
 **Actual Experience:**
-- âœ… Near professional-level HDR effects
-- âœ… Suitable for professional content creation
-- ğŸ’° Expensive price
+- œ… Near professional-level HDR effects
+- œ… Suitable for professional content creation
+- Expensive price
 
 ---
 
-## ğŸ”§ HDR Monitor Technology Implementation
+## HDR Monitor Technology Implementation
 
 ### Local Dimming (Full Array Local Dimming)
 **Principle:** Divide backlight into multiple independently controlled zones
@@ -143,14 +143,14 @@ description: Deep understanding of HDR monitor technology principles, standards,
 
 ### OLED Technology
 **Advantages:**
-- âœ… Pixel-level control, no blooming
-- âœ… True black performance
-- âœ… Extremely fast response speed
+- œ… Pixel-level control, no blooming
+- œ… True black performance
+- œ… Extremely fast response speed
 
 **Disadvantages:**
-- âŒ Relatively lower peak brightness
-- âŒ Burn-in risk
-- âŒ Expensive price
+- Relatively lower peak brightness
+- Burn-in risk
+- Expensive price
 
 ### MiniLED Technology
 **Features:**
@@ -159,13 +159,13 @@ description: Deep understanding of HDR monitor technology principles, standards,
 - Finer control
 
 **Advantages:**
-- âœ… High brightness + fine control
-- âœ… Lower cost compared to OLED
-- âœ… No burn-in issues
+- œ… High brightness + fine control
+- œ… Lower cost compared to OLED
+- œ… No burn-in issues
 
 ---
 
-## ğŸ® HDR Performance in Different Applications
+## HDR Performance in Different Applications
 
 ### Gaming HDR
 **Support Status:**
@@ -202,10 +202,10 @@ description: Deep understanding of HDR monitor technology principles, standards,
 
 ---
 
-## ğŸ› ï¸ HDR Setup and Optimization
+## HDR Setup and Optimization
 
 ### Windows HDR Settings
-1. **Enable HDR:** Monitor settings â†’ HDR
+1. **Enable HDR:** Monitor settings † HDR
 2. **Brightness Balance:** Adjust SDR content brightness
 3. **Calibration:** Use Windows HDR calibration tool
 
@@ -221,7 +221,7 @@ description: Deep understanding of HDR monitor technology principles, standards,
 
 ---
 
-## ğŸ’° HDR Monitor Purchase Recommendations
+## HDR Monitor Purchase Recommendations
 
 ### Limited Budget (Not Recommended HDR400)
 - **Suggestion:** Focus on other parameters
@@ -245,7 +245,7 @@ description: Deep understanding of HDR monitor technology principles, standards,
 
 ---
 
-## âŒ Common HDR Misconceptions
+## Common HDR Misconceptions
 
 ### "HDR is Just More Vibrant Colors"
 - **Reality:** HDR mainly improves brightness gradations

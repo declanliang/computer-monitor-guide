@@ -6,7 +6,7 @@ description: Quickly filter monitor types based on your primary usage
 
 # Choose Computer Monitor by Use Case
 
-## 🖥️ Daily Office & Study
+## Daily Office & Study
 
 **Core Requirements:** Comfortable for long-term use, clear text, reasonable price
 
@@ -20,9 +20,9 @@ description: Quickly filter monitor types based on your primary usage
 - **Special Features:** Blue light filter, height-adjustable stand
 
 #### Performance Ratings:
-- **Eye Comfort:** <div class="spec-bar"><div class="spec-bar-fill spec-bar-excellent" style="width: 95%"></div></div>
-- **Value for Money:** <div class="spec-bar"><div class="spec-bar-fill spec-bar-excellent" style="width: 90%"></div></div>
-- **Gaming Performance:** <div class="spec-bar"><div class="spec-bar-fill spec-bar-average" style="width: 60%"></div></div>
+- **Eye Comfort:** <div class="spec-bar"><div class="spec-bar-fill spec-bar-excellent spec-bar-width-95"></div></div>
+- **Value for Money:** <div class="spec-bar"><div class="spec-bar-fill spec-bar-excellent spec-bar-width-90"></div></div>
+- **Gaming Performance:** <div class="spec-bar"><div class="spec-bar-fill spec-bar-average spec-bar-width-60"></div></div>
 
 </div>
 
@@ -33,7 +33,7 @@ description: Quickly filter monitor types based on your primary usage
 
 ---
 
-## 🎮 Gaming & Entertainment
+## Gaming & Entertainment
 
 **Core Requirements:** Smooth gaming experience, fast response, immersive feel
 
@@ -59,7 +59,7 @@ description: Quickly filter monitor types based on your primary usage
 
 ---
 
-## 🎨 Design & Creation
+## Design & Creation
 
 **Core Requirements:** Color accuracy, high resolution, large workspace
 
@@ -68,7 +68,7 @@ description: Quickly filter monitor types based on your primary usage
 - **Resolution:** 2K-4K
 - **Panel:** Professional IPS
 - **Color Gamut:** 99% sRGB / Adobe RGB
-- **Color Accuracy:** ΔE < 2
+- **Color Accuracy:** �E < 2
 - **Special Features:** Hardware calibration, preset color modes
 
 ### Why Choose This?
@@ -78,7 +78,7 @@ description: Quickly filter monitor types based on your primary usage
 
 ---
 
-## 📺 Video & Audio Entertainment
+## Video & Audio Entertainment
 
 **Core Requirements:** Large screen, excellent colors, comfortable viewing experience
 
@@ -97,7 +97,7 @@ description: Quickly filter monitor types based on your primary usage
 
 ---
 
-## 💡 Key Selection Points
+## Key Selection Points
 
 1. **Define Primary Use:** Don't be misled by "all-in-one" products
 2. **Reasonable Budget Allocation:** Spend money on the most important parameters
