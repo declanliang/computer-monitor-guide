@@ -100,16 +100,12 @@ const config: Config = {
   // Enable compression and caching
   staticDirectories: ['static'],
 
-  // Internationalization configuration
   i18n: {
     defaultLocale: 'en',
-    locales: ['en', 'zh-Hans'],
+    locales: ['en'],
     localeConfigs: {
       en: {
         htmlLang: 'en',
-      },
-      'zh-Hans': {
-        htmlLang: 'zh-Hans',
       },
     },
   },
@@ -169,10 +165,6 @@ const config: Config = {
         {
           href: 'https://github.com/computer-monitor-guide/computer-monitor-guide',
           label: 'GitHub',
-          position: 'right',
-        },
-        {
-          type: 'localeDropdown',
           position: 'right',
         },
       ],

@@ -2,13 +2,11 @@
 
 A comprehensive guide to understanding computer monitor technology and making informed purchasing decisions.
 
-## 🌍 Multi-language Support
+## Language
 
-This website supports multiple languages:
-- **English** (default) - `/`
-- **中文（简体）** - `/zh-Hans/`
+This website is English-only. All content is maintained in English so terminology and technical explanations stay consistent.
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -27,42 +25,35 @@ npm install
 npm start
 ```
 
-This will start the development server. Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+This starts the development server at [http://localhost:3000](http://localhost:3000).
 
-### Building for Production
+### Build
 
 ```bash
 npm run build
 ```
 
-### Internationalization
-
-To add new translations:
-
-1. Add the new locale to `docusaurus.config.ts` in the `i18n.locales` array
-2. Create translation files in the `i18n/[locale]/` directory
-3. Copy and translate content from the default locale
-
-### Translation Commands
+### Utility Commands
 
 ```bash
-# Write translation files
-npm run write-translations
-
 # Clear cache
 npm run clear
+
+# Type-check the project
+npm run typecheck
 ```
 
-## 📚 Content Structure
+## Content Structure
 
-- **English**: `i18n/en/docusaurus-plugin-content-docs/current/`
-- **Chinese**: `i18n/zh-Hans/docusaurus-plugin-content-docs/current/`
+- `docs/`: primary site content
+- `src/`: homepage components and theme customizations
+- `static/`: images and other static assets
 
-## 🛠️ Built With
+## Built With
 
-- [Docusaurus](https://docusaurus.io/) - The web framework for building documentation websites
-- [React](https://reactjs.org/) - A JavaScript library for building user interfaces
+- [Docusaurus](https://docusaurus.io/)
+- [React](https://react.dev/)
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License.
