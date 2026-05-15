@@ -180,24 +180,24 @@ a {
 
 .content-card h1 {
   font-family: var(--font-ui);
-  font-size: 3.9rem;
+  font-size: 3.05rem;
   font-weight: 850;
-  letter-spacing: -0.045em;
+  letter-spacing: -0.035em;
   margin-bottom: 1.35rem;
 }
 
 .content-card h2 {
   font-family: var(--font-ui);
-  font-size: 2.35rem;
+  font-size: 2rem;
   font-weight: 850;
-  letter-spacing: -0.03em;
+  letter-spacing: -0.025em;
   margin-top: 3.2rem;
 }
 
 .content-card h3 {
   color: #172c44;
   font-family: var(--font-ui);
-  font-size: 1.55rem;
+  font-size: 1.42rem;
   font-weight: 800;
   letter-spacing: -0.02em;
   margin-top: 2rem;
@@ -484,11 +484,11 @@ a {
   }
 
   .content-card h1 {
-    font-size: 2.55rem;
+    font-size: 2.15rem;
   }
 
   .content-card h2 {
-    font-size: 1.9rem;
+    font-size: 1.65rem;
   }
 
   .content-card p,
