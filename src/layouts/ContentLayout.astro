@@ -1,0 +1,51 @@
+---
+import BaseLayout from './BaseLayout.astro';
+import {guideNav, type NavGroup} from '../data/navigation';
+import {schemaByPath} from '../data/schema';
+
+type Props = {
+  title: string;
+  description?: string;
+  keywords?: string[];
+  section: 'docs';
+  activePath?: string;
+  canonicalPath?: string;
+  schema?: unknown;
+};
+
+const {
+  title,
+  description,
+  keywords = [],
+  section,
+  activePath,
+  canonicalPath,
+  schema: schemaOverride,
+} = Astro.props;
+const currentPath = canonicalPath ?? (Astro.url.pathname.replace(/\/$/, '') || '/');
+const navActivePath = activePath ?? currentPath;
+const nav: NavGroup[] = guideNav;
+const schema = schemaOverride ?? schemaByPath[navActivePath] ?? schemaByPath[currentPath];
+const pageTitle = title;
+---
+
+<BaseLayout title={pageTitle} description={description} keywords={keywords} canonicalPath={currentPath} schema={schema}>
+  <main id="main" class="content-shell">
+    <aside class="side-nav" aria-label={`${section} navigation`}>
+      <div class="side-nav-inner">
+        {nav.map((group) => (
+          <section>
+            <h2>{group.label}</h2>
+            {group.items.map((item) => (
+              <a class:list={{active: item.href === navActivePath}} href={item.href}>{item.label}</a>
+            ))}
+          </section>
+        ))}
+      </div>
+    </aside>
+
+    <article class="content-card">
+      <slot />
+    </article>
+  </main>
+</BaseLayout>

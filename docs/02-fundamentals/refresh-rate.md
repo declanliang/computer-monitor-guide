@@ -34,9 +34,9 @@ Refresh rate refers to **how many times the display updates the image per second
 
 | Comparison | Perceived Difference Level | Suitable Users |
 |------------|---------------------------|----------------|
-| 60Hz † 144Hz |  Very obvious | All users can perceive |
-| 144Hz † 240Hz |  Obvious | Gamers can perceive |
-| 240Hz † 360Hz |  Subtle | Only professional players can perceive |
+| 60Hz -> 144Hz | Very obvious | All users can perceive |
+| 144Hz -> 240Hz | Obvious | Gamers can perceive |
+| 240Hz -> 360Hz | Subtle | Only professional players can perceive |
 
 ---
 
@@ -80,7 +80,7 @@ Refresh rate refers to **how many times the display updates the image per second
 - **Frame Rate:** How many frames the GPU actually outputs
 
 ### Matching Principle
-**Best Experience = Frame Rate  Refresh Rate**
+**Best Experience = Frame Rate matches Refresh Rate**
 
 | Display Refresh Rate | Required Game Frame Rate | GPU Requirements |
 |---------------------|-------------------------|------------------|
@@ -151,24 +151,13 @@ When frame rate doesn't match refresh rate, you get:
 
 ## Purchase Checklist
 
-1. œ… Determine primary use (office/gaming/design)
-2. œ… Evaluate if GPU performance can support high frame rates
-3. œ… Consider if sync technology is needed
-4. œ… Balance refresh rate budget allocation with other parameters
+1. Determine primary use (office/gaming/design)
+2. Evaluate if GPU performance can support high frame rates
+3. Consider if sync technology is needed
+4. Balance refresh rate budget allocation with other parameters
 
 **Next Section:** [Response Time](./response-time) - Understanding another key parameter that affects gaming experience 
 
-:::tip Ready to choose?
-Use the recommendation hub to narrow your options before you compare models:
-
-<div class="cta-grid">
-  <a class="cta-card" href="/recommendations/by-type/best-144hz-monitors">
-    <strong>Best 144Hz Monitors</strong>
-    Future roundup for the most practical high-refresh monitors.
-  </a>
-  <a class="cta-card" href="/recommendations/by-use-case/best-monitor-competitive-gaming">
-    <strong>Best Monitor for Competitive Gaming</strong>
-    Future roundup for esports-focused setups with low latency and high refresh.
-  </a>
-</div>
-:::
+<aside class="callout">
+<p><strong>Continue the guide:</strong> After refresh rate, read <a href="./response-time">Response Time</a> to understand motion clarity beyond the Hz number.</p>
+</aside>

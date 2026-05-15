@@ -186,11 +186,11 @@ description: Deep understanding of color gamut concepts and their impact on colo
 
 ### System Color Management
 #### Windows Settings:
-- Color Management † Devices † Add Profile
+- Color Management -> Devices -> Add Profile
 - Ensure correct ICC profile
 
 #### macOS Settings:
-- System Preferences † Displays † Color
+- System Preferences -> Displays -> Color
 - Automatic color management is usually more accurate
 
 ---
@@ -236,17 +236,6 @@ description: Deep understanding of color gamut concepts and their impact on colo
 
 **Next Section:** [Panel Types](./panel-types) - Understanding the characteristics of different panel technologies 
 
-:::tip Ready to choose?
-Use the recommendation hub to connect color requirements with real buying paths:
-
-<div class="cta-grid">
-  <a class="cta-card" href="/recommendations/by-use-case/best-monitor-graphic-design">
-    <strong>Best Monitor for Graphic Design</strong>
-    Future roundup for color-critical design and illustration work.
-  </a>
-  <a class="cta-card" href="/recommendations/by-use-case/best-monitor-video-editing">
-    <strong>Best Monitor for Video Editing</strong>
-    Future roundup for timelines, grading, and high-resolution media work.
-  </a>
-</div>
-:::
+<aside class="callout">
+<p><strong>Continue the guide:</strong> If color work is important, read <a href="../advanced/color-accuracy">Color Accuracy</a> before comparing marketing claims.</p>
+</aside>

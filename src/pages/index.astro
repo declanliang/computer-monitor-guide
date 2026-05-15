@@ -1,0 +1,17 @@
+---
+import ContentLayout from '../layouts/ContentLayout.astro';
+import ByUseCasePage, {frontmatter} from '../../docs/01-quick-guide/by-use-case.md';
+import {schemaByPath} from '../data/schema';
+---
+
+<ContentLayout
+  title={frontmatter.title ?? 'Monitor Buying Guide by Use Case 2026'}
+  description={frontmatter.description}
+  keywords={frontmatter.keywords ?? []}
+  section="docs"
+  activePath="/docs/quick-guide/by-use-case"
+  canonicalPath="/"
+  schema={schemaByPath['/docs/quick-guide/by-use-case']}
+>
+  <ByUseCasePage />
+</ContentLayout>

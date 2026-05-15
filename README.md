@@ -25,7 +25,7 @@ npm install
 npm start
 ```
 
-This starts the development server at [http://localhost:3000](http://localhost:3000).
+This starts the development server at [http://127.0.0.1:4321](http://127.0.0.1:4321) unless another port is selected.
 
 ### Build
 
@@ -33,26 +33,29 @@ This starts the development server at [http://localhost:3000](http://localhost:3
 npm run build
 ```
 
+### Preview Production Build
+
+```bash
+npm run preview
+```
+
 ### Utility Commands
 
 ```bash
-# Clear cache
-npm run clear
-
 # Type-check the project
 npm run typecheck
 ```
 
 ## Content Structure
 
-- `docs/`: primary site content
-- `src/`: homepage components and theme customizations
+- `docs/`: primary guide content, served under `/docs`
+- `src/`: Astro layouts, components, styles, routes, and SEO data
 - `static/`: images and other static assets
 
 ## Built With
 
-- [Docusaurus](https://docusaurus.io/)
-- [React](https://react.dev/)
+- [Astro](https://astro.build/)
+- [MDX](https://mdxjs.com/)
 
 ## License
 

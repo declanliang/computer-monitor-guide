@@ -8,7 +8,7 @@ description: Understanding the actual meaning of monitor brightness and contrast
 
 ## Brightness Basics
 
-### Brightness Unit: nits (cd/mÂ²)
+### Brightness Unit: nits (cd/m2)
 **Definition:** Number of candelas per square meter
 
 ### Common Brightness Reference Values
@@ -39,17 +39,17 @@ description: Understanding the actual meaning of monitor brightness and contrast
 
 ---
 
-## ª Contrast Principle
+## Contrast Principle
 
 ### Contrast Definition
-**Formula:** Contrast = Brightest White Ã Darkest Black
+**Formula:** Contrast = Brightest White / Darkest Black
 
 ### Contrast Types
 
 #### Static Contrast
 - **Definition:** Ratio of brightest and darkest pixels shown simultaneously
 - **Significance:** Reflects true on-screen contrast capability
-- **Reference Values:** 1000:1 (standard LCD) to ž:1 (OLED)
+- **Reference Values:** 1000:1 (standard LCD) to infinite:1 (OLED)
 
 #### Dynamic Contrast
 - **Definition:** Ratio of brightest and darkest images at different times
@@ -149,17 +149,17 @@ description: Understanding the actual meaning of monitor brightness and contrast
 ### Recommended Settings
 
 #### Office Environment
-- **Brightness:** 120-150 cd/mÂ²
+- **Brightness:** 120-150 cd/m2
 - **Contrast:** 80-90%
 - **Environment:** Normal indoor lighting
 
 #### Dim Environment
-- **Brightness:** 80-120 cd/mÂ²
+- **Brightness:** 80-120 cd/m2
 - **Contrast:** 70-80%
 - **Environment:** Night or dark room
 
 #### Bright Environment
-- **Brightness:** 200-300 cd/mÂ²
+- **Brightness:** 200-300 cd/m2
 - **Contrast:** 85-95%
 - **Environment:** Near windows or strong light
 

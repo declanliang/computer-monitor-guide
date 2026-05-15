@@ -11,7 +11,7 @@ description: Sharing the original intention and philosophy behind creating this 
 ### The Dilemma of Information Overload
 
 In today's internet age, information about computer monitors is overwhelming:
-- **Marketing-oriented Reviews:** Biased toward recommending expensive products
+- **Marketing-oriented Buying Lists:** Biased toward recommending expensive products
 - **Parameter Stacking:** A bunch of numbers without explaining real meaning
 - **Bandwagon Recommendations:** "Everyone says it's good" so they recommend it, lacking independent thinking
 - **Fragmented Information:** Scattered knowledge points without systematic structure
@@ -52,9 +52,9 @@ Rather than telling you "buy this monitor," I want you to understand:
 ### Break Marketing Myths
 
 The market is flooded with various marketing concepts. I hope to help everyone see through these:
-- **"Gaming Monitor"** † Understand which features truly affect gaming experience
-- **"Professional Monitor"** † Learn specific standards for professional needs
-- **"High Cost-effectiveness"** † Learn to evaluate true cost-effectiveness
+- **"Gaming Monitor"** - Understand which features truly affect gaming experience
+- **"Professional Monitor"** - Learn specific standards for professional needs
+- **"High Cost-effectiveness"** - Learn to evaluate true cost-effectiveness
 
 ### Provide Long-term Effective Knowledge
 

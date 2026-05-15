@@ -47,8 +47,8 @@ description: Deep understanding of HDR monitor technology principles, standards,
 - Open standard, free to use
 
 **Advantages/Disadvantages:**
-- œ… Best compatibility, widest support
-- œ… No additional licensing fees
+- Best compatibility, widest support
+- No additional licensing fees
 - Static metadata, limited optimization
 
 ### HDR10+ (Dynamic Optimization)
@@ -59,8 +59,8 @@ description: Deep understanding of HDR monitor technology principles, standards,
 - Samsung-led promotion
 
 **Advantages/Disadvantages:**
-- œ… Dynamic optimization, better effects
-- œ… Backward compatible with HDR10
+- Dynamic optimization, better effects
+- Backward compatible with HDR10
 - Limited content support
 
 ### Dolby Vision (High-end Standard)
@@ -71,8 +71,8 @@ description: Deep understanding of HDR monitor technology principles, standards,
 - Dolby proprietary technology
 
 **Advantages/Disadvantages:**
-- œ… Most advanced technology, best effects
-- œ… Relatively complete content ecosystem
+- Most advanced technology, best effects
+- Relatively complete content ecosystem
 - Requires licensing fees, high cost
 - Higher hardware requirements
 
@@ -109,9 +109,9 @@ description: Deep understanding of HDR monitor technology principles, standards,
 - Color gamut: 95% DCI-P3
 
 **Actual Experience:**
-- œ… Obvious HDR effects
-- œ… Excellent performance in bright scenes
-- œ… Worth investing level
+- Obvious HDR effects
+- Excellent performance in bright scenes
+- Worth investing level
 
 ### HDR1400+ (Flagship Level)
 **Requirements:**
@@ -120,8 +120,8 @@ description: Deep understanding of HDR monitor technology principles, standards,
 - Wide color gamut support
 
 **Actual Experience:**
-- œ… Near professional-level HDR effects
-- œ… Suitable for professional content creation
+- Near professional-level HDR effects
+- Suitable for professional content creation
 - Expensive price
 
 ---
@@ -143,9 +143,9 @@ description: Deep understanding of HDR monitor technology principles, standards,
 
 ### OLED Technology
 **Advantages:**
-- œ… Pixel-level control, no blooming
-- œ… True black performance
-- œ… Extremely fast response speed
+- Pixel-level control, no blooming
+- True black performance
+- Extremely fast response speed
 
 **Disadvantages:**
 - Relatively lower peak brightness
@@ -159,9 +159,9 @@ description: Deep understanding of HDR monitor technology principles, standards,
 - Finer control
 
 **Advantages:**
-- œ… High brightness + fine control
-- œ… Lower cost compared to OLED
-- œ… No burn-in issues
+- High brightness + fine control
+- Lower cost compared to OLED
+- No burn-in issues
 
 ---
 
@@ -205,7 +205,7 @@ description: Deep understanding of HDR monitor technology principles, standards,
 ## HDR Setup and Optimization
 
 ### Windows HDR Settings
-1. **Enable HDR:** Monitor settings † HDR
+1. **Enable HDR:** Monitor settings > HDR
 2. **Brightness Balance:** Adjust SDR content brightness
 3. **Calibration:** Use Windows HDR calibration tool
 

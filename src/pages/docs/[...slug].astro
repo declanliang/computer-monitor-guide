@@ -1,0 +1,38 @@
+---
+import ContentLayout from '../../layouts/ContentLayout.astro';
+
+export async function getStaticPaths() {
+  const modules = import.meta.glob('../../../docs/**/*.{md,mdx}');
+  return Object.entries(modules)
+    .filter(([path]) => !path.endsWith('_category_.json') && !path.endsWith('sidebars.ts'))
+    .map(([path, loader]) => {
+      const normalized = path
+        .replace('../../../docs/', '')
+        .replace(/\.(md|mdx)$/, '')
+        .replace(/(^|\/)\d+-/g, '$1')
+        .replace(/\/intro$/, '/intro')
+        .replace(/^intro$/, 'intro');
+      return {
+        params: {slug: normalized},
+        props: {loader},
+      };
+    });
+}
+
+const {loader} = Astro.props;
+const page = (await loader()) as {
+  default: any;
+  frontmatter?: Record<string, any>;
+};
+const Content = page.default;
+const frontmatter = page.frontmatter ?? {};
+---
+
+<ContentLayout
+  title={frontmatter.title ?? 'Computer Monitor Guide'}
+  description={frontmatter.description}
+  keywords={frontmatter.keywords ?? []}
+  section="docs"
+>
+  <Content />
+</ContentLayout>

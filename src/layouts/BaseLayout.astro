@@ -1,0 +1,90 @@
+---
+import '../styles/global.css';
+
+type Props = {
+  title: string;
+  description?: string;
+  keywords?: string[];
+  canonicalPath?: string;
+  schema?: unknown;
+};
+
+const {
+  title,
+  description = 'Neutral, textbook-style monitor buying guides and display technology explainers.',
+  keywords = [],
+  canonicalPath = Astro.url.pathname.replace(/\/$/, ''),
+  schema,
+} = Astro.props;
+
+const siteName = 'Computer Monitor Guide';
+const siteUrl = 'https://www.computer-monitor-guide.com';
+const canonical = `${siteUrl}${canonicalPath === '/' ? '' : canonicalPath}`;
+const fullTitle = title.includes(siteName) ? title : `${title} | ${siteName}`;
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{fullTitle}</title>
+    <meta name="description" content={description} />
+    {keywords.length > 0 && <meta name="keywords" content={keywords.join(', ')} />}
+    <meta name="author" content={siteName} />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content={fullTitle} />
+    <meta property="og:description" content={description} />
+    <meta property="og:url" content={canonical} />
+    <meta property="og:image" content={`${siteUrl}/img/computer-monitor-guide-social-card.jpg`} />
+    <meta property="og:image:alt" content="Computer Monitor Guide - Understand technology, make informed choices" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:creator" content="@ComputerMonitorGuide" />
+    <link rel="canonical" href={canonical} />
+    <link rel="icon" href="/img/favicon.ico" />
+    <script is:inline type="application/ld+json" set:html={JSON.stringify({
+      '@context': 'https://schema.org',
+      '@type': 'WebSite',
+      name: siteName,
+      description: 'Comprehensive guide to understanding computer monitor technology and making informed purchasing decisions',
+      url: siteUrl,
+      publisher: {
+        '@type': 'Organization',
+        name: siteName,
+      },
+    })} />
+    {schema && <script is:inline type="application/ld+json" set:html={JSON.stringify(schema)} />}
+  </head>
+  <body>
+    <a class="skip-link" href="#main">Skip to content</a>
+    <header class="site-header">
+      <a class="brand" href="/" aria-label="Computer Monitor Guide home">
+        <span class="brand-mark"></span>
+        <span>{siteName}</span>
+      </a>
+      <nav class="top-nav" aria-label="Main navigation">
+        <a href="/">Guide</a>
+        <a href="https://github.com/declanliang/computer-monitor-guide">GitHub</a>
+      </nav>
+    </header>
+    <slot />
+    <footer class="site-footer">
+      <div>
+        <h2>Quick Start</h2>
+        <a href="/">Choose by Use Case</a>
+        <a href="/docs/intro">Selection Guide</a>
+      </div>
+      <div>
+        <h2>Core Knowledge</h2>
+        <a href="/docs/fundamentals/size-and-resolution">Fundamentals</a>
+        <a href="/docs/advanced/sync-technologies">Advanced</a>
+      </div>
+      <div>
+        <h2>More</h2>
+        <a href="/docs/about/why-this-site">About This Site</a>
+        <a href="https://github.com/declanliang/computer-monitor-guide">GitHub</a>
+      </div>
+      <p class="copyright">Copyright (c) {new Date().getFullYear()} Computer Monitor Guide. Built with Astro.</p>
+    </footer>
+  </body>
+</html>

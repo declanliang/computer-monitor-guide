@@ -1,0 +1,41 @@
+---
+type Props = {
+  title: string;
+  subtitle: string;
+  specs?: string[];
+  pros?: string[];
+  cons?: string[];
+  bestFor: string;
+};
+
+const {title, subtitle, specs = [], pros = [], cons = [], bestFor} = Astro.props;
+---
+
+<article class="recommendation-card">
+  <div class="recommendation-card__header">
+    <h3>{title}</h3>
+    <p>{subtitle}</p>
+  </div>
+  <div class="recommendation-card__section">
+    <strong>Core Specs</strong>
+    <ul>
+      {specs.map((spec) => <li>{spec}</li>)}
+    </ul>
+  </div>
+  <div class="recommendation-card__grid">
+    <div class="recommendation-card__section">
+      <strong>Pros</strong>
+      <ul>
+        {pros.map((pro) => <li>{pro}</li>)}
+      </ul>
+    </div>
+    <div class="recommendation-card__section">
+      <strong>Cons</strong>
+      <ul>
+        {cons.map((con) => <li>{con}</li>)}
+      </ul>
+    </div>
+  </div>
+  <p class="recommendation-card__best"><strong>Best for:</strong> {bestFor}</p>
+  <div class="recommendation-card__cta"><slot /></div>
+</article>

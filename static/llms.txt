@@ -1,0 +1,17 @@
+# Computer Monitor Guide
+
+> A textbook-style, neutral knowledge base for understanding computer monitor technology.
+
+## Core Knowledge
+
+- [Monitor Buying Guide by Use Case](https://www.computer-monitor-guide.com/docs/quick-guide/by-use-case)
+- [Size and Resolution Guide](https://www.computer-monitor-guide.com/docs/fundamentals/size-and-resolution)
+- [Panel Types: IPS vs VA vs TN](https://www.computer-monitor-guide.com/docs/fundamentals/panel-types)
+- [Interface Types: HDMI vs DisplayPort](https://www.computer-monitor-guide.com/docs/fundamentals/interfaces)
+- [Sync Technologies: G-Sync vs FreeSync](https://www.computer-monitor-guide.com/docs/advanced/sync-technologies)
+- [HDR Technology Explained](https://www.computer-monitor-guide.com/docs/advanced/hdr)
+- [Color Accuracy Guide](https://www.computer-monitor-guide.com/docs/advanced/color-accuracy)
+
+## License
+
+MIT - Content may be used with attribution.

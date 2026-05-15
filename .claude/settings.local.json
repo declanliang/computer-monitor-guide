@@ -5,7 +5,10 @@
       "Bash(git add:*)",
       "Bash(git push:*)",
       "Bash(npm run build:*)",
-      "Bash(npm install:*)"
+      "Bash(npm install:*)",
+      "Bash(find docs:*)",
+      "Bash(find \"c:/Users/liang/Documents/Projects/display_guide/docs\" -name \"*.md\" -exec sed -i 's/^##  /## /g; s/^###  /### /g; s/^####  /#### /g; s/^ Go directly/Go directly/g' {} +)",
+      "Bash(find \"c:/Users/liang/Documents/Projects/display_guide/docs\" -name \"*.md\" -exec sed -i 's/^- ️/- /g; s/^-  /- /g; s/️//g' {} +)"
     ],
     "deny": [],
     "ask": []

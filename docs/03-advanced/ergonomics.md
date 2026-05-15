@@ -9,7 +9,7 @@ description: Understanding comfortable monitor usage settings and health conside
 ## Viewing Angle and Distance
 
 ### Optimal Viewing Distance
-**Calculation Formula:** Viewing Distance = Screen Diagonal Length Ã— 1.5 - 2.5
+**Calculation Formula:** Viewing Distance = Screen Diagonal Length x 1.5 - 2.5
 
 #### Recommended Distances for Different Sizes:
 - **21.5 inches:** 50-65cm
@@ -25,7 +25,7 @@ description: Understanding comfortable monitor usage settings and health conside
 
 ---
 
-## ª Height and Angle Adjustment
+## Height and Angle Adjustment
 
 ### Screen Height Setting
 **Standard Principle:** Screen top edge should be at or slightly below eye level
